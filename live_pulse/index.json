@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated_utc": "2026-11-07T20:48:24Z",
-  "dushanbe_time": "2026-11-08 01:48",
+  "updated_utc": "2026-11-08T00:24:34Z",
+  "dushanbe_time": "2026-11-08 05:24",
   "phone_retention_days": 7,
   "repo_retention_days": 30,
-  "latest_file": "pulse_20261107_20.json.gz",
+  "latest_file": "pulse_20261108_00.json.gz",
   "files_7d": [
     {
       "file": "pulse_20261106_17.json.gz",
@@ -40,7 +40,12 @@
       "file": "pulse_20261107_20.json.gz",
       "utc": "2026-11-07T20:00:00Z",
       "size": 10433
+    },
+    {
+      "file": "pulse_20261108_00.json.gz",
+      "utc": "2026-11-08T00:00:00Z",
+      "size": 10543
     }
   ],
-  "total_monthly_files_in_repo": 7
+  "total_monthly_files_in_repo": 8
 }
