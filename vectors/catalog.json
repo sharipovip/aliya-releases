@@ -1,9 +1,9 @@
 {
   "format": "aliya-micro-vectors-v1",
-  "updated_at": "2026-11-10T19:50:41Z",
-  "total_packs": 254,
+  "updated_at": "2026-11-11T12:59:50Z",
+  "total_packs": 162,
   "total_books_indexed": 15700,
-  "deep_pdfs_processed": 26,
+  "deep_pdfs_processed": 146,
   "packs": [
     {
       "id": "chiston_zarbulmasal",
@@ -20,9 +20,9 @@
         "чистон",
         "шеър"
       ],
-      "chunks": 103,
-      "size_bytes": 43058,
-      "sha256": "12e4096a2bb51165d5c6a1e82798bb74c79c783c299f60700adea52e792df774"
+      "chunks": 344,
+      "size_bytes": 191580,
+      "sha256": "103cafa53f53c5f0336ad53f550b8ee5bb005d4d3eda71d610229a4906315663"
     },
     {
       "id": "darsi_adabiyot_10",
@@ -32,100 +32,14 @@
       "category": "school_textbook",
       "keywords": [
         "10 класс",
-        "adabiyot 10 obl версия 14",
+        "adabiyot 10 obl óñαß¿∩ 14",
         "адабиет",
-        "адабиет с 10",
         "литература",
         "синфи 10"
       ],
-      "chunks": 3,
-      "size_bytes": 1535,
-      "sha256": "86e7f4b714f71a6baa999b0e7063c1837bc03af39ca6f1e8c9a58e4cfedae9b9"
-    },
-    {
-      "id": "darsi_adabiyot_5",
-      "file": "darsi_adabiyot_5.avdb",
-      "title_tg": "Адабиёти тоҷик (синфи 5)",
-      "title_ru": "Таджикская литература (5 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "5 класс",
-        "адабиет",
-        "адабиети точик 2017",
-        "литература",
-        "синфи 5"
-      ],
-      "chunks": 11,
-      "size_bytes": 8152,
-      "sha256": "d2406fb878aed10bbcc3557bad49ebad70cd138964aa7e332eff833d21be9c14"
-    },
-    {
-      "id": "darsi_adabiyot_6",
-      "file": "darsi_adabiyot_6.avdb",
-      "title_tg": "Адабиёти тоҷик (синфи 6)",
-      "title_ru": "Таджикская литература (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "адабиет",
-        "адабиети точик_6",
-        "литература",
-        "синфи 6"
-      ],
-      "chunks": 3,
-      "size_bytes": 2113,
-      "sha256": "862eb981b7b97c710e877929f830a1529da2d90d6c1877bb1f3effa10a3736fb"
-    },
-    {
-      "id": "darsi_adabiyot_7",
-      "file": "darsi_adabiyot_7.avdb",
-      "title_tg": "Адабиёти тоҷик (синфи 7)",
-      "title_ru": "Таджикская литература (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "адабиет",
-        "адабиет синфи 7",
-        "литература",
-        "синфи 7"
-      ],
-      "chunks": 25,
-      "size_bytes": 14512,
-      "sha256": "0bfedfcb15cbd6d7095840344f211311f08c01e550d17f166c2f1ce2e07b015c"
-    },
-    {
-      "id": "darsi_adabiyot_8",
-      "file": "darsi_adabiyot_8.avdb",
-      "title_tg": "Адабиёти тоҷик (синфи 8)",
-      "title_ru": "Таджикская литература (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "адабиет",
-        "адабиет с 8",
-        "литература",
-        "синфи 8"
-      ],
-      "chunks": 34,
-      "size_bytes": 21135,
-      "sha256": "9198528fb6d98f171832d92d9459c46bc8cff85f4cb52b7d441c5dcbf4084aea"
-    },
-    {
-      "id": "darsi_adabiyot_9",
-      "file": "darsi_adabiyot_9.avdb",
-      "title_tg": "Адабиёти тоҷик (синфи 9)",
-      "title_ru": "Таджикская литература (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "адабиет",
-        "адабиет 9  2014",
-        "литература",
-        "синфи 9"
-      ],
-      "chunks": 60,
-      "size_bytes": 37257,
-      "sha256": "cc48e2c049ab97d240997b7bab38224d13f86c4659e47fc5bb37475d7b9efa89"
+      "chunks": 1,
+      "size_bytes": 644,
+      "sha256": "0c9a16aab2e204c011e961f57c78a8662e37343b85a161325cd10119c788c458"
     },
     {
       "id": "darsi_algebra_10",
@@ -135,89 +49,15 @@
       "category": "school_textbook",
       "keywords": [
         "10 класс",
-        "algebra s10 сахифа",
+        "algebra s10 æçòêöç",
         "алгебра",
-        "алгебра с10.",
         "математика",
         "муодила",
         "синфи 10"
       ],
-      "chunks": 400,
-      "size_bytes": 138985,
-      "sha256": "43412cf6fa700e733c4fda29a9a6bfe7b31ee8b578d289f71254ef6efc068a47"
-    },
-    {
-      "id": "darsi_algebra_11",
-      "file": "darsi_algebra_11.avdb",
-      "title_tg": "Алгебра (синфи 11)",
-      "title_ru": "Алгебра (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "алгебра",
-        "алгебра - 11",
-        "математика",
-        "муодила",
-        "синфи 11"
-      ],
       "chunks": 220,
-      "size_bytes": 74862,
-      "sha256": "20ff75801600123ecb2aa1795783453ae9fbc58a6a9ea8bb23ad6c50798c5324"
-    },
-    {
-      "id": "darsi_algebra_7",
-      "file": "darsi_algebra_7.avdb",
-      "title_tg": "Алгебра (синфи 7)",
-      "title_ru": "Алгебра (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "алгебра",
-        "алгебра 7",
-        "математика",
-        "муодила",
-        "синфи 7"
-      ],
-      "chunks": 220,
-      "size_bytes": 88338,
-      "sha256": "d071faedf2a576f33c3dacace810f6f5fb11c9cd06a41bec606566003b88cd10"
-    },
-    {
-      "id": "darsi_algebra_8",
-      "file": "darsi_algebra_8.avdb",
-      "title_tg": "Алгебра (синфи 8)",
-      "title_ru": "Алгебра (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "алгебра",
-        "алгебра 8-2021",
-        "математика",
-        "муодила",
-        "синфи 8"
-      ],
-      "chunks": 85,
-      "size_bytes": 42678,
-      "sha256": "8790613ce1558f2ec689262627a07dc9f12244b40763e3a359da4fb29b4601c6"
-    },
-    {
-      "id": "darsi_algebra_9",
-      "file": "darsi_algebra_9.avdb",
-      "title_tg": "Алгебра (синфи 9)",
-      "title_ru": "Алгебра (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "алгебра",
-        "алгебра 9 .1",
-        "алгебра_синфи_9_тиер",
-        "математика",
-        "муодила",
-        "синфи 9"
-      ],
-      "chunks": 26,
-      "size_bytes": 15404,
-      "sha256": "e8ae233ade86d71129235257c62bc203f5e5b12524a2df37de6021e0e18ebc97"
+      "size_bytes": 77766,
+      "sha256": "65309db8ab6dcf92bcd5af78fc808e53953003aeb63e239274e9c2dbc9977b99"
     },
     {
       "id": "darsi_alifbo_1",
@@ -234,192 +74,7 @@
       ],
       "chunks": 7,
       "size_bytes": 4989,
-      "sha256": "764b31a1e5e198df35e8aeed5e3da0ae47eb62b602d603d3eb29cba66abd427f"
-    },
-    {
-      "id": "darsi_alifbo_2",
-      "file": "darsi_alifbo_2.avdb",
-      "title_tg": "Алифбо (синфи 2)",
-      "title_ru": "Алифбо / Букварь (2 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "2 класс",
-        "алифбо",
-        "букварь",
-        "букварь 2",
-        "синфи 2"
-      ],
-      "chunks": 103,
-      "size_bytes": 55695,
-      "sha256": "27331baba77a81df9a82f16d09130ea36cf3c0428b86bc5e94c59a3ba43529ab"
-    },
-    {
-      "id": "darsi_alifbo_7",
-      "file": "darsi_alifbo_7.avdb",
-      "title_tg": "Алифбо (синфи 7)",
-      "title_ru": "Алифбо / Букварь (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "1алифбои ниегон 7",
-        "7 класс",
-        "алифбо",
-        "букварь",
-        "синфи 7"
-      ],
-      "chunks": 88,
-      "size_bytes": 38998,
-      "sha256": "b85b676d6669d308e3c2ec30194082cc09130bf4d791f567ec6da357830ec471"
-    },
-    {
-      "id": "darsi_biologiya_10",
-      "file": "darsi_biologiya_10.avdb",
-      "title_tg": "Биология (синфи 10)",
-      "title_ru": "Биология (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "биология",
-        "биология 10 2019",
-        "растани",
-        "синфи 10",
-        "хайвонот",
-        "хучайра"
-      ],
-      "chunks": 8,
-      "size_bytes": 5380,
-      "sha256": "fb716d2ec33649d79ec4a034b98fe39a9dfe45e552275810e0ba641e877663b7"
-    },
-    {
-      "id": "darsi_biologiya_11",
-      "file": "darsi_biologiya_11.avdb",
-      "title_tg": "Биология (синфи 11)",
-      "title_ru": "Биология (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "биология",
-        "биологияи умуми 11",
-        "растани",
-        "синфи 11",
-        "хайвонот",
-        "хучайра"
-      ],
-      "chunks": 21,
-      "size_bytes": 11866,
-      "sha256": "18faf9acb01e6309283092a7a4f3aa3b76149aff7bdc1f84a575b22139135422"
-    },
-    {
-      "id": "darsi_biologiya_5",
-      "file": "darsi_biologiya_5.avdb",
-      "title_tg": "Биология (синфи 5)",
-      "title_ru": "Биология (5 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "5 класс",
-        "биология",
-        "ботаника 5",
-        "растани",
-        "синфи 5",
-        "хайвонот",
-        "хучайра"
-      ],
-      "chunks": 18,
-      "size_bytes": 9827,
-      "sha256": "42a4185d51431228e415a555bd7a5501573f0ececf1cff84c691c375e77b7a16"
-    },
-    {
-      "id": "darsi_biologiya_6",
-      "file": "darsi_biologiya_6.avdb",
-      "title_tg": "Биология (синфи 6)",
-      "title_ru": "Биология (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "биология",
-        "ботаника 6",
-        "растани",
-        "синфи 6",
-        "хайвонот",
-        "хучайра"
-      ],
-      "chunks": 58,
-      "size_bytes": 26840,
-      "sha256": "dabf4f961f3ece69fdb763edf54ea2690e7e1ba879d8670a94a86550b6718c65"
-    },
-    {
-      "id": "darsi_biologiya_7",
-      "file": "darsi_biologiya_7.avdb",
-      "title_tg": "Биология (синфи 7)",
-      "title_ru": "Биология (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "биология",
-        "зоология синфи 7",
-        "растани",
-        "синфи 7",
-        "хайвонот",
-        "хучайра"
-      ],
-      "chunks": 9,
-      "size_bytes": 5992,
-      "sha256": "0af1ef7974a1274b88bd24638dae6dfd4d837e8919e2c20d23618f0d853bcd14"
-    },
-    {
-      "id": "darsi_biologiya_8",
-      "file": "darsi_biologiya_8.avdb",
-      "title_tg": "Биология (синфи 8)",
-      "title_ru": "Биология (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "биология",
-        "зоология 8",
-        "растани",
-        "синфи 8",
-        "хайвонот",
-        "хучайра"
-      ],
-      "chunks": 15,
-      "size_bytes": 9944,
-      "sha256": "7ac8f15822dc3992756488d2409e75a9b4404421523e706a66e54c4d5e7df312"
-    },
-    {
-      "id": "darsi_biologiya_9",
-      "file": "darsi_biologiya_9.avdb",
-      "title_tg": "Биология (синфи 9)",
-      "title_ru": "Биология (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "биология",
-        "биология 9 2019",
-        "растани",
-        "синфи 9",
-        "хайвонот",
-        "хучайра"
-      ],
-      "chunks": 7,
-      "size_bytes": 5021,
-      "sha256": "0417e9ca17e27c1e34e1c07e6360cecafd68cba3df1d0f6c4506b0bb21292003"
-    },
-    {
-      "id": "darsi_english_10",
-      "file": "darsi_english_10.avdb",
-      "title_tg": "Забони англисӣ (синфи 10)",
-      "title_ru": "Английский язык (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "english",
-        "англиси  нав 10",
-        "англиси - синфи 10 2021",
-        "забони англиси",
-        "синфи 10"
-      ],
-      "chunks": 31,
-      "size_bytes": 15850,
-      "sha256": "701ac0cbf0a7dd0e8da2562ace7262dca33605e393aec92f42aebb9831656b78"
+      "sha256": "1602a2504836cb3e6edadeab4891490f0657d3a1d534ced2c891147f3fcdaec8"
     },
     {
       "id": "darsi_english_11",
@@ -437,7 +92,7 @@
       ],
       "chunks": 49,
       "size_bytes": 25572,
-      "sha256": "52790649da296a16bffd606f85494bfef45d335b60628280d18d02231e4ad273"
+      "sha256": "886145f40e21d61e4ee7ecd49a8a617902aa700b76255f1438147ad96eb2fff5"
     },
     {
       "id": "darsi_english_3",
@@ -454,7 +109,7 @@
       ],
       "chunks": 1,
       "size_bytes": 447,
-      "sha256": "12ee12b307a33042248866232f5164f9c695720bcc38f42af65c53255f32872a"
+      "sha256": "bf2dddb5282578d11918691bdfdf4915345ff7c6909dbcc9394693dea384ed56"
     },
     {
       "id": "darsi_english_4",
@@ -465,251 +120,13 @@
       "keywords": [
         "4 класс",
         "english",
-        "english 4 саидов 2020",
-        "англиси синфи 4",
+        "english 4 æá¿ñ«ó 2020",
         "забони англиси",
         "синфи 4"
       ],
-      "chunks": 88,
-      "size_bytes": 36394,
-      "sha256": "dd54181b67e014d0605f3ed86526435af459848e0cc61479f00b446307b6152c"
-    },
-    {
-      "id": "darsi_english_6",
-      "file": "darsi_english_6.avdb",
-      "title_tg": "Забони англисӣ (синфи 6)",
-      "title_ru": "Английский язык (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "english",
-        "англиси синфи 6  17. 04.2020",
-        "забони англиси",
-        "забони англиси 6",
-        "синфи 6"
-      ],
-      "chunks": 47,
-      "size_bytes": 23474,
-      "sha256": "2dd5d5e3a3aa76e66b3ff9acaafd0662e2b2b44f34f4000b4ecc1ebd82dc9765"
-    },
-    {
-      "id": "darsi_english_8",
-      "file": "darsi_english_8.avdb",
-      "title_tg": "Забони англисӣ (синфи 8)",
-      "title_ru": "Английский язык (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "english",
-        "англиси 8",
-        "забони англиси",
-        "синфи 8"
-      ],
-      "chunks": 115,
-      "size_bytes": 52493,
-      "sha256": "4ef3f4250698e65e2deb5ddfa9736d47701a40b7b6a630d71ecc06dd8df62008"
-    },
-    {
-      "id": "darsi_english_9",
-      "file": "darsi_english_9.avdb",
-      "title_tg": "Забони англисӣ (синфи 9)",
-      "title_ru": "Английский язык (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "english",
-        "забони англиси",
-        "забони англиси 9",
-        "синфи 9"
-      ],
-      "chunks": 120,
-      "size_bytes": 54912,
-      "sha256": "f81d6620aa6bce5aca55173987adcff0ae30b81f18411b4c7d02c9dd97698cf1"
-    },
-    {
-      "id": "darsi_fizika_10",
-      "file": "darsi_fizika_10.avdb",
-      "title_tg": "Физика (синфи 10)",
-      "title_ru": "Физика (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "барк",
-        "кувва",
-        "синфи 10",
-        "физика",
-        "физика - 10 2022",
-        "физика 10"
-      ],
-      "chunks": 244,
-      "size_bytes": 104104,
-      "sha256": "6db742db0bee4d5f410fe29c935c4f61b22f3123f7b9c9182d2f0c8d3ba10710"
-    },
-    {
-      "id": "darsi_fizika_11",
-      "file": "darsi_fizika_11.avdb",
-      "title_tg": "Физика (синфи 11)",
-      "title_ru": "Физика (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "барк",
-        "кувва",
-        "синфи 11",
-        "физика",
-        "физика 11"
-      ],
-      "chunks": 146,
-      "size_bytes": 67156,
-      "sha256": "ae9c8d40503f94ae27bdc3ec75694833ff77065ac92b28401f94d5cb61e36894"
-    },
-    {
-      "id": "darsi_fizika_7",
-      "file": "darsi_fizika_7.avdb",
-      "title_tg": "Физика (синфи 7)",
-      "title_ru": "Физика (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "барк",
-        "кувва",
-        "синфи 7",
-        "физика",
-        "физика 7 (2)"
-      ],
-      "chunks": 220,
-      "size_bytes": 98382,
-      "sha256": "40ab878aa8a34e50dee466406d121e55524d8c4537cd7a7fd6ed164547e6dba8"
-    },
-    {
-      "id": "darsi_fizika_8",
-      "file": "darsi_fizika_8.avdb",
-      "title_tg": "Физика (синфи 8)",
-      "title_ru": "Физика (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "барк",
-        "кувва",
-        "синфи 8",
-        "физика",
-        "физика 8"
-      ],
-      "chunks": 12,
-      "size_bytes": 7793,
-      "sha256": "3a2f32ac9295fcf1bfa093ea294cec7bb7b041802d8480797b743f0fb6ebdecf"
-    },
-    {
-      "id": "darsi_fizika_9",
-      "file": "darsi_fizika_9.avdb",
-      "title_tg": "Физика (синфи 9)",
-      "title_ru": "Физика (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "барк",
-        "кувва",
-        "синфи 9",
-        "физика",
-        "физика 9",
-        "физика синфи 9 блок"
-      ],
-      "chunks": 162,
-      "size_bytes": 70932,
-      "sha256": "3d2c6a4b31e9c8021acefd639b849e848e02311d50e69ec96b19e1b1efe14bbb"
-    },
-    {
-      "id": "darsi_geometriya_10",
-      "file": "darsi_geometriya_10.avdb",
-      "title_tg": "Геометрия (синфи 10)",
-      "title_ru": "Геометрия (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "геометрия",
-        "геометрия 10(вазорат) 2021",
-        "синфи 10",
-        "теорема",
-        "шакл"
-      ],
-      "chunks": 220,
-      "size_bytes": 81950,
-      "sha256": "32ba1b24279526e9a54444a0de52391dec8abc46ff1b110e812bf2b29c4a0e23"
-    },
-    {
-      "id": "darsi_geometriya_11",
-      "file": "darsi_geometriya_11.avdb",
-      "title_tg": "Геометрия (синфи 11)",
-      "title_ru": "Геометрия (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "геометрия",
-        "геометрия-11",
-        "синфи 11",
-        "теорема",
-        "шакл"
-      ],
-      "chunks": 220,
-      "size_bytes": 84458,
-      "sha256": "39cbfd8e834dfe5e24470cf5112a7a06da27475a2b148bb036772c757e5863a8"
-    },
-    {
-      "id": "darsi_geometriya_7",
-      "file": "darsi_geometriya_7.avdb",
-      "title_tg": "Геометрия (синфи 7)",
-      "title_ru": "Геометрия (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "геометрия",
-        "геометрия - 7 2022",
-        "геометрия 7",
-        "синфи 7",
-        "теорема",
-        "шакл"
-      ],
-      "chunks": 7,
-      "size_bytes": 4007,
-      "sha256": "9678914b56857db256d2dc6af30bcda098d690b45727f778ed1ed0d237c24add"
-    },
-    {
-      "id": "darsi_geometriya_8",
-      "file": "darsi_geometriya_8.avdb",
-      "title_tg": "Геометрия (синфи 8)",
-      "title_ru": "Геометрия (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "геометрия",
-        "геометрия 8",
-        "геометрия 8 1-68",
-        "синфи 8",
-        "теорема",
-        "шакл"
-      ],
-      "chunks": 20,
-      "size_bytes": 10519,
-      "sha256": "e4a815ecc8291ebcd1ff4e9a52b230d71a1f27b3e26317a7bfa80424fc55eada"
-    },
-    {
-      "id": "darsi_geometriya_9",
-      "file": "darsi_geometriya_9.avdb",
-      "title_tg": "Геометрия (синфи 9)",
-      "title_ru": "Геометрия (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "геометрия",
-        "геометрия 9",
-        "геометрия 9 нав 19-03-2021",
-        "синфи 9",
-        "теорема",
-        "шакл"
-      ],
-      "chunks": 64,
-      "size_bytes": 29033,
-      "sha256": "dd2130d35fb10083b815a72ecbf9f759d771e8c6096d1c1a20036da9dcecb17f"
+      "chunks": 55,
+      "size_bytes": 22646,
+      "sha256": "ef8ba8c961a560433aafba5b23bf8d7636e9ef07f07974841dba8d79eae8cca8"
     },
     {
       "id": "darsi_huquq_10",
@@ -723,12 +140,11 @@
         "право",
         "синфи 10",
         "хукук",
-        "хукук 10",
         "хукуки инсон синфи 10 23.02.22"
       ],
-      "chunks": 13,
-      "size_bytes": 7012,
-      "sha256": "934fcea880d4e34bf17ec9ccb51f69435331bce1f66705894701bf26946d9590"
+      "chunks": 10,
+      "size_bytes": 5833,
+      "sha256": "2dfdef1fac95a2af733db6c2b05dc20af30d977b39d95156849ed686c7048f09"
     },
     {
       "id": "darsi_huquq_11",
@@ -742,353 +158,11 @@
         "право",
         "синфи 11",
         "хукук",
-        "хукук 11",
         "хукук инсон синфи 11"
       ],
-      "chunks": 16,
-      "size_bytes": 8552,
-      "sha256": "326056c15835658405e9c0ab7c755d0bad13ac227c1ad1647549e5da6b380dc3"
-    },
-    {
-      "id": "darsi_huquq_8",
-      "file": "darsi_huquq_8.avdb",
-      "title_tg": "Ҳуқуқ ва инсон (синфи 8)",
-      "title_ru": "Право человека (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "конститутсия",
-        "право",
-        "синфи 8",
-        "хукук"
-      ],
-      "chunks": 6,
-      "size_bytes": 3656,
-      "sha256": "fe1d1ed2700d63ae3378f4b2ca9c0d9f9fc3b43e1f63af1acdf77b224675cd35"
-    },
-    {
-      "id": "darsi_huquq_9",
-      "file": "darsi_huquq_9.avdb",
-      "title_tg": "Ҳуқуқ ва инсон (синфи 9)",
-      "title_ru": "Право человека (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "конститутсия",
-        "право",
-        "синфи 9",
-        "хукук",
-        "хукук с 9."
-      ],
-      "chunks": 9,
-      "size_bytes": 5455,
-      "sha256": "eaa0213463e39691268a55c91d809236cb5c683bc5d53803c18a36e5b6d63bd0"
-    },
-    {
-      "id": "darsi_it_10",
-      "file": "darsi_it_10.avdb",
-      "title_tg": "Технологияи иттилоотӣ (синфи 10)",
-      "title_ru": "Информатика (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "информатика",
-        "компьютер",
-        "компютер",
-        "синфи 10",
-        "технологияи иттилооти",
-        "технологияи иттилооти 10",
-        "технологияи иттилооти 10 а3"
-      ],
-      "chunks": 73,
-      "size_bytes": 37692,
-      "sha256": "e8e728c71cdaff48a5d924eaaebc5e19e8aac524d619d5d534e29de5129e987a"
-    },
-    {
-      "id": "darsi_it_11",
-      "file": "darsi_it_11.avdb",
-      "title_tg": "Технологияи иттилоотӣ (синфи 11)",
-      "title_ru": "Информатика (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "информатика",
-        "компьютер",
-        "компютер",
-        "синфи 11",
-        "технологияи иттилооти",
-        "технологияи иттилооти  11"
-      ],
-      "chunks": 78,
-      "size_bytes": 39406,
-      "sha256": "4520b74b10d7a38d1c9bb1f3f26cdf758279f4b6ecc3fcb2db9994096ca0de50"
-    },
-    {
-      "id": "darsi_it_7",
-      "file": "darsi_it_7.avdb",
-      "title_tg": "Технологияи иттилоотӣ (синфи 7)",
-      "title_ru": "Информатика (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "информатика",
-        "компьютер",
-        "компютер",
-        "синфи 7",
-        "технологияи иттилооти",
-        "технологияи иттилооти - синфи 7 2021"
-      ],
-      "chunks": 220,
-      "size_bytes": 92657,
-      "sha256": "8c460be09c684fd56b46a41f4ccd2ee7c9215fbb8277a85cd35bedfc929ea73c"
-    },
-    {
-      "id": "darsi_it_8",
-      "file": "darsi_it_8.avdb",
-      "title_tg": "Технологияи иттилоотӣ (синфи 8)",
-      "title_ru": "Информатика (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "информатика",
-        "компьютер",
-        "компютер",
-        "синфи 8",
-        "техналогияи иттилооти cинфи 8",
-        "технологияи иттилооти"
-      ],
-      "chunks": 220,
-      "size_bytes": 107358,
-      "sha256": "3f4926b235d356e8f67e87d5d3c604af221136a588c614854f12f10e293e07dd"
-    },
-    {
-      "id": "darsi_it_9",
-      "file": "darsi_it_9.avdb",
-      "title_tg": "Технологияи иттилоотӣ (синфи 9)",
-      "title_ru": "Информатика (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "информатика",
-        "компьютер",
-        "компютер",
-        "синфи 9",
-        "технологияи иттилооти",
-        "технологияи иттилооти синфи 9 06.01.2020"
-      ],
-      "chunks": 87,
-      "size_bytes": 42425,
-      "sha256": "0401cefad84732cc250c947c45c0f27c8b00b8d762bcce664ff8121be516d2df"
-    },
-    {
-      "id": "darsi_jugrofiya_10",
-      "file": "darsi_jugrofiya_10.avdb",
-      "title_tg": "Ҷуғрофия (синфи 10)",
-      "title_ru": "География (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "география",
-        "географияи синфи 10",
-        "синфи 10",
-        "чугрофия"
-      ],
-      "chunks": 6,
-      "size_bytes": 3715,
-      "sha256": "d579cedd67da9e726da94d8a9c894b1f45c1e3a2f66787d6709918ee9a9c21e9"
-    },
-    {
-      "id": "darsi_jugrofiya_11",
-      "file": "darsi_jugrofiya_11.avdb",
-      "title_tg": "Ҷуғрофия (синфи 11)",
-      "title_ru": "География (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "география",
-        "география с11",
-        "синфи 11",
-        "чугрофия"
-      ],
-      "chunks": 32,
-      "size_bytes": 17443,
-      "sha256": "0662a499a51242e765f713845e11a083b5be73c9c093cbc6a75dc0637e1e44aa"
-    },
-    {
-      "id": "darsi_jugrofiya_6",
-      "file": "darsi_jugrofiya_6.avdb",
-      "title_tg": "Ҷуғрофия (синфи 6)",
-      "title_ru": "География (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "география",
-        "география синфи 6 2022",
-        "синфи 6",
-        "чугрофия"
-      ],
-      "chunks": 7,
-      "size_bytes": 4392,
-      "sha256": "0f169465f765ba0d0e33c3451e8e37f6deccfaecc04a8470045dbd59db43cb26"
-    },
-    {
-      "id": "darsi_jugrofiya_7",
-      "file": "darsi_jugrofiya_7.avdb",
-      "title_tg": "Ҷуғрофия (синфи 7)",
-      "title_ru": "География (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "география",
-        "география 7",
-        "синфи 7",
-        "чугрофия"
-      ],
-      "chunks": 4,
-      "size_bytes": 2956,
-      "sha256": "518608f1f01e76e78d6cac9192e9dbf54f4bafa50299db10dd639f42763178d3"
-    },
-    {
-      "id": "darsi_jugrofiya_8",
-      "file": "darsi_jugrofiya_8.avdb",
-      "title_tg": "Ҷуғрофия (синфи 8)",
-      "title_ru": "География (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "география",
-        "география 8 - 2014",
-        "синфи 8",
-        "чугрофия"
-      ],
-      "chunks": 17,
-      "size_bytes": 11403,
-      "sha256": "725f0283bef73291b74a3bc24d8ff0cbcb1a2d06c5cc87e1ba47f9ced4af98b9"
-    },
-    {
-      "id": "darsi_jugrofiya_9",
-      "file": "darsi_jugrofiya_9.avdb",
-      "title_tg": "Ҷуғрофия (синфи 9)",
-      "title_ru": "География (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "география",
-        "география 9",
-        "синфи 9",
-        "чугрофия"
-      ],
-      "chunks": 5,
-      "size_bytes": 3542,
-      "sha256": "2acb25a07c097dca6226244fc18aa6a944f5cc14b33580e510bbaa2a0b355c52"
-    },
-    {
-      "id": "darsi_matematika_1",
-      "file": "darsi_matematika_1.avdb",
-      "title_tg": "Математика (синфи 1)",
-      "title_ru": "Математика (1 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "1 класс",
-        "математика",
-        "математика синфи 1",
-        "риези",
-        "синфи 1",
-        "хисоб"
-      ],
-      "chunks": 60,
-      "size_bytes": 25581,
-      "sha256": "783fd4e83c4ed3cc0f770c2a524ffe6618a08460b8cc2f73431c0c43184c91d2"
-    },
-    {
-      "id": "darsi_matematika_2",
-      "file": "darsi_matematika_2.avdb",
-      "title_tg": "Математика (синфи 2)",
-      "title_ru": "Математика (2 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "2 класс",
-        "математика",
-        "математика с 2 2019",
-        "риези",
-        "синфи 2",
-        "хисоб"
-      ],
-      "chunks": 162,
-      "size_bytes": 64366,
-      "sha256": "52ba0b5c5c732509e0960c4c92392bce79f291cb4619971f93d868565f1aefcc"
-    },
-    {
-      "id": "darsi_matematika_3",
-      "file": "darsi_matematika_3.avdb",
-      "title_tg": "Математика (синфи 3)",
-      "title_ru": "Математика (3 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "3 класс",
-        "математика",
-        "математика - 3 2022",
-        "риези",
-        "синфи 3",
-        "хисоб"
-      ],
-      "chunks": 114,
-      "size_bytes": 53245,
-      "sha256": "b9f83d65e6eb8e71ed4fb80e51842818fb62b40a0dcb53bd0cbc77cbd498a78c"
-    },
-    {
-      "id": "darsi_matematika_4",
-      "file": "darsi_matematika_4.avdb",
-      "title_tg": "Математика (синфи 4)",
-      "title_ru": "Математика (4 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "4 класс",
-        "математика",
-        "математика синфи 4 2019",
-        "риези",
-        "синфи 4",
-        "хисоб"
-      ],
-      "chunks": 220,
-      "size_bytes": 94673,
-      "sha256": "fcf717b8afd48aee34620db3a07531e007ce90fcf122cdd492e5c1c95ee88e17"
-    },
-    {
-      "id": "darsi_matematika_5",
-      "file": "darsi_matematika_5.avdb",
-      "title_tg": "Математика (синфи 5)",
-      "title_ru": "Математика (5 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "5 класс",
-        "математика",
-        "математика синфи 5",
-        "риези",
-        "синфи 5",
-        "хисоб"
-      ],
-      "chunks": 170,
-      "size_bytes": 82286,
-      "sha256": "c1c90493080f10b7346aaa2fc4c8f46017b2badbe4dcf7153c8cdbdb18da8955"
-    },
-    {
-      "id": "darsi_tabiat_1",
-      "file": "darsi_tabiat_1.avdb",
-      "title_tg": "Табиатшиносӣ (синфи 1)",
-      "title_ru": "Природоведение (1 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "1 класс",
-        "природа",
-        "синфи 1",
-        "табиатшиноси",
-        "табиатшиноси синфи 1 2021",
-        "экология"
-      ],
-      "chunks": 12,
-      "size_bytes": 7028,
-      "sha256": "0dfa34b3082c624cd24d5b9f1daf4dfb052df1f2b56324225d43639757e941bc"
+      "chunks": 14,
+      "size_bytes": 8024,
+      "sha256": "ec394b7b810d38328b084e6af117b0170d09c8999ca4d3f6613b27fbc4ef896c"
     },
     {
       "id": "darsi_tabiat_2",
@@ -1106,309 +180,7 @@
       ],
       "chunks": 25,
       "size_bytes": 14207,
-      "sha256": "e914e26e6b377fda8cbca31fc14e11cc4e1cf09114c0423d8892653d8944184e"
-    },
-    {
-      "id": "darsi_tabiat_3",
-      "file": "darsi_tabiat_3.avdb",
-      "title_tg": "Табиатшиносӣ (синфи 3)",
-      "title_ru": "Природоведение (3 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "3 класс",
-        "природа",
-        "синфи 3",
-        "табиатшиноси",
-        "табиатшиноси синфи 3",
-        "экология"
-      ],
-      "chunks": 7,
-      "size_bytes": 4504,
-      "sha256": "dabb8b077abe28fbac189e686b4bea2ba5089e19db00013087fa4d66dfe11e77"
-    },
-    {
-      "id": "darsi_tabiat_4",
-      "file": "darsi_tabiat_4.avdb",
-      "title_tg": "Табиатшиносӣ (синфи 4)",
-      "title_ru": "Природоведение (4 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "4 класс",
-        "природа",
-        "синфи 4",
-        "табиатшиноси",
-        "табиатшиноси синфи 4",
-        "экология"
-      ],
-      "chunks": 51,
-      "size_bytes": 26944,
-      "sha256": "a2cd221a231d2cd2bf2df6eecd3bf4415ae8a649efa83822a93a390333d6d75b"
-    },
-    {
-      "id": "darsi_tabiat_9",
-      "file": "darsi_tabiat_9.avdb",
-      "title_tg": "Табиатшиносӣ (синфи 9)",
-      "title_ru": "Природоведение (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "природа",
-        "синфи 9",
-        "табиатшиноси",
-        "экология",
-        "экология 9 класс 23.04.2019"
-      ],
-      "chunks": 70,
-      "size_bytes": 33219,
-      "sha256": "96283e830df65e9c921da42a7348ad83c3be58582839b4574089a78ffada16d0"
-    },
-    {
-      "id": "darsi_tarixi_tojik_10",
-      "file": "darsi_tarixi_tojik_10.avdb",
-      "title_tg": "Таърихи халқи тоҷик (синфи 10)",
-      "title_ru": "История таджикского народа (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "история",
-        "синфи 10",
-        "таърих",
-        "таърихи х. точик с 10",
-        "таърихи халки точик"
-      ],
-      "chunks": 9,
-      "size_bytes": 6129,
-      "sha256": "aa38d0dc9e606131013bbbce198f7c2de0608f87d4f35db136dbf368ea1e26a4"
-    },
-    {
-      "id": "darsi_tarixi_tojik_11",
-      "file": "darsi_tarixi_tojik_11.avdb",
-      "title_tg": "Таърихи халқи тоҷик (синфи 11)",
-      "title_ru": "История таджикского народа (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "история",
-        "синфи 11",
-        "таърих",
-        "таърихи халки точик",
-        "таърихи халки точик 11"
-      ],
-      "chunks": 7,
-      "size_bytes": 4825,
-      "sha256": "5f0870b6f25c95d828b5b5a5be3f589f09e34481e609051f21f3a5260d3faa17"
-    },
-    {
-      "id": "darsi_tarixi_tojik_5",
-      "file": "darsi_tarixi_tojik_5.avdb",
-      "title_tg": "Таърихи халқи тоҷик (синфи 5)",
-      "title_ru": "История таджикского народа (5 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "5 класс",
-        "история",
-        "синфи 5",
-        "таърих",
-        "таърихи точик с 5",
-        "таърихи халки точик"
-      ],
-      "chunks": 13,
-      "size_bytes": 8216,
-      "sha256": "49edfeb22e11871bf4e1b868226e5e6c631245e7186e8ae3146bad9959620e98"
-    },
-    {
-      "id": "darsi_tarixi_tojik_6",
-      "file": "darsi_tarixi_tojik_6.avdb",
-      "title_tg": "Таърихи халқи тоҷик (синфи 6)",
-      "title_ru": "История таджикского народа (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "история",
-        "синфи 6",
-        "таърих",
-        "таърихи халки точик",
-        "таърихи халки точик с.6 2022"
-      ],
-      "chunks": 13,
-      "size_bytes": 7138,
-      "sha256": "3b384ec4b099bdf10e579bf0d18b5f0deb83f03f95a892fbc5ab0dad6129be45"
-    },
-    {
-      "id": "darsi_tarixi_tojik_7",
-      "file": "darsi_tarixi_tojik_7.avdb",
-      "title_tg": "Таърихи халқи тоҷик (синфи 7)",
-      "title_ru": "История таджикского народа (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "история",
-        "синфи 7",
-        "таърих",
-        "таърихи халки точик",
-        "таърихи халки точик 7 (2)"
-      ],
-      "chunks": 11,
-      "size_bytes": 6499,
-      "sha256": "f41aa2ec864965b89a7ef6f15840462f7c2d8bf8fc4ae50bba46e02777135b24"
-    },
-    {
-      "id": "darsi_tarixi_tojik_8",
-      "file": "darsi_tarixi_tojik_8.avdb",
-      "title_tg": "Таърихи халқи тоҷик (синфи 8)",
-      "title_ru": "История таджикского народа (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "история",
-        "синфи 8",
-        "таърих",
-        "таърихи  умуми 8",
-        "таърихи х. точик",
-        "таърихи халки точик"
-      ],
-      "chunks": 237,
-      "size_bytes": 122228,
-      "sha256": "749aefa7351ceb21cf0b7dd2096dc317a4b890150cedc3b2da6b97d8df210c2c"
-    },
-    {
-      "id": "darsi_tarixi_tojik_9",
-      "file": "darsi_tarixi_tojik_9.avdb",
-      "title_tg": "Таърихи халқи тоҷик (синфи 9)",
-      "title_ru": "История таджикского народа (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "история",
-        "синфи 9",
-        "таърих",
-        "таърихи дин таер 9",
-        "таърихи халки точик",
-        "таърихи халки точик синфи 9 new"
-      ],
-      "chunks": 18,
-      "size_bytes": 11173,
-      "sha256": "4102fb35c906a21f7bd2024d1591e23d5955048bc41a8842d37db3621dec360e"
-    },
-    {
-      "id": "darsi_tarixi_umumi_10",
-      "file": "darsi_tarixi_umumi_10.avdb",
-      "title_tg": "Таърихи умумӣ (синфи 10)",
-      "title_ru": "Всемирная история (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "всемирная история",
-        "синфи 10",
-        "таърихи умуми",
-        "таърихи умуми - 10"
-      ],
-      "chunks": 6,
-      "size_bytes": 3395,
-      "sha256": "af2e1decdd2bd9d2114caa15061d787b78076f2b5574d41aa7aaaf91fa5b39bf"
-    },
-    {
-      "id": "darsi_tarixi_umumi_11",
-      "file": "darsi_tarixi_umumi_11.avdb",
-      "title_tg": "Таърихи умумӣ (синфи 11)",
-      "title_ru": "Всемирная история (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "всемирная история",
-        "синфи 11",
-        "таърихи умуми",
-        "таърихи умуми 11",
-        "таърихи умуми 11 2022"
-      ],
-      "chunks": 12,
-      "size_bytes": 6980,
-      "sha256": "052f397c53b78f52c2a61826acce79526a837b4f5e75dfbc9a44361f8aae11f0"
-    },
-    {
-      "id": "darsi_tarixi_umumi_5",
-      "file": "darsi_tarixi_umumi_5.avdb",
-      "title_tg": "Таърихи умумӣ (синфи 5)",
-      "title_ru": "Всемирная история (5 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "5 класс",
-        "всемирная история",
-        "синфи 5",
-        "таърихи умуми",
-        "таърихи умумиии 5-2017"
-      ],
-      "chunks": 54,
-      "size_bytes": 24868,
-      "sha256": "3b8825a0df875890fba71e86f85a07ed30154c04300a9e8e34317bcee97629df"
-    },
-    {
-      "id": "darsi_tarixi_umumi_6",
-      "file": "darsi_tarixi_umumi_6.avdb",
-      "title_tg": "Таърихи умумӣ (синфи 6)",
-      "title_ru": "Всемирная история (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "всемирная история",
-        "синфи 6",
-        "таърихи умуми",
-        "таърихи умуми  с. 6 2022"
-      ],
-      "chunks": 4,
-      "size_bytes": 2823,
-      "sha256": "541594bf469697486b6ab7b8ef75627ad5c46963461288082a3ad4afff5feb3a"
-    },
-    {
-      "id": "darsi_tarixi_umumi_7",
-      "file": "darsi_tarixi_umumi_7.avdb",
-      "title_tg": "Таърихи умумӣ (синфи 7)",
-      "title_ru": "Всемирная история (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "всемирная история",
-        "синфи 7",
-        "таърихи умуми",
-        "таърихи умуми  с. 7 2022"
-      ],
-      "chunks": 9,
-      "size_bytes": 5894,
-      "sha256": "037f922979390bda54431987567a8ebf2d4f77a58c90b0558059096cf4d0a002"
-    },
-    {
-      "id": "darsi_tarixi_umumi_8",
-      "file": "darsi_tarixi_umumi_8.avdb",
-      "title_tg": "Таърихи умумӣ (синфи 8)",
-      "title_ru": "Всемирная история (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "всемирная история",
-        "синфи 8",
-        "таърихи умуми",
-        "таърихи умуми - 8 2022"
-      ],
-      "chunks": 5,
-      "size_bytes": 3326,
-      "sha256": "8f0a1c8ac87dccbe2107a1cf0b069f7fc9820d5579becd0d9d6ed9228392d85f"
-    },
-    {
-      "id": "darsi_tarixi_umumi_9",
-      "file": "darsi_tarixi_umumi_9.avdb",
-      "title_tg": "Таърихи умумӣ (синфи 9)",
-      "title_ru": "Всемирная история (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "всемирная история",
-        "синфи 9",
-        "таърихи умуми",
-        "таърихи умуми - синфи 9 2021"
-      ],
-      "chunks": 57,
-      "size_bytes": 25294,
-      "sha256": "17ace03777f12bbadc2a78b1b87b77da61df66e1198cec7475d46dd156104416"
+      "sha256": "600adc5cc9844e055d128c032f56859a395c22b2bfa3e5b2a3a7b0822ae800bb"
     },
     {
       "id": "darsi_umumi_1",
@@ -1418,15 +190,18 @@
       "category": "school_textbook",
       "keywords": [
         "1 класс",
-        "коидаи харакат 1-2",
+        "¬«¿ñá¿ σáαá¬áγ 1-2",
+        "æá¡ωáγ óá ¼ñσ¡áγ 1",
+        "æáí¿áγφ¿¡«ß¿ ß¿¡σ¿ 1 2021",
+        "æπαπñ 2018",
+        "çáí«¡¿ ¼«ñáα¿ 1",
+        "îáγñ¼áγ¿¬á ß¿¡σ¿ 1",
         "мактаб",
-        "санъат ва мехнат 1",
-        "синфи 1",
-        "суруд 2018"
+        "синфи 1"
       ],
-      "chunks": 79,
-      "size_bytes": 34858,
-      "sha256": "3c32fc7af25ba4ebb40dc3da1fcffe96e03c0396bff3c1a4fa99bd523235a087"
+      "chunks": 153,
+      "size_bytes": 66655,
+      "sha256": "53802e6208d276b3ed9d8e4c95c152510e3052c0c31d46f08af7cb3bf8e97c19"
     },
     {
       "id": "darsi_umumi_10",
@@ -1436,21 +211,40 @@
       "category": "school_textbook",
       "keywords": [
         "10 класс",
-        "адабийти точик 11",
-        "асосхои интихоби касб 10-11",
-        "з.фаронсави 10",
-        "забони араби 10",
-        "забони немиси 10",
+        "º.σáα«¡ßáó¿ 10",
+        "âñ«¼ñγα¿∩ 10(óáº«αáγ) 2021",
+        "âñ«úαáς¿∩¿ ß¿¡σ¿ 10",
+        "ä¼«ñáú¿¿ ¿íγ¿ñ«¿ σáαí¿ 10-11",
+        "æáαí¿∩¿ τ¿ß¼«¡¿ 10-11",
+        "æáωα¿σ¿ π¼π¼¿ - 10",
+        "æáωα¿σ¿ σ. γ«τ¿¬ ß 10",
+        "æñσ¡«½«ú¿∩ 10",
+        "æñσ¡«½«ú¿∩¿ ¿γγ¿½««γ¿ 10",
+        "æñσ¡«½«ú¿∩¿ ¿γγ¿½««γ¿ 10 ç3",
+        "ç¡ú½¿ß¿  ¡áó 10",
+        "ç¡ú½¿ß¿ - ß¿¡σ¿ 10 2021",
+        "ç½úñíαá ß10.",
+        "çß«ßσ«¿ ¿¡γ¿σ«í¿ ¬áßí 10-11",
+        "çáí«¡¿ ¡ñ¼¿ß¿ 10",
+        "çáí«¡¿ áαáí¿ 10",
+        "çáí«¡¿ γ«τ¿¬¿ ß10",
+        "çñáí¿±γ ß 10",
+        "çñáí¿⌐γ¿ γ«τ¿¬ 11",
+        "éπßß¬¿⌐ ∩ºδ¬ 10",
+        "éπßß¬¿⌐ ∩ºδ¬ 10 2018",
+        "îáωα¿σáγ¿ «¿½áñ«α¿",
+        "ò¿¼¿∩ - ß¿¡σ¿ 10 2021",
+        "òπ¬π¬ 10",
+        "ö¿º¿¬á 10",
+        "öêçêèç - 10 2022",
+        "ü¿«½«ú¿∩ 10 2019",
+        "σ¿¼¿∩ 10  2018",
         "мактаб",
-        "маърифати оиладори",
-        "омодагии ибтидои харби 10-11",
-        "синфи 10",
-        "тарбияи чисмони 10-11",
-        "технология 10"
+        "синфи 10"
       ],
-      "chunks": 183,
-      "size_bytes": 98347,
-      "sha256": "6032b388f9b0798ff6541b2d3c39eeb5f967ed42e919a8f09c721a76fbb17e30"
+      "chunks": 400,
+      "size_bytes": 160836,
+      "sha256": "eca6f7d93712d45b67412aac6e932b6da17415a543004bcd224b36cf613c49f9"
     },
     {
       "id": "darsi_umumi_11",
@@ -1460,21 +254,33 @@
       "category": "school_textbook",
       "keywords": [
         "11 класс",
-        "асосхои иктисодиет синфи 11",
-        "з. араби 11",
-        "з. немиси 11",
-        "з. франсави 11",
-        "забони тоики 11",
-        "интихоби касб с 10-11",
+        "âàäîàæéêƒ-11",
+        "âñ«úαáς¿∩ ß11",
+        "ä¼«ñáú¿¿ ¿íγ¿ñ«¿¿ σáαí¿ 11",
+        "æ.τ¿ß¼«¡¿ 10-11",
+        "æáωα¿σ¿ ô¼π¼¿ 11",
+        "æáωα¿σ¿ σá½¬¿ γ«τ¿¬ 11",
+        "æñσ¡«½«ú¿∩¿ ¿γγ¿½««γ¿  11",
+        "ç. ¡ñ¼¿ß¿ 11",
+        "ç. áαáí¿ 11",
+        "ç. σαá¡ßáó¿ 11",
+        "ç½úñíαá - 11",
+        "çß«ßσ«¿ ¿¬γ¿ß«ñ¿±γ ß¿¡σ¿ 11",
+        "çáí«¡¿ γ«¿¬¿ 11",
+        "éπßß¬¿⌐ ∩ºδ¬ 11",
+        "ê¡γ¿σ«í¿ ¬áßí ß 10-11",
+        "ìπτπ¼ 11",
+        "ò¿¼¿∩ 11",
+        "òπ¬π¬ 11",
+        "ö¿º¿¬á 11",
+        "ü¿«½«ú¿∩¿ π¼π¼¿ 11",
+        "γáωα¿σ¿ π¼π¼¿ 11 2022",
         "мактаб",
-        "нучум 11",
-        "омодагии ибтидоии харби 11",
-        "синфи 11",
-        "т.чисмони 10-11"
+        "синфи 11"
       ],
-      "chunks": 227,
-      "size_bytes": 114863,
-      "sha256": "89e8e54c27290f52abef734bd80c3357af2dde9d2959ee30802b3374c15e1b4a"
+      "chunks": 400,
+      "size_bytes": 151628,
+      "sha256": "e5ba02fd386f077094e28661073ef4e34999ab408c424f45507cc039f678463b"
     },
     {
       "id": "darsi_umumi_2",
@@ -1484,14 +290,19 @@
       "category": "school_textbook",
       "keywords": [
         "2 класс",
-        "cанъат ва мехнат 2",
+        "cá¡ωáγ óá ¼ñσ¡áγ 2",
+        "ßπαπñ óá ¼πß¿¬¿ ß¿¡σ¿ 2 ¡áó",
+        "çáí«¡¿ ¼«ñáα¿ ß¿¡σ¿ 2",
+        "éπß¬á∩ αñτ 2 ¬½áß π½πú",
+        "îáγñ¼áγ¿¬á ß 2 2019",
+        "üôèéçé£ 2",
+        "απß¬á∩ αñτ 2",
         "мактаб",
-        "синфи 2",
-        "суруд ва мусики синфи 2 нав"
+        "синфи 2"
       ],
-      "chunks": 53,
-      "size_bytes": 24927,
-      "sha256": "ac39749689141564a793b0a37bd942ff0ec5464c42a3ae0fa325295da159cb12"
+      "chunks": 400,
+      "size_bytes": 190059,
+      "sha256": "2e91309dc540d3a4e24e9a9c42c9336fb0ff5e26cd0d1b7a31a6faab4b85a94c"
     },
     {
       "id": "darsi_umumi_3",
@@ -1502,13 +313,17 @@
       "keywords": [
         "3 класс",
         "sanat va mehnat s3",
+        "æáí¿áγφ¿¡«ß¿ ß¿¡σ¿ 3",
+        "æπαπñ óá ¼πß¿¬¿ ß¿¡σ¿ 3",
+        "çáí«¡¿ î«ñáα¿ æ3..",
+        "éπßß¬á∩ αñτ∞ - 3 2022",
+        "îáγñ¼áγ¿¬á - 3 2022",
         "мактаб",
-        "синфи 3",
-        "суруд ва мусики синфи 3"
+        "синфи 3"
       ],
-      "chunks": 6,
-      "size_bytes": 3429,
-      "sha256": "00fc175707109350a3af48dcb6ae1f42c04733c987d34056bda9bebd8a44b6f9"
+      "chunks": 400,
+      "size_bytes": 197139,
+      "sha256": "0b6ce2e4bde2c54230d4344bd42458a2686448711f03c7f40c512d24260a1af8"
     },
     {
       "id": "darsi_umumi_4",
@@ -1518,14 +333,19 @@
       "category": "school_textbook",
       "keywords": [
         "4 класс",
+        "æá¡ωáγ óá ¼ñσ¡áγ 4 (2)",
+        "æáí¿áγφ¿¡«ß¿ ß¿¡σ¿ 4",
+        "æπαπñ óá ¼πß¿¬¿ 4",
+        "ç¡ú½¿ß¿ ß¿¡σ¿ 4",
+        "çáí«¡¿ ¼«ñáα¿ ß¿¡σ¿ 4",
+        "éπßß¬á∩ αñτ∞ - 4 2022",
+        "îáγñ¼áγ¿¬á ß¿¡σ¿ 4 2019",
         "мактаб",
-        "санъат ва мехнат 4 (2)",
-        "синфи 4",
-        "суруд ва мусики 4"
+        "синфи 4"
       ],
-      "chunks": 20,
-      "size_bytes": 11655,
-      "sha256": "b2f1ca7914d6c6b6e4296cc036f6f287ca590b815c81b79bb6d38351fddb4ff4"
+      "chunks": 400,
+      "size_bytes": 188844,
+      "sha256": "60223a926cbc521f5fd15e2f9c94774ac78a84c9d6dc7943461348ee9307ec92"
     },
     {
       "id": "darsi_umumi_5",
@@ -1535,23 +355,30 @@
       "category": "school_textbook",
       "keywords": [
         "5 класс",
-        "забони араби 5 ва 6",
-        "забони давлати 5",
+        "¬¿γ«í¿ á¡ú¿½¿ß¿ ß¿¡σ¿ 5",
+        "ºáí«¡¿ áαáí¿ 5 óá 6",
+        "æá¡ωáγ¿ γáßó¿α¿ 5-6 31,03,2016",
+        "æçéüêƒê ùêæîäìê 5-6",
+        "æπαπñ 5",
+        "æπαπñ óá ¼πß¿¬¿ ß5 - 2022",
+        "çáí«¡¿ γ«τ¿¬¿ 5",
+        "çäçüê≡æê æäùêè 2017",
+        "ççüäìê äçéïçæê 5",
+        "èáßíπ σπ¡áα 12.05.2014",
+        "éπßß¬¿⌐ ∩º¿¬ - 5 2021",
+        "îáγñ¼áγ¿¬á ß¿¡σ¿ 5",
+        "ü«γá¡¿¬á 5",
+        "γáωα¿σ¿ γ«τ¿¬ ß 5",
+        "γáωα¿σ¿ π¼π¼¿¿¿ 5-2017",
         "ифтихори ватандори а5 барои чоп омода",
-        "касбу хунар 12.05.2014",
-        "китоби ангилиси синфи 5",
         "мактаб",
-        "санъати тасвири 5-6 31,03,2016",
         "синфи 5",
-        "суруд 5",
-        "суруд ва мусики с5 - 2022",
-        "тарбияи чисмони 5-6",
         "техналогия таъ.мех. синфи 5",
         "технология синфи 5 таълими мехнат барои духтарон 2016"
       ],
       "chunks": 400,
-      "size_bytes": 190204,
-      "sha256": "aa4a290f09a964cc188e77a899c479497dae8c0d8b12de3c429c8a4113e7f340"
+      "size_bytes": 202372,
+      "sha256": "36c3a690ce524b5b6f328d7f99335c494bac3327c03d6722a6311555e3423114"
     },
     {
       "id": "darsi_umumi_6",
@@ -1560,20 +387,30 @@
       "title_ru": "Учебники 6 класса",
       "category": "school_textbook",
       "keywords": [
+        "2 çáí«¡¿ ¼«ñáα¿  6 27.11.2015",
         "6 класс",
-        "matimatika s6 288 комплект баъди ислохи 1-3, 288",
-        "асосхои техникаи бехатари",
+        "matimatika s6 288 ¬«¼»½ñ¬γ íáωñ¿ ¿ß½«σ¿ 1-3, 288",
+        "âñ«úαáς¿∩ ß¿¡σ¿ 6 2022",
+        "æá¡ωáγ¿ γáßó¿α¿ 5-6",
+        "æáωα¿σ¿ σá½¬¿ γ«τ¿¬ ß.6 2022",
+        "æπαπñ óá ¼πß¿¬¿ ß¿¡σ¿ 6 2014",
+        "ç¡ú½¿ß¿ ß¿¡σ¿ 6  17. 04.2020",
+        "çß«ßσ«¿ γñσ¡¿¬á¿ íñσáγáα¿",
+        "çáí«¡¿ á¡ú½¿ß¿ 6",
+        "çáí«¡¿ γ«τ¿¬¿ 6",
+        "çñáí¿±γ¿ γ«τ¿¬_6",
+        "éπßß¬¿⌐ ∩ºδ¬ 6",
+        "êßγ«α¿∩ 6",
+        "îáγ¿¼áγ¿¬á 6 2020 σ«αºáµ",
+        "ü«γá¡¿¬á 6",
+        "γáωα¿σ¿ π¼π¼¿  ß. 6 2022",
         "забони немиси (чопи соли 2010)",
-        "история 6",
         "мактаб",
-        "матиматика 6 2020 форзац",
-        "санъати тасвири 5-6",
-        "синфи 6",
-        "суруд ва мусики синфи 6 2014"
+        "синфи 6"
       ],
-      "chunks": 250,
-      "size_bytes": 107646,
-      "sha256": "92fda187332fb47c05f79f5e1425f2c63a8b7f4a4a287c091d6799d39a2b42d8"
+      "chunks": 400,
+      "size_bytes": 183319,
+      "sha256": "d7ac390d96354dca1933b7589a94c660d91314a03de1b18198aa3276c0773833"
     },
     {
       "id": "darsi_umumi_7",
@@ -1582,20 +419,34 @@
       "title_ru": "Учебники 7 класса",
       "category": "school_textbook",
       "keywords": [
+        "1ç½¿σí«¿ ¡¿±ú«¡ 7",
         "7 класс",
         "geography_s7 2021",
-        "асосхои техникаи бехатари 6-7",
-        "касбу хунар7 барои духтаро 21,01,2015",
-        "касбу хунар_бачагона  7 16.06.15",
+        "¡ñ¼¿ß¿ 7 02,09,2019",
+        "¬áßíπ σπ¡áα_íáτáú«¡á  7 16.06.15",
+        "âñ«¼ñγα¿∩ - 7 2022",
+        "âñ«¼ñγα¿∩ 7",
+        "âñ«úαáς¿∩ 7",
+        "æá¡áγ γáßó¿α¿ - 7 2022",
+        "æáαí¿∩¿ τ¿ß¼«¡¿ 7-9",
+        "æáωα¿σ¿ σá½¬¿ γ«τ¿¬ 7 (2)",
+        "æñσ¡«½«ú¿∩¿ ¿γγ¿½««γ¿ - ß¿¡σ¿ 7 2021",
+        "ç««½«ú¿∩ ß¿¡σ¿ 7",
+        "ç½úñíαá 7",
+        "çß«ßσ«¿ γñσ¡¿¬á¿ íñσáγáα¿ 6-7",
+        "çáí«¡¿ γ«τ¿¬¿ ß¿¡σ¿ 7",
+        "çñáí¿±γ ß¿¡σ¿ 7",
+        "èáßíπ σπ¡áα7 íáα«¿ ñπσγáα« 21,01,2015",
+        "éπß.∩º. 7 ¬½áßß",
+        "éπßß¬¿⌐ ∩ºδ¬ 7 ¬½áßß",
+        "ö¿º¿¬á 7 (2)",
+        "γáωα¿σ¿ π¼π¼¿  ß. 7 2022",
         "мактаб",
-        "немиси 7 02,09,2019",
-        "санат тасвири - 7 2022",
-        "синфи 7",
-        "тарбияи чисмони 7-9"
+        "синфи 7"
       ],
-      "chunks": 155,
-      "size_bytes": 81731,
-      "sha256": "910f588c92059f807949f76d42c45306870b0b877a989b9b881cf8839456182b"
+      "chunks": 400,
+      "size_bytes": 176374,
+      "sha256": "83e99f11704788a39e073220d5285ddc654c53f4a746fd649cd9f2ddee2b751d"
     },
     {
       "id": "darsi_umumi_8",
@@ -1607,20 +458,38 @@
         "8 класс",
         "geography_s8 2021",
         "zologiy s8 - final 2021",
-        "з. немиси 8",
-        "касбу хунар духтарона синфи  29-04-2021  8",
+        "¡ñ¼¿ß¿ 8 10,09,19",
+        "âñ«¼ñγα¿∩ 8",
+        "âñ«¼ñγα¿∩ 8 1-68",
+        "âñ«úαáς¿∩ 8 - 2014",
+        "äñ«í¿ ¼π«φ¿αáγ",
+        "æáωα¿σ¿  π¼π¼¿ 8",
+        "æáωα¿σ¿ ô¼π¼¿ - 8 2022",
+        "æáωα¿σ¿ σ. γ«τ¿¬",
+        "æñσ¡«½«ú¿∩ (íáα«¿ »¿ßáα«¡)",
+        "æñσ¡«½«ú¿∩ 8 (»¿ßáα«¡) 11.05.21",
+        "æñσ¡«½«ú¿∩ 8 (üα«¿ ñπσγáα«¡)",
+        "ç. ¡ñ¼¿ß¿ 8",
+        "ç¡ú½¿ß¿ 8",
+        "ç««½«ú¿∩ 8",
+        "ç½úñíαá 8-2021",
+        "çáí«¡¿ æ«τ¿¬¿ ß¿¡σ¿ 8 2021",
+        "çáí«¡¿ γ«τ¿¬¿ ß8",
+        "çñáí¿ñγ ß 8",
+        "èáßíπ σπ¡áα ñπσγáα«¡á ß¿¡σ¿  29-04-2021  8",
+        "éπßß¬¿⌐ ∩ºδ¬ 8",
+        "ìá¬φá¬áφ¿  ß 8-9 (2)",
+        "ò¿¼¿∩ - ß¿¡σ¿ 8 2021",
+        "òêîêƒ 8",
+        "òπ¬π¬",
+        "ö¿º¿¬á 8",
+        "γñσ¡á½«ú¿∩¿ ¿γγ¿½««γ¿ c¿¡σ¿ 8",
         "мактаб",
-        "накшакаши  с 8-9 (2)",
-        "немиси 8 10,09,19",
-        "одоби муошират",
-        "синфи 8",
-        "технология (барои писарон)",
-        "технология 8 (брои духтарон)",
-        "технология 8 (писарон) 11.05.21"
+        "синфи 8"
       ],
       "chunks": 400,
-      "size_bytes": 189049,
-      "sha256": "5ada4b794a8430082ae0c78310adce277b9ed1090095e19ceee578e476412171"
+      "size_bytes": 192201,
+      "sha256": "f52e87d191802aa36f4c5bc48c9e7aaee009ff2dc56a0471bf687b98ced71c1c"
     },
     {
       "id": "darsi_umumi_9",
@@ -1631,265 +500,38 @@
       "keywords": [
         "9 класс",
         "geography_s9 2021",
-        "касбу хунар 9 (писарона)",
+        "¥¬«½«ú¿∩ 9 ¬½áßß 23.04.2019",
+        "âñ«¼ñγα¿∩ 9",
+        "âñ«¼ñγα¿∩ 9 ¡áó 19-03-2021",
+        "âñ«úαáς¿∩ 9",
+        "æáωα¿σ¿ ñ¿¡ γá±α 9",
+        "æáωα¿σ¿ ô¼π¼¿ - ß¿¡σ¿ 9 2021",
+        "æáωα¿σ¿ σá½¬¿ γ«τ¿¬ ß¿¡σ¿ 9 new",
+        "æñσ¡«½«ú¿∩ æî (íáα«¿ ñπσγáα«¡)",
+        "æñσ¡«½«ú¿∩¿ ¿γ¿½««γ¿ 9",
+        "æñσ¡«½«ú¿∩¿ ¿γγ¿½««γ¿ ß¿¡σ¿ 9 06.01.2020",
+        "ç½úñíαá 9 .1",
+        "ç½úñíαá_ß¿¡σ¿_9_γ¿±α",
+        "çáí«¡¿ á¡ú½¿ß¿ 9",
+        "çáí«¡¿ γ«τ¿¬¿ 9",
+        "çñáí¿±γ 9  2014",
+        "èáßíπ σπ¡áα 9 (»¿ßáα«¡á)",
+        "éπßß¬¿⌐ ∩ºδ¬ 9",
+        "ìá¬φá¬áφ¿ ß. 8-9",
+        "òêîêƒ - 9 2022",
+        "òπ¬π¬ ß 9.",
+        "ö¿º¿¬á 9",
+        "ö¿º¿¬á ß¿¡σ¿ 9 í½«¬",
+        "ü¿«½«ú¿∩ 9 2019",
+        "απß¬¿⌐ ∩ºδ¬ 9 ¬½áßß",
+        "γáωα¿σ¿ π¼π¼¿",
+        "σ¿¼¿∩ 9",
         "мактаб",
-        "накшакаши с. 8-9",
-        "синфи 9",
-        "технология тм (барои духтарон)",
-        "технологияи итилооти 9"
-      ],
-      "chunks": 43,
-      "size_bytes": 24799,
-      "sha256": "8baa440af85fc12b8b642597b9b2d955779d3cc72ace0118ffa08173fe68ff6b"
-    },
-    {
-      "id": "darsi_ximiya_10",
-      "file": "darsi_ximiya_10.avdb",
-      "title_tg": "Химия (синфи 10)",
-      "title_ru": "Химия (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "модда",
-        "реаксия",
-        "синфи 10",
-        "химия",
-        "химия - синфи 10 2021",
-        "химия 10  2018"
-      ],
-      "chunks": 388,
-      "size_bytes": 177154,
-      "sha256": "d8b01b4be394d35fb9bb19a4138dd5155ddfca5f5a8dfae02cad4ffedc81062c"
-    },
-    {
-      "id": "darsi_ximiya_11",
-      "file": "darsi_ximiya_11.avdb",
-      "title_tg": "Химия (синфи 11)",
-      "title_ru": "Химия (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "модда",
-        "реаксия",
-        "синфи 11",
-        "химия",
-        "химия 11"
-      ],
-      "chunks": 42,
-      "size_bytes": 21195,
-      "sha256": "592835db9a24a5ae6ec56b59f4a21aca67b7b2e3a25e681cb22b9c13495e4e11"
-    },
-    {
-      "id": "darsi_ximiya_8",
-      "file": "darsi_ximiya_8.avdb",
-      "title_tg": "Химия (синфи 8)",
-      "title_ru": "Химия (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "модда",
-        "реаксия",
-        "синфи 8",
-        "химия",
-        "химия - синфи 8 2021",
-        "химия 8"
-      ],
-      "chunks": 233,
-      "size_bytes": 104896,
-      "sha256": "6d3a3d301f49530cf38890d6ae40bae9229a59abf4724f1a43648b64f73de294"
-    },
-    {
-      "id": "darsi_ximiya_9",
-      "file": "darsi_ximiya_9.avdb",
-      "title_tg": "Химия (синфи 9)",
-      "title_ru": "Химия (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "модда",
-        "реаксия",
-        "синфи 9",
-        "химия",
-        "химия - 9 2022",
-        "химия 9"
-      ],
-      "chunks": 269,
-      "size_bytes": 119387,
-      "sha256": "5c698f9fabc98e2be983f23a964930cccbfed8fb6874666d8bddb75cee2d80eb"
-    },
-    {
-      "id": "darsi_zabon_rusi_10",
-      "file": "darsi_zabon_rusi_10.avdb",
-      "title_tg": "Забони русӣ (синфи 10)",
-      "title_ru": "Русский язык (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "забони руси",
-        "русский язык",
-        "русский язык 10",
-        "русский язык 10 2018",
-        "синфи 10"
-      ],
-      "chunks": 34,
-      "size_bytes": 22968,
-      "sha256": "fb10854f2fda8a2377b787f344328fd011ad90fa5b89dd780ba184d99a4ac706"
-    },
-    {
-      "id": "darsi_zabon_rusi_11",
-      "file": "darsi_zabon_rusi_11.avdb",
-      "title_tg": "Забони русӣ (синфи 11)",
-      "title_ru": "Русский язык (11 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "11 класс",
-        "забони руси",
-        "русский язык",
-        "русский язык 11",
-        "синфи 11"
-      ],
-      "chunks": 33,
-      "size_bytes": 19642,
-      "sha256": "7e49d2d0dfe95a386d6f2c3f48c28288eb908e61284ace9ac89105af5951fdb8"
-    },
-    {
-      "id": "darsi_zabon_rusi_2",
-      "file": "darsi_zabon_rusi_2.avdb",
-      "title_tg": "Забони русӣ (синфи 2)",
-      "title_ru": "Русский язык (2 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "2 класс",
-        "забони руси",
-        "руская реч 2",
-        "руская реч 2 клас улуг",
-        "русский язык",
-        "синфи 2"
-      ],
-      "chunks": 23,
-      "size_bytes": 13077,
-      "sha256": "43750f94d9ad0603a0a291a894538850a0413eb9a03b0b40d871c0e02263494d"
-    },
-    {
-      "id": "darsi_zabon_rusi_3",
-      "file": "darsi_zabon_rusi_3.avdb",
-      "title_tg": "Забони русӣ (синфи 3)",
-      "title_ru": "Русский язык (3 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "3 класс",
-        "забони руси",
-        "русская речь - 3 2022",
-        "русский язык",
-        "синфи 3"
-      ],
-      "chunks": 220,
-      "size_bytes": 103228,
-      "sha256": "2e54b552b3f0ebc952b4d5bbcaa4f9e2aabba769d802e39d383c3497adde4ef9"
-    },
-    {
-      "id": "darsi_zabon_rusi_4",
-      "file": "darsi_zabon_rusi_4.avdb",
-      "title_tg": "Забони русӣ (синфи 4)",
-      "title_ru": "Русский язык (4 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "4 класс",
-        "забони руси",
-        "русская речь - 4 2022",
-        "русский язык",
-        "синфи 4"
-      ],
-      "chunks": 96,
-      "size_bytes": 54742,
-      "sha256": "37e2cda8699e2cfce13cfce5dd2918886c183f37e305c8690c95394ee15a5f0f"
-    },
-    {
-      "id": "darsi_zabon_rusi_5",
-      "file": "darsi_zabon_rusi_5.avdb",
-      "title_tg": "Забони русӣ (синфи 5)",
-      "title_ru": "Русский язык (5 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "5 класс",
-        "забони руси",
-        "русский язик - 5 2021",
-        "русский язык",
-        "синфи 5"
-      ],
-      "chunks": 148,
-      "size_bytes": 78979,
-      "sha256": "a806e53b7a0e5a31b81b8ef5875681eb746e6e117c28e26fd844820abf535256"
-    },
-    {
-      "id": "darsi_zabon_rusi_6",
-      "file": "darsi_zabon_rusi_6.avdb",
-      "title_tg": "Забони русӣ (синфи 6)",
-      "title_ru": "Русский язык (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "забони руси",
-        "русский язык",
-        "русский язык 6",
-        "синфи 6"
-      ],
-      "chunks": 28,
-      "size_bytes": 16825,
-      "sha256": "293bdae04ed957dbcb30012fb5a2bdd3b71be1c0d86c09e9c2961b975acb5ced"
-    },
-    {
-      "id": "darsi_zabon_rusi_7",
-      "file": "darsi_zabon_rusi_7.avdb",
-      "title_tg": "Забони русӣ (синфи 7)",
-      "title_ru": "Русский язык (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "забони руси",
-        "рус.яз. 7 класс",
-        "русский язык",
-        "русский язык 7 класс",
-        "синфи 7"
-      ],
-      "chunks": 76,
-      "size_bytes": 46484,
-      "sha256": "b3b11513f39fbffa4463171df3e6c402b6a08b3a23516bef173673c3012253d8"
-    },
-    {
-      "id": "darsi_zabon_rusi_8",
-      "file": "darsi_zabon_rusi_8.avdb",
-      "title_tg": "Забони русӣ (синфи 8)",
-      "title_ru": "Русский язык (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "забони руси",
-        "русский язык",
-        "русский язык 8",
-        "синфи 8"
-      ],
-      "chunks": 121,
-      "size_bytes": 67224,
-      "sha256": "e55217466176f5cfdb70216673714f0696e17d23f79a579ff02fc999ccca9173"
-    },
-    {
-      "id": "darsi_zabon_rusi_9",
-      "file": "darsi_zabon_rusi_9.avdb",
-      "title_tg": "Забони русӣ (синфи 9)",
-      "title_ru": "Русский язык (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "забони руси",
-        "руский язык 9 класс",
-        "русский язык",
-        "русский язык 9",
         "синфи 9"
       ],
-      "chunks": 264,
-      "size_bytes": 124849,
-      "sha256": "a319b9a6ba06cac9c9bdeb24b536689c07a560b7afd486121272a096f7b94e82"
+      "chunks": 400,
+      "size_bytes": 204203,
+      "sha256": "4ccf3705807f0458cd4b92468f639a09eb98566e5756d5491042de7e42795bf2"
     },
     {
       "id": "darsi_zaboni_modari_1",
@@ -1900,191 +542,13 @@
       "keywords": [
         "1 класс",
         "забони модари",
-        "забони модари 1",
         "муковаи китоби забони модари барои синфи 1 нашри 4, соли 2021",
         "родной язык",
         "синфи 1"
       ],
-      "chunks": 36,
-      "size_bytes": 19433,
-      "sha256": "f32c8f69c93fd59cc84929871562b76b8e2e860c676f0301dea6228adcab2fa0"
-    },
-    {
-      "id": "darsi_zaboni_modari_2",
-      "file": "darsi_zaboni_modari_2.avdb",
-      "title_tg": "Забони модарӣ (синфи 2)",
-      "title_ru": "Родной язык (2 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "2 класс",
-        "забони модари",
-        "забони модари синфи 2",
-        "родной язык",
-        "синфи 2"
-      ],
-      "chunks": 152,
-      "size_bytes": 78163,
-      "sha256": "ed64a9413d913f3b37bf7b985840f0aa5ebbbcc20832e005fb6b136dec684a01"
-    },
-    {
-      "id": "darsi_zaboni_modari_3",
-      "file": "darsi_zaboni_modari_3.avdb",
-      "title_tg": "Забони модарӣ (синфи 3)",
-      "title_ru": "Родной язык (3 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "3 класс",
-        "забони модари",
-        "забони модари с3..",
-        "родной язык",
-        "синфи 3"
-      ],
-      "chunks": 172,
-      "size_bytes": 91218,
-      "sha256": "5700a6478f77501cb92c6cf9832bc337ecd825d3b531c2ac00793d27cb94d6b1"
-    },
-    {
-      "id": "darsi_zaboni_modari_4",
-      "file": "darsi_zaboni_modari_4.avdb",
-      "title_tg": "Забони модарӣ (синфи 4)",
-      "title_ru": "Родной язык (4 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "4 класс",
-        "забони модари",
-        "забони модари синфи 4",
-        "родной язык",
-        "синфи 4"
-      ],
-      "chunks": 140,
-      "size_bytes": 76148,
-      "sha256": "edf62399c7a073f504e11284e214aae6f87866fb92f22688454ff3bd1a413563"
-    },
-    {
-      "id": "darsi_zaboni_modari_6",
-      "file": "darsi_zaboni_modari_6.avdb",
-      "title_tg": "Забони модарӣ (синфи 6)",
-      "title_ru": "Родной язык (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "2 забони модари  6 27.11.2015",
-        "6 класс",
-        "забони модари",
-        "родной язык",
-        "синфи 6"
-      ],
-      "chunks": 43,
-      "size_bytes": 25233,
-      "sha256": "ada90679d85b99668d8e123ef659934658ed10797a3b0ffd620876794fa571a7"
-    },
-    {
-      "id": "darsi_zaboni_tojiki_10",
-      "file": "darsi_zaboni_tojiki_10.avdb",
-      "title_tg": "Забони тоҷикӣ (синфи 10)",
-      "title_ru": "Таджикский язык (10 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "10 класс",
-        "грамматика",
-        "забони точики",
-        "забони точики с10",
-        "синфи 10",
-        "таджикский язык"
-      ],
-      "chunks": 83,
-      "size_bytes": 47872,
-      "sha256": "f0da397da8ff7b220df298f17e118b2dd13d2892cfb9ec13e33be76f639b0867"
-    },
-    {
-      "id": "darsi_zaboni_tojiki_5",
-      "file": "darsi_zaboni_tojiki_5.avdb",
-      "title_tg": "Забони тоҷикӣ (синфи 5)",
-      "title_ru": "Таджикский язык (5 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "5 класс",
-        "грамматика",
-        "забони точики",
-        "забони точики 5",
-        "синфи 5",
-        "таджикский язык"
-      ],
-      "chunks": 115,
-      "size_bytes": 62830,
-      "sha256": "16a17a0d519f95497a40d4a4b2248c532b84b1b692638479dc57d02801298bc1"
-    },
-    {
-      "id": "darsi_zaboni_tojiki_6",
-      "file": "darsi_zaboni_tojiki_6.avdb",
-      "title_tg": "Забони тоҷикӣ (синфи 6)",
-      "title_ru": "Таджикский язык (6 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "6 класс",
-        "грамматика",
-        "забони точики",
-        "забони точики 6",
-        "синфи 6",
-        "таджикский язык"
-      ],
-      "chunks": 3,
-      "size_bytes": 2183,
-      "sha256": "9e5d9403cd22012b5dae887fe95883d0ffd3af0c070501e5ffc11e78a3aa8d17"
-    },
-    {
-      "id": "darsi_zaboni_tojiki_7",
-      "file": "darsi_zaboni_tojiki_7.avdb",
-      "title_tg": "Забони тоҷикӣ (синфи 7)",
-      "title_ru": "Таджикский язык (7 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "7 класс",
-        "грамматика",
-        "забони точики",
-        "забони точики синфи 7",
-        "синфи 7",
-        "таджикский язык"
-      ],
-      "chunks": 135,
-      "size_bytes": 72191,
-      "sha256": "f831336d94603ad7dc5ab964819798d46136f2b146c8a0a575bd32a2777f5e2d"
-    },
-    {
-      "id": "darsi_zaboni_tojiki_8",
-      "file": "darsi_zaboni_tojiki_8.avdb",
-      "title_tg": "Забони тоҷикӣ (синфи 8)",
-      "title_ru": "Таджикский язык (8 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "8 класс",
-        "грамматика",
-        "забони точики",
-        "забони точики с8",
-        "забони точики синфи 8 2021",
-        "синфи 8",
-        "таджикский язык"
-      ],
-      "chunks": 128,
-      "size_bytes": 69765,
-      "sha256": "d212c83b52f3e752b4669b84fd23e56de8346e9a3f22fd0375857f5b5e0ceb0c"
-    },
-    {
-      "id": "darsi_zaboni_tojiki_9",
-      "file": "darsi_zaboni_tojiki_9.avdb",
-      "title_tg": "Забони тоҷикӣ (синфи 9)",
-      "title_ru": "Таджикский язык (9 класс)",
-      "category": "school_textbook",
-      "keywords": [
-        "9 класс",
-        "грамматика",
-        "забони точики",
-        "забони точики 9",
-        "синфи 9",
-        "таджикский язык"
-      ],
-      "chunks": 53,
-      "size_bytes": 29727,
-      "sha256": "b4a45a8948f8bff5b785191aa880ac52f845a99c5d9312b8e245c6a2023ac954"
+      "chunks": 34,
+      "size_bytes": 19005,
+      "sha256": "07953db171af85d62f5f6b59fc0b9c31b7837577aa6ac34e75c69e5e31e662e0"
     },
     {
       "id": "lib_adabiyoti_bachagona_folklor",
@@ -2104,7 +568,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1059,
-      "sha256": "f9a5a0a7527348022b20525efa826a87665ba0ae1f560107d431d4b76bd9c2cc"
+      "sha256": "f279fa90774a51c1c2a1a7e0769e79b0239706f8de2d4f04c5f9b3615aba4b66"
     },
     {
       "id": "lib_adabiyoti_bachagona_kitobho_az_usaid",
@@ -2167,7 +631,7 @@
       ],
       "chunks": 49,
       "size_bytes": 4508,
-      "sha256": "e9cd4b05156fafd797699a56e734ed39ec4a8c4fcfa9915fdeba92e21f757cba"
+      "sha256": "77875ebb36313690ce03d2e87d492a5a5e0e341e25999d9fb44b94fcfa79cf2c"
     },
     {
       "id": "lib_adabiyoti_bachagona_nasr",
@@ -2239,7 +703,7 @@
       ],
       "chunks": 400,
       "size_bytes": 28464,
-      "sha256": "d92785bba3cfaffd57ce4598ba1b0cf36a17631ee894454ca6138ed07f86e4fc"
+      "sha256": "f912f729f3ca107bfcc0d7d14e5eef04adf2b91e1c75f03a88b319485eb21680"
     },
     {
       "id": "lib_adabiyoti_bachagona_nazm",
@@ -2258,7 +722,7 @@
       ],
       "chunks": 5,
       "size_bytes": 844,
-      "sha256": "bd69147d10f4651cb8beadbd1cb4100dba7d277a7a8f06129c081747dba2fc7d"
+      "sha256": "470ca47111ac55e47d626657df43e6bf35347fa27e958be22f5f91571b2985e0"
     },
     {
       "id": "lib_adabiyoti_ilmi_ommavi",
@@ -2330,7 +794,7 @@
       ],
       "chunks": 220,
       "size_bytes": 25804,
-      "sha256": "5c2e36c1d0f2d8948135771d994993b01d54df9754a09aed18a01943091c58c8"
+      "sha256": "9c537991116fe780bce96b41936ca1bd33283496ebcffb6e09f851a07ebacc2d"
     },
     {
       "id": "lib_adabiyoti_jahon_falsafa",
@@ -2345,7 +809,7 @@
       ],
       "chunks": 1,
       "size_bytes": 498,
-      "sha256": "7b8c37192516d156035f0002b4977d637b4c0588fe605e3ae4245663c8bbb5c8"
+      "sha256": "f4defcf2f26c30feb001c65a187578c3e47ef6964b17dfcc490615cfcce939f7"
     },
     {
       "id": "lib_adabiyoti_jahon_nasr",
@@ -2377,7 +841,7 @@
       ],
       "chunks": 18,
       "size_bytes": 3111,
-      "sha256": "8a1fdb559159b1b8ed42385bc64c24a59dbe84437f73d3b7bb00eb6dda639e83"
+      "sha256": "242b6ce7dfb71c34b89582226ecd9283ce7d1cbdbc77b2f3466f313d805853ff"
     },
     {
       "id": "lib_adabiyoti_klassiki_adabiyotshinosi",
@@ -2388,11 +852,12 @@
       "keywords": [
         "адабиети классики",
         "адабиетшиноси",
-        "чахор макола. низомии арузии с"
+        "чахор макола. низомии арузии с",
+        "чахор макола. низомии арузии самарканди"
       ],
-      "chunks": 1,
-      "size_bytes": 531,
-      "sha256": "b0bee3fd1d3fbaf94ea9b24a58cb2fd6bd5754f25c4a45d90f844dd75beb120d"
+      "chunks": 90,
+      "size_bytes": 56750,
+      "sha256": "991f2490dc9cd2ba3c8612b800fc22c275d071c01f69484dfdcb758ff1e6c759"
     },
     {
       "id": "lib_adabiyoti_klassiki_din",
@@ -2407,7 +872,7 @@
       ],
       "chunks": 1,
       "size_bytes": 506,
-      "sha256": "bb168f2124e180c49ea4b0e23ff1af26413db08694e3d6b695008e78b68341aa"
+      "sha256": "0c7346374976a1fafbc4c564cdc90f7c1f05d4868476fdbc129d0bfeec9c06bc"
     },
     {
       "id": "lib_adabiyoti_klassiki_ilmi",
@@ -2420,11 +885,12 @@
         "илми",
         "наврузнома (наврузнаме, nawruz",
         "осор-ул-бокия. абурайхон берун",
-        "рисолаи дилкушо (чанд хикоят)."
+        "рисолаи дилкушо (чанд хикоят).",
+        "рисолаи дилкушо (чанд хикоят). убайди зокони"
       ],
-      "chunks": 3,
-      "size_bytes": 901,
-      "sha256": "2f38917bfce09d4436c692c1612f5ad271de09195646cc42339eaaa93f64bbce"
+      "chunks": 15,
+      "size_bytes": 7983,
+      "sha256": "33aaa1fb04c1a8023e5d3179a86755fe73864674c66c00fe270b1d8b5ddd2805"
     },
     {
       "id": "lib_adabiyoti_klassiki_nasr",
@@ -2435,27 +901,36 @@
       "keywords": [
         "адабиети классики",
         "бадоеъу-л-вакоеъ (ахтарони ада",
+        "бадоеъу-л-вакоеъ (ахтарони адаб, 33). зайнуддин махмуди восифи",
         "бустон (шакли электрони). саъд",
-        "бустон (шакли электрони). саъдии шерози",
         "гулангабини хирад (аз «хамса»)",
+        "гулангабини хирад (аз «хамса»). низомии ганчави",
         "гулистон (шакли электрони). са",
+        "гулистон (шакли электрони). саъдии шерози",
         "гулистон. саъдии шерози",
         "киссаи амир хамза",
         "наср",
         "осори баргузида (саодатнома, к",
+        "осори баргузида (саодатнома, китъахо, сафарнома). носири хусрав",
         "с.шерози-бустон",
         "хамса искандарнома (шарафнома,",
+        "хамса искандарнома (шарафнома, икболнома) — ахтарони адаб, 21. низомии ганчави",
         "хамса лайлию мачнун, хафт пайк",
+        "хамса лайлию мачнун, хафт пайкар (ахтарони адаб, 20). низомии ганчави",
         "хамса махзану-л-асрор, хусраву",
+        "хамса махзану-л-асрор, хусраву ширин (ахтарони адаб, 19). низомии ганчави",
         "хамсат-ул-мутахайирин. алишер",
+        "хамсат-ул-мутахайирин. алишер навои",
         "хон-ул-ихвон. носири хусрав",
         "чор дарвеш",
         "шархи «гулистон»-и саъди. обид",
-        "шархи мунтахаби «гулистон»-и с"
+        "шархи «гулистон»-и саъди. обид шакурзода",
+        "шархи мунтахаби «гулистон»-и с",
+        "шархи мунтахаби «гулистон»-и саъдии шерози"
       ],
-      "chunks": 106,
-      "size_bytes": 59026,
-      "sha256": "69e3bd0126c4cba0db3daba37cad4a5d2f26593fbf27e41c28eff53eacadf869"
+      "chunks": 400,
+      "size_bytes": 249974,
+      "sha256": "ed0acc223b7c4f70c704c34002c42d2df57ecff093339b8421b0c90bdf9fe3db"
     },
     {
       "id": "lib_adabiyoti_klassiki_sher",
@@ -2471,63 +946,63 @@
         "а.чоми-бахористон",
         "адабиети классики",
         "андарзномаи мавлоно чалолуддин",
+        "андарзномаи мавлоно чалолуддини руми. чалолуддини балхи",
         "андарзномаи фирдавси. абулкоси",
+        "андарзномаи фирдавси. абулкосим фирдавси",
         "ахтарони адаб 34-соиби табрези",
         "ахтарони адаб-хилоли",
         "ашъор (ахтарони адаб, 1). абуа",
+        "ашъор (ахтарони адаб, 1). абуабдуллохи рудаки",
         "ашъори мавлоно ч.руми",
         "ашъори мунтахаб. абулфайзи фай",
+        "ашъори мунтахаб. абулфайзи файзи",
         "ашъори мунтахаб. парии хисори",
         "ашъори хакимон ва орифон (ибни",
-        "ашъори хакимон ва орифон (ибни сино, умари хайем ва г.) — ахтарони адаб, 13",
         "ашъори хамасрони рудаки (ахтар",
+        "ашъори хамасрони рудаки (ахтарони адаб, 2)",
         "бадриддин хилоли-баргузидаи ос",
         "бахористон. абдурахмони чоми",
         "башорат",
         "буи чуи мулиен",
         "газалистон (ахтарони адаб, 38)",
+        "газалистон (ахтарони адаб, 38). шамсуддини шохин",
         "ганчи парешон",
         "гаршоспнома (ахтарони адаб, 15",
+        "гаршоспнома (ахтарони адаб, 15). асадии туси",
         "гулшани адаб. чилди 1 (намунаи",
         "гулшани адаб. чилди 3 (намунаи",
+        "гулшани адаб. чилди 3 (намунаи назми форсу точик — асрхои xiv — xv)",
         "дар дар каламрави шеъри мавлон",
+        "дар дар каламрави шеъри мавлоно",
         "дувоздах дарвозаи бухоро (кисм",
+        "дувоздах дарвозаи бухоро (кисми 2)",
         "зебуннисо-саду як газал",
         "калила ва димна",
         "камоли хучанди",
         "кимиеи хирад",
         "кобуснома. унсурулмаолии кайко",
+        "кобуснома. унсурулмаолии кайковус",
         "латоифуттавоиф. фахриддин алии",
+        "латоифуттавоиф. фахриддин алии сафи",
         "лирикаи халкии точик",
         "макоми а.сино дар шеъру адабие",
+        "макоми а.сино дар шеъру адабиети точик",
         "ману як лахза",
         "маснавии маънави дафтари аввал",
+        "маснавии маънави дафтари аввал ва дувум (ахтарони адаб, 23). чалолуддини балхи",
         "маснавии маънави дафтари панчу",
+        "маснавии маънави дафтари панчум ва шашум (ахтарони адаб, 25). чалолуддини балхи",
         "маснавии маънави дафтари севум",
+        "маснавии маънави дафтари севум ва чорум (ахтарони адаб, 24). чалолуддини балхи",
         "мунтахаби ашъор (ахтарони адаб",
+        "мунтахаби ашъор (ахтарони адаб, 17). хаким санои",
+        "мунтахаби ашъор (ахтарони адаб, 28). носири бухорои",
         "мунтахабот (ахтарони адаб, 37)",
-        "мунтахабот. файз алам",
-        "н.хусрав-осори баргузида",
-        "нисоб-ус-сибен. абунасри фарох",
-        "носирали-сархад ва пойгохи у д",
-        "одамони човид",
-        "одамони човид (1)",
-        "осори абуабдуллох рудаки. абуа",
-        "осори рудаки",
-        "пандномаи анушервон",
-        "пирузнома",
-        "рудаки ва замони у",
-        "рудаки чанг бигрухту навохт",
-        "рукаъот. абдулкодири бедил",
-        "рушноинома. носири хусрав",
-        "саду як газал-а.чоми",
-        "сайидои насафи-ахтарони адаб 3",
-        "саргузашти хотами тай",
-        "сафарнома"
+        "мунтахабот (ахтарони адаб, 37). абдулкодири бедил"
       ],
       "chunks": 400,
-      "size_bytes": 180146,
-      "sha256": "d344364dd50c963f0203197b86c5acf50af512e96dedd2c2c574cdd609a81183"
+      "size_bytes": 207857,
+      "sha256": "5f82ca7fedd10f34eab00534fc23cee8ba74a37ebd04716ee97c3f69776a19cb"
     },
     {
       "id": "lib_adabiyoti_klassiki_tarikh",
@@ -2538,12 +1013,14 @@
       "keywords": [
         "адабиети классики",
         "зайн-ул-ахбор. абусаъид абдулх",
+        "зайн-ул-ахбор. абусаъид абдулхайи гардези",
         "таърих",
-        "таърихи байхаки (таърихи масъу"
+        "таърихи байхаки (таърихи масъу",
+        "таърихи байхаки (таърихи масъуди). абулфазли байхаки"
       ],
-      "chunks": 2,
-      "size_bytes": 674,
-      "sha256": "0345aab528c37432a247511c84e8866291b7893d9d42d1d519392ca6ba3d9645"
+      "chunks": 180,
+      "size_bytes": 108978,
+      "sha256": "9cdbaf6558a9bf27b1859e794c469f56aeda83e39208f2124f8bc97a595675a2"
     },
     {
       "id": "lib_adabiyoti_muosir_hikoya_va_qissa",
@@ -2615,7 +1092,7 @@
       ],
       "chunks": 150,
       "size_bytes": 17142,
-      "sha256": "3efc697ddbc489abba01a12dafcfc3b414c347c776b0c200d265c6b0ec8fd732"
+      "sha256": "9b9c438b0e4f9959c02fe647e12c788157076fbd2ff5dab25b47665d4f8c8f09"
     },
     {
       "id": "lib_adabiyoti_muosir_povest",
@@ -2635,7 +1112,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1272,
-      "sha256": "978d05ef08b7c2679cb508893d4b211c4f58fc48241cf6f35a9d3ac9f66d1cdf"
+      "sha256": "950c5653bf042d4a1ec097516ec2daf2b0e1fc615e0e056ecf4c8e645833337b"
     },
     {
       "id": "lib_adabiyoti_muosir_publitsistika",
@@ -2651,7 +1128,7 @@
       ],
       "chunks": 2,
       "size_bytes": 717,
-      "sha256": "010ff999f879188227b640d1aabf68319561c51ac11cc68e7bd740449edbb677"
+      "sha256": "936a2278ab0a24f496e80094b5d05aec653ba845d7d9e5670e4bcdab9279cc7b"
     },
     {
       "id": "lib_adabiyoti_muosir_roman",
@@ -2683,7 +1160,7 @@
       ],
       "chunks": 18,
       "size_bytes": 2759,
-      "sha256": "214913d73eb1217a1c72ef794e034f2440d28f5e3224cdd84ef105b6208a8df9"
+      "sha256": "9a341bad9a101f4e8f5a6fe4036e34344271da5621c3c49f446b134e869d7c7a"
     },
     {
       "id": "lib_adabiyoti_muosir_safarnoma",
@@ -2699,7 +1176,7 @@
       ],
       "chunks": 2,
       "size_bytes": 662,
-      "sha256": "244fe6df841cadd6750adacb98abf22c1122bd7758b1b154453c1ce33cbd9883"
+      "sha256": "258e0f2f2aa717756fd46de42ab7148c0345bcce1405caf2a5d59697b082fd63"
     },
     {
       "id": "lib_adabiyoti_muosir_sher",
@@ -2771,7 +1248,7 @@
       ],
       "chunks": 233,
       "size_bytes": 26322,
-      "sha256": "76abca1156ee92717224553c2d7868820e4f1b2bae46735f8b97a90b140b7491"
+      "sha256": "6e3e86e48f48ee1b42153b8f613e9f67b1375750582101bf54f60b7e52ec4319"
     },
     {
       "id": "lib_asarhoi_talimii_khoriji",
@@ -2843,7 +1320,7 @@
       ],
       "chunks": 400,
       "size_bytes": 34966,
-      "sha256": "2ed292c1f1ba789e2925055d777e98f832f7833df440c130a931653a94dc63fb"
+      "sha256": "f3cf659d41f4b3b2d7995bd3502ca7096c6bebc4cbc786e9ceb368119bc95016"
     },
     {
       "id": "lib_biologiya",
@@ -2915,7 +1392,7 @@
       ],
       "chunks": 219,
       "size_bytes": 22923,
-      "sha256": "43d2a373f560f4714cd61d2483999e461ed6e2d9391b2e6a275c8e82a6acfe72"
+      "sha256": "fcbe86d1d468f8001490ec1a8a13a46228f133d39bd19deb346e494f14bb90f3"
     },
     {
       "id": "lib_bogh_va_polez",
@@ -2930,7 +1407,7 @@
       ],
       "chunks": 2,
       "size_bytes": 633,
-      "sha256": "4911eee90ed9b96cd615e8f8b6610db18214b31d62218da6aa52b7268b7c287d"
+      "sha256": "4ae8ec5e6091743cac380d3934215e0bede14e457610e2a4e6e7022fc7e8f065"
     },
     {
       "id": "lib_chiston",
@@ -2945,9 +1422,9 @@
         "чистонхо",
         "чистонхо 1"
       ],
-      "chunks": 75,
-      "size_bytes": 21110,
-      "sha256": "e97d2fe37de4c2d305d5bbe8dc23fbbf9fdaaaeb022d8be4fd520a8b72a15a76"
+      "chunks": 173,
+      "size_bytes": 74377,
+      "sha256": "aabaeeddecb640c43c3aedc6fd4cc7fb269db96cac13ff4e6eb4bb13cc8e5fad"
     },
     {
       "id": "lib_digar",
@@ -2963,7 +1440,7 @@
       ],
       "chunks": 3,
       "size_bytes": 651,
-      "sha256": "a21d04c347e67574cbdbf9d892f7ae9038c045124af5f6d0b3ced49b67f4b169"
+      "sha256": "32d9e67016fe3426b9583b3e84095158716a50373f71639156423c0d10622acc"
     },
     {
       "id": "lib_falsafa",
@@ -3035,7 +1512,7 @@
       ],
       "chunks": 400,
       "size_bytes": 37737,
-      "sha256": "df2a7dd043062ae1ca2f662f6fc37c1b4c78beee7f1a8041973f9facdb23212e"
+      "sha256": "4dc9b7863632ddd9cdc9e6706c2b4af9e32b4dad4cccad378f078328f973196f"
     },
     {
       "id": "lib_fantastika",
@@ -3071,7 +1548,7 @@
       ],
       "chunks": 23,
       "size_bytes": 2591,
-      "sha256": "96ee1bda72ea35b2c356614cb83605031c8046b14d8fce59c482b3c1d701b3e2"
+      "sha256": "4fb9449dea0d76243a1132db5376513bbdd597ba281462d68cc2781506fa553c"
     },
     {
       "id": "lib_farhang_lughat",
@@ -3091,7 +1568,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1312,
-      "sha256": "cbc8419dc1e0f30615720d57b6917b5020d2b89185700e03524bcd9e97948309"
+      "sha256": "af4b0130a43f903b0787155d9fed350826cda06f350734f254b926b08e5e48fa"
     },
     {
       "id": "lib_farhangshinosi",
@@ -3163,7 +1640,7 @@
       ],
       "chunks": 400,
       "size_bytes": 39671,
-      "sha256": "caaf5e650f59094e1651aef489640c49ee57f6e600d340ebc48e9d53710f45ce"
+      "sha256": "070dc2c74856015e799e8f299638c1cb237a3a2cbd0ea1a85d024120e44b0d1f"
     },
     {
       "id": "lib_filmsozi",
@@ -3181,7 +1658,7 @@
       ],
       "chunks": 5,
       "size_bytes": 908,
-      "sha256": "71b382017a4da53b7e90c189e89c8332eaa8e89dc96d4a5034104c70dc404a69"
+      "sha256": "d34eb592c5ba4ac706f7ba8bc565e0c88a91518aebf2ef3125e77a3a69594978"
     },
     {
       "id": "lib_fizika",
@@ -3205,7 +1682,7 @@
       ],
       "chunks": 11,
       "size_bytes": 1641,
-      "sha256": "4b3c3792e4e4234fab08086209a08bfc8f9f61c6be292cfe86b9d1d5786d11b6"
+      "sha256": "461c8cf3f587e69b13fbcf508bf6c6222f96c94497944a8770a7d30533099edb"
     },
     {
       "id": "lib_ghayra",
@@ -3277,7 +1754,7 @@
       ],
       "chunks": 137,
       "size_bytes": 9799,
-      "sha256": "42ae3cda40e03c6de5170bafe016ea9c7268858bd576db45ca4695e2654223c6"
+      "sha256": "3c65c1526dc2e2ea570fa129db2308263ff919b0fbdf2f14851217a05c96c5f8"
     },
     {
       "id": "lib_huquqshinosi_qonunguzori",
@@ -3311,6 +1788,7 @@
         "8080 huquq . -2025. 202с",
         "az payi yak kushtor-2005. 139с",
         "hayot biduni komisiya. -2021.",
+        "hayot biduni komisiya. -2021. 28с",
         "kodeksi oid ba nikoh va ... -1",
         "militsiya homii tartibot",
         "tojikiston taqsimoti",
@@ -3319,10 +1797,11 @@
         "бюджетная система российской ф",
         "ватандусти ва хукук",
         "ганчинаи афкори сиеси ва хукук",
+        "ганчинаи афкори сиеси ва хукукии",
+        "ганчинаи афкори сиеси ва хукукии (2)",
         "дин ва ифрот",
         "журналистское расследование",
         "масъалахои назари ва хукукии т",
-        "масъалахои назари ва хукукии ташаккули зиеии муосир",
         "мафкураи милли ва хукук",
         "мир приключений, 1929 № 01",
         "мухтасари конунномаи сосониен",
@@ -3330,18 +1809,23 @@
         "назарияи идоракунии шарки",
         "правовая система",
         "правовая система зороастризма",
+        "правовая система зороастризма монография",
         "роберт грин «48 законов власти",
+        "роберт грин «48 законов власти»",
         "таърихи давлат ва хукуки точик",
+        "таърихи давлат ва хукуки точикистон",
         "теория государства и права",
         "фарханги истилохоти хукуки кон",
+        "фарханги истилохоти хукуки конститутсиони ва хукуки маъмури",
         "холикзода абдурахим гаффор зои",
+        "холикзода абдурахим гаффор зоир чурахон мачидзода холикзода абдуманон гаффор",
         "хукук дар таърихи халки точик",
         "хукуки исломи",
         "хукукшиноси, конунгузори"
       ],
-      "chunks": 231,
-      "size_bytes": 113328,
-      "sha256": "62dbf69836e218a937c12b249a3160f574af6a8a9db3e0233514380392c3a4d7"
+      "chunks": 400,
+      "size_bytes": 211926,
+      "sha256": "1fa8ed68df657a257037284845fc312a900c7e3d2c8ef063d15c8d824738ee94"
     },
     {
       "id": "lib_idora_intikhobi_korkunon",
@@ -3357,7 +1841,7 @@
       ],
       "chunks": 3,
       "size_bytes": 728,
-      "sha256": "d72ca6ed012cebafc9b05382ac30c05bb6ae74a4c358d0bcf5c83975529192a3"
+      "sha256": "d860f767b4e4a73d633f417991e973d1c643c38d1dcf514fe70e7d270b0cc259"
     },
     {
       "id": "lib_ilmi",
@@ -3385,7 +1869,7 @@
       ],
       "chunks": 15,
       "size_bytes": 2798,
-      "sha256": "5dfa5a01fe38d6739152d4d8178047cbcb0b9f345e988df6e767b15b9f39b912"
+      "sha256": "8a9431b68297b06241a947abe3a1a48d365ea800dbee9706e57a5e72b3b80321"
     },
     {
       "id": "lib_ilmi_adabiyotshinosi",
@@ -3403,7 +1887,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1110,
-      "sha256": "225f871255394bd60bef9cb5fe011b8bce1e83780deb4d9bcdb36ba46d58566e"
+      "sha256": "03acd73442c59229e75335b1dcccef692de1d4975d14a56adc5c7b511ef50a91"
     },
     {
       "id": "lib_ilmi_falsafa",
@@ -3433,7 +1917,7 @@
       ],
       "chunks": 16,
       "size_bytes": 2635,
-      "sha256": "ec851a3745ff8ef901deea182b35b7d4be0637833c9d2cf6f34f96bfab08692f"
+      "sha256": "5c823e216b27e7e940b5ec68726ab62e7e927656be150e729e236b6ad2bc11c3"
     },
     {
       "id": "lib_ilmi_huquq",
@@ -3448,7 +1932,7 @@
       ],
       "chunks": 1,
       "size_bytes": 465,
-      "sha256": "b5303f215f7f67f30f492b43c9b033621bec2f1fa309661fb0e0485a8e7b9220"
+      "sha256": "f190489364a6a5e0f5af7308172f6de66b484fa2215c5a6d86ad33ff0df80b92"
     },
     {
       "id": "lib_ilmi_informatika",
@@ -3473,7 +1957,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2114,
-      "sha256": "a9afccaa11c35f97cbb236c75be90c069c802b3b38787bccbdb54a2da12755b6"
+      "sha256": "51d8b43eb1ffc0c212cea044da11cb0ec6646bdd285c73d6d0b2f61137fcf50a"
     },
     {
       "id": "lib_ilmi_kimiyo",
@@ -3488,7 +1972,7 @@
       ],
       "chunks": 1,
       "size_bytes": 517,
-      "sha256": "933ba7f9f4773b9642dddf006e6d249e8342434919253d0bdbfe0208f794e425"
+      "sha256": "5789540ca0422ed383ef151a3b034bb73b53d7d9c23cce97c6bcaf0ff370d74d"
     },
     {
       "id": "lib_ilmi_matematika",
@@ -3506,7 +1990,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1107,
-      "sha256": "56a523396b0e5fe84e3eb86cd3bf9b33cb814f94da9af3fcceed2c1a60872305"
+      "sha256": "5dc935b2e3649aa0e760d05c0ec8e82d1d06505f9321cc74522bc4a1609c9d14"
     },
     {
       "id": "lib_ilmi_pedagogika",
@@ -3542,7 +2026,7 @@
       ],
       "chunks": 22,
       "size_bytes": 4020,
-      "sha256": "68e8e68a35782ee41dcdc13f006bfda7657025bfab1cbd3bf3d1731e4b122310"
+      "sha256": "bec44d5fb744ad9993b68ff9994eeb273dde0119f9fa8a1b974326cc0ad73fae"
     },
     {
       "id": "lib_ilmi_psikhologiya",
@@ -3560,7 +2044,7 @@
       ],
       "chunks": 4,
       "size_bytes": 978,
-      "sha256": "d77ae9d1493b1c9845bab45b0c47cb4bbc83707c66306ac36fba4c6d9152b0fd"
+      "sha256": "7396a29e39d4f0cbc02639b61629e80c3e14fce51e6b3224c9698a6cc7c36138"
     },
     {
       "id": "lib_ilmi_siyosatshinosi",
@@ -3577,7 +2061,7 @@
       ],
       "chunks": 3,
       "size_bytes": 815,
-      "sha256": "8ef5b448bc9db42bc11a3c716210cf4990b1b6ef859d82114e2149652f84bca4"
+      "sha256": "670f2a7001b22b1a7449df04c902bc93b1365c1ad9878d91cdb45a9d3e71cd4c"
     },
     {
       "id": "lib_ilmi_tekhnologiya",
@@ -3592,7 +2076,7 @@
       ],
       "chunks": 1,
       "size_bytes": 486,
-      "sha256": "bd389d46e569ff7c20e341065e21985d09c4a07db5e23a242ea470e0ea697e9e"
+      "sha256": "34bcff7c0fa9cbba7cfb26e47af9a1c2dc55372e4db96a0eef0275531d510460"
     },
     {
       "id": "lib_ilmi_zabonshinosi",
@@ -3615,7 +2099,7 @@
       ],
       "chunks": 11,
       "size_bytes": 1698,
-      "sha256": "7bc1f5ff9ca2730cfbf135279e5872a7c3226c47d91d0ab58883367af97a09c6"
+      "sha256": "5d57c7f6e080d24f660e9947c64aa92eb37e15a52d85cb48647ab3ff95800c20"
     },
     {
       "id": "lib_informatika",
@@ -3644,7 +2128,7 @@
       ],
       "chunks": 17,
       "size_bytes": 2195,
-      "sha256": "3fc9450b7c67e9dfb3a978225b35f8ee5ba3cc597c6b36bcdd213c5e2cdc98e7"
+      "sha256": "f3092be7455b0eeb0e14d9f40e617c82d9833c5f1ffa1d05a0004c76070e426d"
     },
     {
       "id": "lib_iqtisod",
@@ -3713,7 +2197,7 @@
       ],
       "chunks": 56,
       "size_bytes": 5225,
-      "sha256": "02d9a99c81afc61a1d741678d799f5e01bff8aac5e826303ab31ec745bb876a4"
+      "sha256": "cae1a006b8a74f8439ed0ac903471064b54afffb3e18a19c0fcf7b6c72c92c0a"
     },
     {
       "id": "lib_iqtisod_bukhgalteriya",
@@ -3730,7 +2214,7 @@
       ],
       "chunks": 3,
       "size_bytes": 801,
-      "sha256": "6132c3bf2ae04da89f7b8b4332876ee536d9b87fc0a639cf139d8a2f3a42666a"
+      "sha256": "b081ca7a33108737e4bf70fa1a0fd520d5ce460d499b99e9340d70184babc682"
     },
     {
       "id": "lib_iqtisod_iqtisodiyot",
@@ -3745,7 +2229,7 @@
       ],
       "chunks": 1,
       "size_bytes": 446,
-      "sha256": "0dd2e76c1f251cefd1af6ed4ddff2513999fd742c3db53fa057fbe0cbb697784"
+      "sha256": "706506f29b6d0d3a35914df369b7083d5cf08a776bf1a083150cb6eda63c6624"
     },
     {
       "id": "lib_iqtisod_marketing",
@@ -3760,7 +2244,7 @@
       ],
       "chunks": 1,
       "size_bytes": 504,
-      "sha256": "c846452bdd8f29043fec217685972178a376107d684e82e0e3b6928f6d97c9e5"
+      "sha256": "cc1f9fa832b711bba8424dff954f02e9bcfd99425ce3aca64e4b848ba4b0244a"
     },
     {
       "id": "lib_iqtisod_moliya",
@@ -3778,7 +2262,7 @@
       ],
       "chunks": 4,
       "size_bytes": 981,
-      "sha256": "2a58d8a4fa1c912d7ac754125a2cc14f2f2d4ec2f124e9b77c58b8f2cafad004"
+      "sha256": "db3297b1bfc94974321eef8c8988838927ee7a3cdd40fc9f0634b3a9a3ae892c"
     },
     {
       "id": "lib_islomi",
@@ -3792,7 +2276,7 @@
       ],
       "chunks": 1,
       "size_bytes": 374,
-      "sha256": "74e02ee0090f750c0757cc0cfda6ca4eebd0304a4bf99ce3db30b25252266d6b"
+      "sha256": "7954e7dfdb16a5c2391f95c3a950181d56373eef0c3c9ff5273681b14e4d4366"
     },
     {
       "id": "lib_islomi_akhloq",
@@ -3812,7 +2296,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1355,
-      "sha256": "39448b62dbd743c51069b247c87e8c8991cfe6c83707fefbabba708b22ec3090"
+      "sha256": "995253b13a4dc3f3781355a3519e99f8ab890a7786e71910a5d79cd1546b7313"
     },
     {
       "id": "lib_islomi_digar",
@@ -3864,7 +2348,7 @@
       ],
       "chunks": 38,
       "size_bytes": 5828,
-      "sha256": "8378a0b1788746d2e19f5e36f3c9ed70cf5ecd2f9d988123cf32211a8d8a8477"
+      "sha256": "b24f47c5583c0a3041a6f038c5a83d791038dfc7c701934af9c2c3131018f1fe"
     },
     {
       "id": "lib_islomi_fiqh",
@@ -3879,7 +2363,7 @@
       ],
       "chunks": 1,
       "size_bytes": 536,
-      "sha256": "0451c4fa6b612db59615aac116e7d00b54b38b4dfaf726f72df0a20dfcb66427"
+      "sha256": "70ea93e47f7da98b26ca0e300cab7538b7555c15987606b99346265580abc108"
     },
     {
       "id": "lib_islomi_hadis",
@@ -3897,7 +2381,7 @@
       ],
       "chunks": 4,
       "size_bytes": 982,
-      "sha256": "c51ea6a4a4e82c5d68cab35b2ed3903e7de9a9c88edcf36811c3fc5531b04021"
+      "sha256": "0b7e6cad79bbd6cff5fa62546ef0bff9c6278b6b97e4ca0c31da503d0be03759"
     },
     {
       "id": "lib_islomi_quron",
@@ -3915,7 +2399,7 @@
       ],
       "chunks": 4,
       "size_bytes": 842,
-      "sha256": "3a2a99e8b7745c0a48616505ab5a39fee7b8bfe51b8267367399585d8e262a9c"
+      "sha256": "e3821b624edf7f9d84861a232c2e3405109943a1fd35b33e85d37ff272e4f1b3"
     },
     {
       "id": "lib_jughrofiya",
@@ -3955,7 +2439,7 @@
       ],
       "chunks": 27,
       "size_bytes": 3162,
-      "sha256": "b01d3bf144e01cbc7d83494f5c2a55513b3d8947ed4010acbe0a19dfefcdf696"
+      "sha256": "588651b95d0b4cb1c8f07c17b0f4b80d19d1132f9e44e7b8624443d6fda2f6c5"
     },
     {
       "id": "lib_kamoloti_shakhsi",
@@ -3994,7 +2478,7 @@
       ],
       "chunks": 28,
       "size_bytes": 3836,
-      "sha256": "a01931d80bd41d906ce0062333d509ca0775402b87978c1939640b2c7f29d915"
+      "sha256": "ba7cc8101eea5bb0730009bc07ebad915487f3cfbed176d31d90a4ed89cabd07"
     },
     {
       "id": "lib_khud_bisoz",
@@ -4021,7 +2505,7 @@
       ],
       "chunks": 14,
       "size_bytes": 2078,
-      "sha256": "433828483bed81915fc142c55e18328aeb57f4d3fb36223d1f70a15528df8d50"
+      "sha256": "278dfff6ce517b4212a8d05efc35fdfcdfc3dbf5c3acd0d68f0b8de7c73b2a19"
     },
     {
       "id": "lib_kitobho_baroi_peshvoi_millat",
@@ -4032,14 +2516,16 @@
       "keywords": [
         "китобхо барои пешвои миллат",
         "мафхумхои бунеди назорати сиес",
+        "мафхумхои бунеди назорати сиеси",
         "суханронихои хикматомузи прези",
+        "суханронихои хикматомузи президент эмомали рахмон дар бораи забон",
         "фаъолияти байналмилали пешвои",
-        "фаъолияти байналмилали пешвои миллат",
-        "эмомали рахмон асосгузори давл"
+        "эмомали рахмон асосгузори давл",
+        "эмомали рахмон асосгузори давлатдории точикон"
       ],
-      "chunks": 94,
-      "size_bytes": 52387,
-      "sha256": "4f9e9233d16d0bafba13ed4fdf96adf59fd7bddb515d6ad6659a72498167c328"
+      "chunks": 184,
+      "size_bytes": 90004,
+      "sha256": "aa8607e53e41d454bb6ad81b0893279e08bddb059255ea050f4140c7660a5fd5"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_1",
@@ -4060,7 +2546,7 @@
       ],
       "chunks": 7,
       "size_bytes": 973,
-      "sha256": "690747f0d17a5564273f18da8346e97c70c95b3f0ef9a0da7a242bd964dd6640"
+      "sha256": "7f1dbbbeac9d5d79b9d851f179b165630c99e930f72372cf21966fd3929525fd"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_10",
@@ -4099,7 +2585,7 @@
       ],
       "chunks": 25,
       "size_bytes": 2099,
-      "sha256": "ace511b14dc24b06ec3cb1b61b9bdeabec28c12062464f7d3b93711e14093ac5"
+      "sha256": "56d455d0c0eec63a86c0e11fec70c41069eeb33083cd61a4855770efa190c983"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_11",
@@ -4144,7 +2630,7 @@
       ],
       "chunks": 31,
       "size_bytes": 2578,
-      "sha256": "644f56cdc1c770cf3541e95e778253cc8b6c9e2c8ee63d1d1a9b6dc74e0569f8"
+      "sha256": "53af816711258fd13202a35f5391c7bc99d6c9babd462dfa0f60f1f2e11e3543"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_2",
@@ -4166,7 +2652,7 @@
       ],
       "chunks": 8,
       "size_bytes": 1012,
-      "sha256": "3497edf0dcff61ff94adfff8af77a881923fefe7177c63386c6e5de0a0d57e94"
+      "sha256": "d0e10d0f4ef41700e1887c9e99767f36a932262939424a827e6939f9ef2941df"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_3",
@@ -4195,7 +2681,7 @@
       ],
       "chunks": 15,
       "size_bytes": 1306,
-      "sha256": "86bf8614996932f4c384fe9c610859e488106664f27f97f9f45e2b07622e3fdb"
+      "sha256": "e93eabe5df25470331a0b1e296519a771979e6cb2409d73b392931f4e92b62d6"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_4",
@@ -4218,7 +2704,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1188,
-      "sha256": "06b025d2189947b273ed5f27cf594ee9b66e9e98f06e839aa49c222ee2586102"
+      "sha256": "a1d60de9e07a695f26429c22538c1e761c6a5073404a3d67ca096a4069348fce"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_5",
@@ -4254,7 +2740,7 @@
       ],
       "chunks": 22,
       "size_bytes": 2101,
-      "sha256": "266de6f531d47ef950d9638613be2179d71b640b529de50c1e2dd3a7d28b5ea3"
+      "sha256": "cf7711ab1529347de11dab9e4f3a59057621feabb2884d56308c23ad8379a81a"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_6",
@@ -4297,7 +2783,7 @@
       ],
       "chunks": 29,
       "size_bytes": 2766,
-      "sha256": "3909ab3620f5a5d52d7235406b7142fd2a2644286f479ae9bbf52ede64f3aea0"
+      "sha256": "103c4bfaa6bec8663560b777133f058ce5d69a727b2fca323f9e374e7cd83362"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_7",
@@ -4332,7 +2818,7 @@
       ],
       "chunks": 21,
       "size_bytes": 2079,
-      "sha256": "9e66a0dc5568a4a9f8369cbfe9d357c52b723d5f4fa09f72fddec506007b13e8"
+      "sha256": "1f244dbf30ff52e2c99d67da6b72ec9f6fa58380043a9adc26b4c63c60d12584"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_8",
@@ -4374,7 +2860,7 @@
       ],
       "chunks": 28,
       "size_bytes": 2587,
-      "sha256": "82a3e56d4f5e37e0fd975ea8683465980fb9b9242c1790e2a42fa3354e79e305"
+      "sha256": "53f526ffc79ec0808ab4a78fc6aaa07177cdc6d4ac6fc65be8882693ad5c2199"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_9",
@@ -4417,7 +2903,7 @@
       ],
       "chunks": 29,
       "size_bytes": 2274,
-      "sha256": "0ff116b7318a41519d50cf225221699073948523cb3dc0a0d9e3cca3a568503d"
+      "sha256": "c546fb61240e5332b78783ec1b9f575c7904e2b198285b17c22066a6b9418d99"
     },
     {
       "id": "lib_malumotnomaho",
@@ -4431,7 +2917,7 @@
       ],
       "chunks": 1,
       "size_bytes": 411,
-      "sha256": "08708ee5cd745a823fa5d43c2804acb103c99a1057105a63ba43cf677d4d4e7b"
+      "sha256": "0b9ea0acba48559d83c8655d402970d49d81a73b1e12b24e7ffc948d29d30f81"
     },
     {
       "id": "lib_manbahoi_digar",
@@ -4477,7 +2963,7 @@
       ],
       "chunks": 34,
       "size_bytes": 4436,
-      "sha256": "402aa45ce92b36f21c7ae7db189a74fa37d080eb1639099a81a3d5cdedf1a820"
+      "sha256": "ba6d377f5f986dc2aeaf72476825886ed07a8608d7e9a41fa471c4443b8615ec"
     },
     {
       "id": "lib_mazhakavi",
@@ -4540,7 +3026,7 @@
       ],
       "chunks": 50,
       "size_bytes": 5984,
-      "sha256": "7f0fd18f869250526a168710d7a8ffb7ce20b62cb787c065eae7b78244c520ec"
+      "sha256": "ac8ac26db1e8060a79a22ad70948271ee608a3819c1d61ac72a8fc8d2237224d"
     },
     {
       "id": "lib_musiqi_raks",
@@ -4555,7 +3041,7 @@
       ],
       "chunks": 2,
       "size_bytes": 569,
-      "sha256": "2cd23eee0b046c2b65d45143d900a3af3379cdd0bbea804133d6cf7d155adbcf"
+      "sha256": "ce1ccd718126570da9fc234f36dec73acbb87242751d46e59197e1fd5408b287"
     },
     {
       "id": "lib_nasr",
@@ -4585,7 +3071,7 @@
       ],
       "chunks": 17,
       "size_bytes": 1930,
-      "sha256": "f8aead49c24e9b4c6ca16cee23957b2f03fd6d47ae35dfa4cad4724dbce93618"
+      "sha256": "73916fef588ad5ee78674506734ed8456da6cb3627a1957eb3431fbf5c93e9aa"
     },
     {
       "id": "lib_pedagogika",
@@ -4657,7 +3143,7 @@
       ],
       "chunks": 83,
       "size_bytes": 10166,
-      "sha256": "fba8e94bf680bf1820e143a725be3a1c6c0ac845bf1966f4d96466d479b78760"
+      "sha256": "6a47f91845716af6c7d9a0160174281c58ce689b3357e4b6fc938daa5278fe05"
     },
     {
       "id": "lib_peshvoi_millat",
@@ -4672,10 +3158,12 @@
         "душанбе шахри дусти ва бародар",
         "забони давлати ва истиклол",
         "забони миллат - хастии миллат",
+        "забони миллат - хастии миллат китоби-1",
         "зиндаги аз модар сар мешавад",
         "ислохоти иктисоди такозои замо",
         "истиклолият неъмати бебахост",
         "истиклолияти точикистон ва пеш",
+        "истиклолияти точикистон ва пешвои миллат",
         "мавлоно ва тамаддуни инсони",
         "масъулият дар назди замон",
         "мероси имоми аъзам ва гуфтугуи",
@@ -4686,15 +3174,20 @@
         "точикистон дах соли истиклолия",
         "точикон дар оинаи таърих (иофо",
         "точикон дар оинаи таърих китоб",
+        "точикон дар оинаи таърих китоби дуюм аз ориен то сомониен",
+        "точикон дар оинаи таърих китоби сеюм аз ориен то сомониен",
+        "точикон дар оинаи таърих китоби якум аз ориен то сомониен",
         "фарханг хастии миллат аст",
         "хуршеди назм",
         "чашни истиклолият ва анчумани",
+        "чашни истиклолият ва анчумани дуюми умумичахонии точикон",
         "чехрахои мондагор",
-        "эмомали рахмон – буненгузори с"
+        "эмомали рахмон – буненгузори с",
+        "эмомали рахмон – буненгузори сиесати хоричии тоыикистон"
       ],
-      "chunks": 29,
-      "size_bytes": 3604,
-      "sha256": "ae80cca9269e42ab6e960a094330a0c02751aaee64d99ac7ea657103f5788112"
+      "chunks": 400,
+      "size_bytes": 212599,
+      "sha256": "80e390db59be2ad5ecce46990bff0bfd542e93a38c13562bf28a27c2ef6fb153"
     },
     {
       "id": "lib_ravondarmon_va_mushovira",
@@ -4713,7 +3206,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1146,
-      "sha256": "9f99b382d10c16888544ece01b1b294fe74277ce924c1dbd4adbea7ce0456974"
+      "sha256": "0db4f217b4e9e9c6b321d3458381d456e224ee79ce2e4e654c2eb7080effd156"
     },
     {
       "id": "lib_ravonshinosii_ijtimoi",
@@ -4728,7 +3221,7 @@
       ],
       "chunks": 2,
       "size_bytes": 591,
-      "sha256": "2155746f8d45ad2a2cc40745a497566ba70c2e4554420449fc25a8298a98b9a1"
+      "sha256": "59db226d441d6c9fb86489a1b8607706229f5c8e6cf2fc5474ecbdba3d1c3ddf"
     },
     {
       "id": "lib_ravonshinosii_k_dakon",
@@ -4770,7 +3263,7 @@
       ],
       "chunks": 29,
       "size_bytes": 4660,
-      "sha256": "4b911fcad4ec62f5bf7522eeed92ee9aa0de62675f53bbc50d8441f66388fcb4"
+      "sha256": "5d0c053da690158bf3edfa5190b88b1380456cc7334ac0fd9f8bfb2fb9e71ba0"
     },
     {
       "id": "lib_ravonshinosii_khonavodagi",
@@ -4790,7 +3283,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1257,
-      "sha256": "cc587920497e75c89e2ef7aebad090ccfe920d72773d1dc4bc2c35b116bff049"
+      "sha256": "34701604f1e3492650f4997f26b6f0be2e475f1397d96f2f728f86adf604a355"
     },
     {
       "id": "lib_ravonshinosii_klassik",
@@ -4806,7 +3299,7 @@
       ],
       "chunks": 3,
       "size_bytes": 690,
-      "sha256": "2fbc4676767af27399ecbee2b417638c2c0ab1dcc13475c7e8973080c86a2832"
+      "sha256": "0c48e68d7796688527ac8c5c19baf975409922032d998d75a947914fecd28e2d"
     },
     {
       "id": "lib_ravonshinosii_umumi",
@@ -4878,7 +3371,7 @@
       ],
       "chunks": 229,
       "size_bytes": 27516,
-      "sha256": "e35c603065538c4ca9fea4076e8ff38b4477da3b3376163a1f48f7fd1878f0bb"
+      "sha256": "860daab17950cebcf18a80e9f6b64bc59559fb8b2537190d1d907ef08bfaea0a"
     },
     {
       "id": "lib_riyozi",
@@ -4950,7 +3443,7 @@
       ],
       "chunks": 70,
       "size_bytes": 8676,
-      "sha256": "fd94eb98c46da23438ecd3e3e217f09f7e1d1103982bcb2d608b7644d179dd43"
+      "sha256": "b2cf09c16de26b5b6a3021a4cc5bb1f547ce7e34a87fafb228e9b837a183039f"
     },
     {
       "id": "lib_rushdi_shakhsiyat",
@@ -5012,7 +3505,7 @@
       ],
       "chunks": 49,
       "size_bytes": 7713,
-      "sha256": "a3044e50cbf70fe5cd6d0aa8b991e6b87bce3dbbd29f0f6b5617b60a0a3639b1"
+      "sha256": "dd0106c0e8323f79d96eb66497b7c2c235ac49f4657a89c105bc6cf9683e2daa"
     },
     {
       "id": "lib_sanati_oroishi",
@@ -5030,7 +3523,7 @@
       ],
       "chunks": 5,
       "size_bytes": 845,
-      "sha256": "806bbcc470d67991d5461d5ac4cee49a423cd6d35e11d4e9ec8497372e7d0d74"
+      "sha256": "31cd097c7f6aaad78d6a0fbbb76d95e6ee2f6f040722f62050939fc095ad35de"
     },
     {
       "id": "lib_sargarmi",
@@ -5102,7 +3595,7 @@
       ],
       "chunks": 172,
       "size_bytes": 20954,
-      "sha256": "3b72a9de98818ee78da6867ec4f4053f2e8f2c6bc1613a446fe66f1b25f5bd76"
+      "sha256": "856c6536fa7aad87b2eb4f33d9da4ed2294ddfa580920c28109e517348043040"
     },
     {
       "id": "lib_sarmoyaguzori",
@@ -5117,7 +3610,7 @@
       ],
       "chunks": 2,
       "size_bytes": 539,
-      "sha256": "96f3c9146f53dc4ae4250ce5747f88f0db9e54304bfa394ff57059ea7007d677"
+      "sha256": "9ba5c9734db408d067e25525175e25b8b3d939dcb2e9c702fa73c26541f6437d"
     },
     {
       "id": "lib_satsiologiya",
@@ -5137,7 +3630,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1148,
-      "sha256": "b50cd5fdcf1a16cc61128608c47d50ffe1d6485f85245f1c184aaee0f4ba9158"
+      "sha256": "2c875c96aa9ae44f6c33f385bb589d50ac053e3529f8f4615fbefd9c309323fa"
     },
     {
       "id": "lib_sherho",
@@ -5148,11 +3641,9 @@
       "keywords": [
         "absolute rage",
         "agnivcev n stihotvoreniya sbor",
-        "agnivcev n stihotvoreniya sbornik.a6",
         "avvaly ohiri ishk",
         "boroni besarajom",
         "bozor sobir az gulikhor to sim",
-        "bozor sobir az gulikhor to simkhor",
         "detskij ostrov i drugie stihot",
         "dumaj dumaj",
         "dunyi mehr",
@@ -5182,7 +3673,6 @@
         "silsilai badahshon",
         "sozhoi badahshon va taronahoi",
         "stihi dlja malenkih detok. pos",
-        "stihi dlja malenkih detok. posvjaschaetsja vsem rebjatishkam doshkolnogo vozrasta",
         "stihotvorenija i poemy",
         "subhi vatan",
         "surudake dar harfi o",
@@ -5193,8 +3683,8 @@
         "шеърхо"
       ],
       "chunks": 400,
-      "size_bytes": 209639,
-      "sha256": "3ba854058660135621eaf00c7933efbdec54e215995879d972486826e4c7684d"
+      "size_bytes": 197015,
+      "sha256": "5835ef39bad35323cbcb2d465b6fbcd806c7a439b131e37f7b5e2e58c74146ae"
     },
     {
       "id": "lib_siyosat_siyosatshinosi",
@@ -5266,7 +3756,7 @@
       ],
       "chunks": 369,
       "size_bytes": 34458,
-      "sha256": "d36237173336a0794a4a7ce6edcb7971d9a487ff6d6a14bbbbbf0c3afa3bdcfe"
+      "sha256": "2257d1bfd8afc8d6aea3b498a5bf42158f18a6abaaa6de52f6afe737a59d7926"
     },
     {
       "id": "lib_tabiat_va_hayvonot",
@@ -5297,7 +3787,7 @@
       ],
       "chunks": 18,
       "size_bytes": 2442,
-      "sha256": "081206fa980041f13ada7f483431042c7b2cc4fb287adbb1012ed9d3559a58c7"
+      "sha256": "9f2c9bdf47eb353a61539e6b683bcdb8bbbf779ffba755bc717cb466d0de47da"
     },
     {
       "id": "lib_tarbiyai_k_dakon",
@@ -5369,7 +3859,7 @@
       ],
       "chunks": 73,
       "size_bytes": 9463,
-      "sha256": "abdef98a12caafe2cd2a568aa06f206248f098c178dcf2e58e25433fb046c7bd"
+      "sha256": "412e11135966105f5f6b0e39a546e2d40b5ab80eb7ab9d7316a9c746adb12280"
     },
     {
       "id": "lib_tarikh",
@@ -5390,11 +3880,12 @@
         "таърих",
         "точикон. охирхои асри миена ва",
         "точикон. таърихи кадимтарин, к",
-        "эхеи ачам. ручуи таърихию публ"
+        "эхеи ачам. ручуи таърихию публ",
+        "эхеи ачам. ручуи таърихию публицисти. акбар турсунов"
       ],
-      "chunks": 12,
-      "size_bytes": 1675,
-      "sha256": "9ed0e2bbaf645f342e1640e62176b318ab943949b3efc0a615f43b9a6c5a9350"
+      "chunks": 282,
+      "size_bytes": 166749,
+      "sha256": "84d8445ec779bc4d65e0338997fa2e0c7ee1e66f8afc229f52af0c64c89ff631"
     },
     {
       "id": "lib_tarikh_tarikhi_jahon",
@@ -5405,11 +3896,12 @@
       "keywords": [
         "таърих",
         "таърихи инкилоби бухоро. садри",
+        "таърихи инкилоби бухоро. садриддин айни",
         "таърихи чахон"
       ],
-      "chunks": 1,
-      "size_bytes": 471,
-      "sha256": "ffd5009f98e16a2dea148f269c4a98c8d276f6deb739834911577ffc5f8045b6"
+      "chunks": 85,
+      "size_bytes": 53922,
+      "sha256": "079265d7f46766d82323b7da986a237abba9b78642ef81b9ba2f7c4741bd145c"
     },
     {
       "id": "lib_tib",
@@ -5481,7 +3973,7 @@
       ],
       "chunks": 400,
       "size_bytes": 41723,
-      "sha256": "33b35731c57b00c4df5d00a4d40e6a0e0c28501734c4ddef326d464456506abd"
+      "sha256": "e31084b2c8b85e20bb447f78597262cd39d7a141f281b6626e48aa7d2f433aef"
     },
     {
       "id": "lib_tib_tibbi_ananavi",
@@ -5505,7 +3997,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1675,
-      "sha256": "d9c1c492e371d562788edf69f15d9f50e8c4e9c92c8a730212a11c92517144e5"
+      "sha256": "83d9f508249611ea24e342fe6cd2512ccadab1ce2e9bf61299554544273d0c26"
     },
     {
       "id": "lib_tib_tibbi_klassiki",
@@ -5521,7 +4013,7 @@
       ],
       "chunks": 2,
       "size_bytes": 620,
-      "sha256": "417f12ed2758defdc83efe195e7b4cb495b989f3ba42ca3c6600e9ed4735457e"
+      "sha256": "5b04eb3fb6ad60ae2e14519cbae2991c15f81e5ad42502c1999adfa6f479da64"
     },
     {
       "id": "lib_zabonhoi_khoriji",
@@ -5580,7 +4072,7 @@
       ],
       "chunks": 46,
       "size_bytes": 7052,
-      "sha256": "dd2f252c7eb686641647f329107a6ed1300a069c6ae1fcf5ff395a91016bd911"
+      "sha256": "f586a6c10168af40e0eab5ed0683155b157eddbfc823c496dec37bd2359dced3"
     },
     {
       "id": "lib_zabonshinosi",
@@ -5652,7 +4144,7 @@
       ],
       "chunks": 67,
       "size_bytes": 6161,
-      "sha256": "c8b1d1b4b4d75012fde858944870f41863750b9e3ebdbf87723e1faafeba78e3"
+      "sha256": "8cb1b53c6eb5ccb8f34812833a14cef4943ad799c63e25c2740f35a04215d815"
     },
     {
       "id": "lib_zhurnalistika",
@@ -5666,7 +4158,7 @@
       ],
       "chunks": 1,
       "size_bytes": 559,
-      "sha256": "8c7a1efa08141d5be1c7b265a2b2a461fcb424378acff0b6ac3ebb75b57825aa"
+      "sha256": "8bbe5b4336c8a5231b21d73e12b650675378402a8bc1956266a207fa8c482b24"
     },
     {
       "id": "lib_zindaginoma",
@@ -5680,7 +4172,7 @@
       ],
       "chunks": 1,
       "size_bytes": 423,
-      "sha256": "fd993ab4ef1e8e594b23dda5451a6ecd5af51a46516f4be3bd26540f73253691"
+      "sha256": "1fbf17e0d9af1dfe1c9629d96a6b0df45041be6f13a526686af22b709d76bf49"
     },
     {
       "id": "lib_zindaginoma_yoddosht",
@@ -5700,7 +4192,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1369,
-      "sha256": "6395257e2b2b5e2734fcb0d109d23c68f083461a09cc6b6465036eef39304bac"
+      "sha256": "cdf498b4184b8f79e0968d3107f8c79b917353ad9521132e690220f4dc2539d0"
     },
     {
       "id": "poet_ayni",
@@ -5718,9 +4210,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 146,
-      "size_bytes": 74539,
-      "sha256": "853bd1e9bf739be7e102dc97f879df898306fa13bdc36f89afd537d4c4e3c3c7"
+      "chunks": 323,
+      "size_bytes": 200250,
+      "sha256": "960e6a17b08ad41cf735693c5af2b593d382fc6d7d6756b842b3ed21ce07bd9f"
     },
     {
       "id": "poet_bedil",
@@ -5735,9 +4227,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 29,
-      "size_bytes": 16019,
-      "sha256": "c74aa96c9a5deeb9f9781d7bce53321bc435c2ad57a9af1813a606d3eea6dee2"
+      "chunks": 209,
+      "size_bytes": 137511,
+      "sha256": "01ef21b4423474c530e0f9367650eb25dc281222d2b748550e4e336ed2644746"
     },
     {
       "id": "poet_bozor_sobir",
@@ -5754,9 +4246,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 12,
-      "size_bytes": 4206,
-      "sha256": "3a3dffb776b9fce7d825d9984b814e2875c5c89ad0c8228372163ff73c18a103"
+      "chunks": 11,
+      "size_bytes": 3422,
+      "sha256": "40749db954dfb2ea561fc0f89c1c0e2d7d65135b2f50b007c7f4289fcaa79b6a"
     },
     {
       "id": "poet_donish",
@@ -5771,9 +4263,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 6,
-      "size_bytes": 2477,
-      "sha256": "c1ed0aedb50f7b89e55b4bd15b9369bd8db7d225dfb88eb44874af3c14dcf65e"
+      "chunks": 19,
+      "size_bytes": 12141,
+      "sha256": "94066ff28ce971f29e16acb96b69157e2a0e8cde995fc09d0a5ebecebda866ae"
     },
     {
       "id": "poet_farzona",
@@ -5790,9 +4282,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 17,
-      "size_bytes": 8912,
-      "sha256": "7888245c25e75a7d15015e75341b4fe9d170d010f1c3ed59a511387b28349f16"
+      "chunks": 144,
+      "size_bytes": 96300,
+      "sha256": "00834655f7f5e07f3ecdbdc576c5ef36424ec1a627aa40ff6f4499c7121c9d60"
     },
     {
       "id": "poet_firdavsi",
@@ -5809,9 +4301,9 @@
         "шоир",
         "шохнома"
       ],
-      "chunks": 64,
-      "size_bytes": 25442,
-      "sha256": "0288639af85dfd924ce789c2039bcb0ad5a1e4a7d97be9f22530c81e1f3e2446"
+      "chunks": 354,
+      "size_bytes": 202332,
+      "sha256": "77bb99a85892dc242c338107b7ad0a4992b184382d6a7ea7e62a583486aac1b6"
     },
     {
       "id": "poet_gafurov",
@@ -5826,9 +4318,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 37,
-      "size_bytes": 18341,
-      "sha256": "6a981dbdb19e48fc1daa017c8c44a82c60d9a57f64b04d4f59c885f165ea16a2"
+      "chunks": 27,
+      "size_bytes": 12592,
+      "sha256": "d17258162d4306719d1011903540ae7716ee37bafd2caf5423181ac640f3b251"
     },
     {
       "id": "poet_gulrukhsor",
@@ -5843,9 +4335,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 9,
-      "size_bytes": 1736,
-      "sha256": "6edef2206843945d27c9fd45f86e31f9c9b494b34f326959e565267c16680d6b"
+      "chunks": 12,
+      "size_bytes": 3858,
+      "sha256": "4bd22f8d10c3d17e668083f5014b7547b36ca877faa7047d833025d1e23907d7"
     },
     {
       "id": "poet_hofiz",
@@ -5862,9 +4354,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 59,
-      "size_bytes": 35556,
-      "sha256": "79e422dcc4b3841e7b56ac00ee3477183bb6759d2b18ecd95a22b77d8b7bf0b4"
+      "chunks": 175,
+      "size_bytes": 119459,
+      "sha256": "09525690c2bdfdcfd0a5bebed04ac7cee4635e3a8bece17304897e762a4c957f"
     },
     {
       "id": "poet_jomi",
@@ -5880,9 +4372,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 84,
-      "size_bytes": 47580,
-      "sha256": "4e68f03aaadf45364c0a6b30ad7a91b0cfb4db832f6e2e38d11d24063f6e81ab"
+      "chunks": 360,
+      "size_bytes": 215842,
+      "sha256": "cd3996ff94e9f46898d46c2e37779e777087511134ce3cdd3710466cac18818a"
     },
     {
       "id": "poet_kamol",
@@ -5897,9 +4389,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 14,
-      "size_bytes": 6945,
-      "sha256": "ab8843a2b20401377011e553994e5054160fefbb79cc2d14f20b21a5c20c9f60"
+      "chunks": 98,
+      "size_bytes": 59418,
+      "sha256": "836e6cf0608ea1ad1850daba223af10d1efb7871fa5cb567192043f1543c83a9"
     },
     {
       "id": "poet_khayyam",
@@ -5917,9 +4409,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 121,
-      "size_bytes": 60212,
-      "sha256": "da0dbbd62353af3952f93ffdc5bbef5a39711c9aaeecd527aa5c0182d18f3203"
+      "chunks": 54,
+      "size_bytes": 32661,
+      "sha256": "df55ac331dd98352f617c5b4c486c7d50e9d454ff0088f24c098e8656a7e07f0"
     },
     {
       "id": "poet_lohuti",
@@ -5934,9 +4426,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 4,
-      "size_bytes": 2332,
-      "sha256": "9dfdb6b69204c49817eb35ab1d7099804d0adc95a967b1d3853ac1476437e844"
+      "chunks": 3,
+      "size_bytes": 1603,
+      "sha256": "44f00a3ae4e93fa925284aa7a18470c558eb5bf383c305ef95febfd5f3ad5b9f"
     },
     {
       "id": "poet_loiq",
@@ -5952,9 +4444,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 61,
-      "size_bytes": 35757,
-      "sha256": "2645affcb29c221b105b683bcc230623df53a705a8b93f975517f4be647d09d1"
+      "chunks": 114,
+      "size_bytes": 70609,
+      "sha256": "6eecc4d2b7ee2ac8bd709a67eb034adca13d5d7b0cb9eb6ea275f069a05c81e5"
     },
     {
       "id": "poet_mavlavii_rumi",
@@ -5970,9 +4462,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 71,
-      "size_bytes": 40573,
-      "sha256": "0979f7ab135504e929b154b0b14673ebbebb027e1ec4989405001a2c9d5cd57d"
+      "chunks": 355,
+      "size_bytes": 233345,
+      "sha256": "9c3b1bcafef5335dca5537feb00929046ae411760ceafa439e06a24209082766"
     },
     {
       "id": "poet_nosiri_khusrav",
@@ -5988,9 +4480,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 139,
-      "size_bytes": 83535,
-      "sha256": "d1f01e3cfa189e3670a47dac84ce362373f8ef63b248667c9733a507950baaf6"
+      "chunks": 359,
+      "size_bytes": 222472,
+      "sha256": "14122c2cabaeab30c4b82714d13c9aace40dbcdd3b92dc69abccddd1bd58fb0e"
     },
     {
       "id": "poet_rudaki",
@@ -6007,9 +4499,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 53,
-      "size_bytes": 26920,
-      "sha256": "b7b3c3b3e912a0cf7db3a6642ce414391c13a9ff31b6212f1378ef3f6b2188e7"
+      "chunks": 233,
+      "size_bytes": 112321,
+      "sha256": "b57368c25f11f09b52a04cd02ba386c88495383ede17dea5d7cf41e46e03987b"
     },
     {
       "id": "poet_saadi",
@@ -6026,9 +4518,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 236,
-      "size_bytes": 140322,
-      "sha256": "206aa382098103faadd43807f3a76ceb238be2e0953ae9b42217c5671c8b7a29"
+      "chunks": 358,
+      "size_bytes": 224625,
+      "sha256": "4ed19f26bb35103b51b87f99cf25a592dadca41662194b0175c065d42f861f1c"
     },
     {
       "id": "poet_sayido",
@@ -6043,9 +4535,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 16,
-      "size_bytes": 9932,
-      "sha256": "ac35beb6f3b0fed48c6cf80ea3639f9153ebb58606686d57e0f0306fa30cde77"
+      "chunks": 98,
+      "size_bytes": 59946,
+      "sha256": "467a09be065ce8cdb25a2f909d52c304c7d15f7b75066c0426d6f44c2408e19a"
     },
     {
       "id": "poet_sino",
@@ -6063,9 +4555,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 124,
-      "size_bytes": 61131,
-      "sha256": "16801423c5fb18a6e647fa8665a6c072c24b7044d7d06e039c2f865b50d8dc71"
+      "chunks": 295,
+      "size_bytes": 174374,
+      "sha256": "357337a5791fb0f39646a985577b1c7a391599baf1531a0cae6a4c797e6a0bff"
     },
     {
       "id": "poet_tursunzoda",
@@ -6082,9 +4574,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 23,
-      "size_bytes": 12228,
-      "sha256": "4636fe619095f88938cefd25a087cd4b5e2d082a2f90a20dd4aab8887447de37"
+      "chunks": 40,
+      "size_bytes": 25282,
+      "sha256": "f460232fea65b566af07bf16dec853ad1cd8bdb534b0d81b1059345d7ba2e67e"
     },
     {
       "id": "poet_zebunniso",
@@ -6099,9 +4591,9 @@
         "шеър",
         "шоир"
       ],
-      "chunks": 6,
-      "size_bytes": 3174,
-      "sha256": "c1eea0c9f66bb74a83679c64cdaf15973a2c665fabc24abe469027221d201421"
+      "chunks": 92,
+      "size_bytes": 41490,
+      "sha256": "6b3e564b7ba648a44a89c4c1144d7843dd12a7d25dc9ffd1a3f2ae29bb44eb4d"
     },
     {
       "id": "president_calls",
@@ -6117,7 +4609,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1578,
-      "sha256": "923816ed820a1cc97b0dd434e56a33454fe04cf4f0da3f7b8248b31bd5b2b401"
+      "sha256": "840571e4281e7567684cdf60d097fe2a6bfe1f8db17b6e7684d159d1adbf58e3"
     },
     {
       "id": "president_documents",
@@ -6132,8 +4624,8 @@
         "эмомали рахмон"
       ],
       "chunks": 12,
-      "size_bytes": 2626,
-      "sha256": "95f53c49b088b9d76b63e109cc5017b0f3a05e01b9f6d7b5c411d5b28d406cca"
+      "size_bytes": 2537,
+      "sha256": "57e5dbc14b42f539d4d90e7f6a46884b7161cb2fe46f6b5f232a8f16df5c4ccd"
     },
     {
       "id": "president_meetings",
@@ -6149,7 +4641,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2263,
-      "sha256": "7232f305db8fd7a36da45664b6f091f6d7b3f8f943e95c29561efd34c7d080d7"
+      "sha256": "c69a40d991960d49213998edd5c2b5f38788b90bc35f94f822b278fd33752451"
     },
     {
       "id": "president_missives",
@@ -6165,7 +4657,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1301,
-      "sha256": "f5b04eff1efaadcc1375da2934c4f7f5d24704387c5ad66ee20d03b1b7f656f0"
+      "sha256": "d06b1c55e80986baca409033fa1f0745b60d0bb9f5189ce4e36e5ab0decf8878"
     },
     {
       "id": "president_news",
@@ -6181,7 +4673,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2202,
-      "sha256": "b2cf73f2da3480900051ff9f9388c64645ad780c1184c7b3c81934b7d6187b77"
+      "sha256": "1769127f4372089bd82ff643ba3cf1d9382f74830d4d4f3f701152b1b6b2cd58"
     },
     {
       "id": "president_speeches",
@@ -6197,7 +4689,7 @@
       ],
       "chunks": 12,
       "size_bytes": 1916,
-      "sha256": "fda3374c11f671505df16d9d9c83e3a8a1a2125dafc5139a5ef7c319741b64dd"
+      "sha256": "2ae6967f926323beea63798740a4c5ef76938314684e9014eb8d0b71943c1569"
     },
     {
       "id": "president_telegrams",
@@ -6213,7 +4705,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2089,
-      "sha256": "2b4cfcf87dc45e52120f25dad407b06655336ea55602e2fea74abe89a7c0c690"
+      "sha256": "37d4df472fbb1349e14b93dcb16e2c91de31bfe2e557e5cf7722f3acf469f515"
     },
     {
       "id": "president_trips",
@@ -6229,7 +4721,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2165,
-      "sha256": "78a26bfd3d752a70aa4db1e72a748bb2cf909854c0d03be744cbe88d5ade1c29"
+      "sha256": "aba6154b719284d3c8427eab6f0e7e7e0a1b9d178e7d1332a47457dc83b61339"
     },
     {
       "id": "shero_ishq",
@@ -6248,8 +4740,8 @@
         "шеър"
       ],
       "chunks": 360,
-      "size_bytes": 193234,
-      "sha256": "12740543e57b1debc305d50cb43ea7ad14d18a2c35fa450af415da7e2b5f68f0"
+      "size_bytes": 238356,
+      "sha256": "e3bbce25637d8f9ec3eb9fa42d1731b1f55796f4bde61fda8d283ad2e2f65949"
     },
     {
       "id": "shero_modar",
@@ -6267,9 +4759,9 @@
         "стих",
         "шеър"
       ],
-      "chunks": 360,
-      "size_bytes": 189918,
-      "sha256": "022eb1cd4d1e895accac9132aa4015c76678beb8a5c0f18715fd412c335d3d0d"
+      "chunks": 334,
+      "size_bytes": 213081,
+      "sha256": "3cd692de526c350524c1dda0b37db5fc7f5b1f60373a9ced3c3b087cf2f439da"
     },
     {
       "id": "shero_navruz_bahor",
@@ -6286,9 +4778,9 @@
         "суманак",
         "шеър"
       ],
-      "chunks": 360,
-      "size_bytes": 224392,
-      "sha256": "ecf540bcc01f65449a1fdc2166ca6dff489fe7ce7649ba7fe7cf4bf46ec5eca7"
+      "chunks": 357,
+      "size_bytes": 217280,
+      "sha256": "d5db9a94414efe3b374d0500cab7cf9cd0905bcc16aaeb95a65710aa18096ba7"
     },
     {
       "id": "shero_pandu_akhloq",
@@ -6309,8 +4801,8 @@
         "шеър"
       ],
       "chunks": 360,
-      "size_bytes": 205676,
-      "sha256": "77f77d55cda8e750991c66aa4db300881ec47e6559d74a451bacc545543ec165"
+      "size_bytes": 230655,
+      "sha256": "f6d13f9ddead51d769468b89c4d27bdf5af737e354997efc86cabe9fa193f77e"
     },
     {
       "id": "shero_vatan_tojikiston",
@@ -6329,9 +4821,9 @@
         "точикистон",
         "шеър"
       ],
-      "chunks": 360,
-      "size_bytes": 189403,
-      "sha256": "f19ace9d54c8e46f51dc8420602bebdbd2b8667df5a5d7eadc728f7198a0333f"
+      "chunks": 295,
+      "size_bytes": 185525,
+      "sha256": "063a990326e67f80b69d147f9122109d924899ed3749f3185294c63342f692bd"
     }
   ]
 }
