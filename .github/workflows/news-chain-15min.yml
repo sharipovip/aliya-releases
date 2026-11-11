@@ -1,0 +1,49 @@
+name: 1. Цепочка свежих новостей Алии (каждые 15 минут)
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aliya-news-chain-15m
+  cancel-in-progress: false
+
+jobs:
+  collect-news-chain:
+    name: Сбор свежих новостей Таджикистана, РФ и мира по цепочке
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Загрузка репозитория
+        uses: actions/checkout@v4
+
+      - name: Установка Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Установка зависимостей
+        run: pip install -q requests beautifulsoup4
+
+      - name: Сбор нового звена цепочки новостей (president.tj, Ховар, Ҷумҳурият, Маориф и др.)
+        run: |
+          python3 scripts/12_collect_15min_news_chain.py --chain-dir chains/news
+
+      - name: Запись нового звена в репозиторий (только если вышли новые новости)
+        run: |
+          git config user.name "Aliya News Chain"
+          git config user.email "actions@users.noreply.github.com"
+          git add chains/news/
+          if git diff --cached --quiet; then
+            echo "Новых публикаций за 15 минут нет — коммит не требуется."
+            exit 0
+          fi
+          git commit -m "Новое звено цепочки новостей Алии [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin main && git push origin HEAD:main && break
+            sleep 3
+          done

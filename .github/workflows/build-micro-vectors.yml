@@ -1,0 +1,62 @@
+name: 2. Индексация всех книг sharipovip/books в Микро-Векторы Алии (с OCR)
+
+on:
+  schedule:
+    # Запускается каждые 4 часа порциями по курсору books_cursor.json до 100% охвата всех 15 700 книг
+    - cron: '15 */4 * * *'
+  workflow_dispatch:
+    inputs:
+      max_pdf_books:
+        description: 'Сколько новых PDF-книг глубоко прочитать за этот прогон (с OCR сканов)'
+        required: false
+        default: '120'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aliya-micro-vectors-builder
+  cancel-in-progress: false
+
+jobs:
+  build-micro-vectors:
+    name: Чтение книг и сканов (OCR tgk+rus) -> сотни микро-векторов .avdb
+    runs-on: ubuntu-24.04
+    timeout-minutes: 240
+    steps:
+      - name: Загрузка репозитория
+        uses: actions/checkout@v4
+
+      - name: Установка Tesseract OCR (таджикский + русский) и Python 3.11
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-tgk tesseract-ocr-rus
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Установка PyMuPDF
+        run: pip install -q pymupdf requests beautifulsoup4
+
+      - name: Порционное чтение книг sharipovip/books по закладке books_cursor.json
+        run: |
+          MAX_BOOKS="${{ github.event.inputs.max_pdf_books || '120' }}"
+          python3 scripts/11_build_micro_vectors.py \
+            --out-dir vectors \
+            --max-pdf-books "$MAX_BOOKS" \
+            --max-runtime-minutes 205
+
+      - name: Сохранение обновлённых микро-векторов и закладки прогресса
+        run: |
+          git config user.name "Aliya Micro-Vector Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add vectors/
+          if git diff --cached --quiet; then
+            echo "Новых изменений в векторах нет."
+            exit 0
+          fi
+          git commit -m "Обновление микро-векторов и курсора книг Алии [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin main && git push origin HEAD:main && break
+            sleep 4
+          done
