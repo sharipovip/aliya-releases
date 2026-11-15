@@ -1,6 +1,6 @@
 {
   "format": "aliya-micro-vectors-v1",
-  "updated_at": "2026-11-15T17:58:53Z",
+  "updated_at": "2026-11-15T21:02:18Z",
   "total_packs": 162,
   "total_books_indexed": 15700,
   "deep_pdfs_processed": 1566,
@@ -22,7 +22,7 @@
       ],
       "chunks": 2,
       "size_bytes": 2019,
-      "sha256": "731379218c051a885387b26b37c0b41327e4ecb4a94e0c305629427559038fca"
+      "sha256": "58f442c2ecc9f5f67419824a0c23fe877defe1ee8600493c4b599d51d01f9ae8"
     },
     {
       "id": "darsi_adabiyot_10",
@@ -39,7 +39,7 @@
       ],
       "chunks": 1,
       "size_bytes": 644,
-      "sha256": "4d058a2d7516408450a09b5d889fec142cbe2a03e4b0a108bdce1824e6e3d392"
+      "sha256": "79c1cee0488904b1861eabb2163ade3af4d2883199e9e29d00a73527ad064f1c"
     },
     {
       "id": "darsi_algebra_10",
@@ -57,7 +57,7 @@
       ],
       "chunks": 220,
       "size_bytes": 77766,
-      "sha256": "872c22ae1ff0690b05895b56ab984a60f48d147c864ef3bbdec2520bef99b185"
+      "sha256": "7f58fc595ced05dbf337ad56376f3dc129992998b4591167cf9f14c1bf87ad48"
     },
     {
       "id": "darsi_alifbo_1",
@@ -74,7 +74,7 @@
       ],
       "chunks": 7,
       "size_bytes": 4989,
-      "sha256": "babd9851bae832d27ff3079c699037b342a0443c340bc8af607f80cc8e80c16a"
+      "sha256": "76fb6d4c461c492d85163102d2037089b25cc82a38bae2344b5aef03a9b5af04"
     },
     {
       "id": "darsi_english_11",
@@ -92,7 +92,7 @@
       ],
       "chunks": 49,
       "size_bytes": 25572,
-      "sha256": "23467b497ac66176f66b1c83630d1fd8bf92b18e875490835147023104c5c2c1"
+      "sha256": "cab10ef74e98f54a82ace1cebf879d60552ea4559940da7a1a00070763b408fb"
     },
     {
       "id": "darsi_english_3",
@@ -109,7 +109,7 @@
       ],
       "chunks": 1,
       "size_bytes": 447,
-      "sha256": "baed5087a848fd3b823be2a992858e41ce7c082f00d72624e4cd9e0b6c0516e7"
+      "sha256": "db050c505243926a4563be6c398bf8afda34ce25d50dd81c89e26fd859c22a03"
     },
     {
       "id": "darsi_english_4",
@@ -126,7 +126,7 @@
       ],
       "chunks": 55,
       "size_bytes": 22646,
-      "sha256": "d05b57cf4fa8d44b0490544d190e3d083abb171150f322f196ee2e0cee1d1db9"
+      "sha256": "5c9be040a7d5adc8f0c7fdb97986e57566fdfc9aca6113388cc4da13475c160e"
     },
     {
       "id": "darsi_huquq_10",
@@ -144,7 +144,7 @@
       ],
       "chunks": 10,
       "size_bytes": 5833,
-      "sha256": "bd8cc138f3829d39c0913cb7c2740ae6bf380d51bbe220302504ec969719d9c3"
+      "sha256": "48db6c5201a4c603c649fa770a9d88979c1f05da8192934cad7c2cc0837e954c"
     },
     {
       "id": "darsi_huquq_11",
@@ -162,7 +162,7 @@
       ],
       "chunks": 14,
       "size_bytes": 8024,
-      "sha256": "7b231f207e71902860ba3b3cf5c607f87bfdf77a700c076db19c32b961c4ef48"
+      "sha256": "36ca14caeb9aed08583e1a56017b3867ae17f15cdde84ab33411723db1ec92b0"
     },
     {
       "id": "darsi_tabiat_2",
@@ -180,7 +180,7 @@
       ],
       "chunks": 25,
       "size_bytes": 14207,
-      "sha256": "02db61fad58fe3c71e0d043864f8207d86b45a33779a94553bc4e4a91515f701"
+      "sha256": "a15291561c8b03e23a581a43bd46757c59bf1d1b81761511959cdcdbeea9ecf6"
     },
     {
       "id": "darsi_umumi_1",
@@ -201,7 +201,7 @@
       ],
       "chunks": 153,
       "size_bytes": 66655,
-      "sha256": "82ffd0abbd74868f0ec220b48b0ea941e9582b318018dcfdab7366528cfd7cb0"
+      "sha256": "681d47c21d764952a6aacaef11c0e2a2a1815e7c8bd9b9ac971a3e99ac7d7a3a"
     },
     {
       "id": "darsi_umumi_10",
@@ -244,7 +244,7 @@
       ],
       "chunks": 400,
       "size_bytes": 160836,
-      "sha256": "63d8d0ddba1ba38c7f77b884b2737e53fbda6930e25f182392328f4c85a47563"
+      "sha256": "380ffe3866240671f626499390ded8d0f76c608399f5dfbdbbe0a55e52d81666"
     },
     {
       "id": "darsi_umumi_11",
@@ -280,7 +280,7 @@
       ],
       "chunks": 400,
       "size_bytes": 151628,
-      "sha256": "17a1ff93f4f1901ada17f774085fa8dbb38de05c2d289fa77f5ce861fc13400f"
+      "sha256": "d9b9df3de38f8fc7471c934978a443ec403a0eab45e7b0b572c2132ea9f27b11"
     },
     {
       "id": "darsi_umumi_2",
@@ -302,7 +302,7 @@
       ],
       "chunks": 400,
       "size_bytes": 190059,
-      "sha256": "e47e75731cef4bf4fef524f630bffd82ee4e06671f2713cf8662449628b6544b"
+      "sha256": "84dc52fac4d69c1efe1b95828f41a4af08e5aa76d30cf945f4c2dac05ed27790"
     },
     {
       "id": "darsi_umumi_3",
@@ -323,7 +323,7 @@
       ],
       "chunks": 400,
       "size_bytes": 197139,
-      "sha256": "b84bce8cca3e95c213171a2ea78327c3e997481f125e25daf1e74bd35d7a196d"
+      "sha256": "f953f594eecb5d707ae969227158520b3ea1bef71c9480c7cc3f6898164e1afe"
     },
     {
       "id": "darsi_umumi_4",
@@ -345,7 +345,7 @@
       ],
       "chunks": 400,
       "size_bytes": 188844,
-      "sha256": "76c434d8838e7805ac4deddcb9024681d35c42dc0e224425df37a4d0e4ff9a40"
+      "sha256": "6191c1de4287077d78d6b63add2176b5c6fa76bb125368fde3974e27c21f3fd5"
     },
     {
       "id": "darsi_umumi_5",
@@ -378,7 +378,7 @@
       ],
       "chunks": 400,
       "size_bytes": 202372,
-      "sha256": "3316767507163299f010e019b2a1f221e1d29f15e21927d38178af2009ed394a"
+      "sha256": "8a4ffb46faa84eb12e991030235f5e68d160d0cfdeafcfc7276ec405eb7470a1"
     },
     {
       "id": "darsi_umumi_6",
@@ -410,7 +410,7 @@
       ],
       "chunks": 400,
       "size_bytes": 183319,
-      "sha256": "7ba7f98cd1b6231eff6c0172c7da8c7a3e3d62051d81450913f076db786903f5"
+      "sha256": "bdd2625551eb93fe3bdefa606756f27d04344815f5912fc88bba62ad0cdf7f5f"
     },
     {
       "id": "darsi_umumi_7",
@@ -446,7 +446,7 @@
       ],
       "chunks": 400,
       "size_bytes": 176374,
-      "sha256": "97966e5e82c0598b33aec2e13e91978d11e2444add31b0238743c7a2d38fe80d"
+      "sha256": "2fb21466489557d1f4b0212a298a6b5b49f495b1a42770b733b176e0e5b1e7e6"
     },
     {
       "id": "darsi_umumi_8",
@@ -489,7 +489,7 @@
       ],
       "chunks": 400,
       "size_bytes": 192201,
-      "sha256": "5af0a4bc6a11f41f679179f0b571f71655af630f6ecf2ef268a3d0ad327ffe3b"
+      "sha256": "991a287101988f83c749a620657cebcb4abccdb23b189a09927597d6a76a6d00"
     },
     {
       "id": "darsi_umumi_9",
@@ -531,7 +531,7 @@
       ],
       "chunks": 400,
       "size_bytes": 204203,
-      "sha256": "dd935e0f6e6a4fa447924242d5b43b877f7c1307cad3b2672573e80a3d6b46e4"
+      "sha256": "685b489f2e6007eb64900701458e40bf04174ddcca03b1b3a7309e38c3580db5"
     },
     {
       "id": "darsi_zaboni_modari_1",
@@ -548,7 +548,7 @@
       ],
       "chunks": 34,
       "size_bytes": 19005,
-      "sha256": "e232a3c1051a89d11f1ad71760e67d182b4458ef65bed4c71147f3bbbd3b8452"
+      "sha256": "c5a7fce8ce953ea8af8ef3f8de659b69e10dbccf05fcd47747ec4b9c3e6a9e93"
     },
     {
       "id": "lib_adabiyoti_bachagona_folklor",
@@ -568,7 +568,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1059,
-      "sha256": "141894e2c75f5868a49f480d25c2ec89797b01e04e91f601ae36310fa569ca71"
+      "sha256": "6a6354beea2bdac41ca07cfe0f3e9bb6309a6f0a2c5b9df995f49d861033171f"
     },
     {
       "id": "lib_adabiyoti_bachagona_kitobho_az_usaid",
@@ -629,9 +629,9 @@
         "офтобаки ман",
         "чилпо"
       ],
-      "chunks": 76,
-      "size_bytes": 12828,
-      "sha256": "b0642e0516d0e85dfca4da81be70217701d76c24c68c4ef9e24a9aa2c5619079"
+      "chunks": 49,
+      "size_bytes": 4508,
+      "sha256": "97fa23379c379162a1dbe0cef06222e9d4fd8d48f34efdc633b72e9fcbb613e6"
     },
     {
       "id": "lib_adabiyoti_bachagona_nasr",
@@ -652,7 +652,6 @@
         "адабиети бачагона",
         "аз «саодатнома». носири хусрав",
         "аз бахористон. абдурахмони чом",
-        "аз бахористон. абдурахмони чоми",
         "аз як-як",
         "аз як-як то лак лак",
         "аз як-як то лак-лак",
@@ -699,11 +698,12 @@
         "боки рахимзода-бакои мехр",
         "болта",
         "борони бахор",
-        "борони бесаранчом"
+        "борони бесаранчом",
+        "борони бесаранчом. гулназар ке"
       ],
       "chunks": 400,
-      "size_bytes": 28458,
-      "sha256": "db67f054f1e51092832a6406d6a1dc28ca627b1a9fb1b47ac686f7045bfc7ef2"
+      "size_bytes": 28464,
+      "sha256": "2de834a03a694eef68ea750f91cdbb804621a378775521c6f0a57e85a4d6a78c"
     },
     {
       "id": "lib_adabiyoti_bachagona_nazm",
@@ -720,9 +720,9 @@
         "суруди навруз",
         "ю.бобоев-сипахсолори назм"
       ],
-      "chunks": 92,
-      "size_bytes": 58441,
-      "sha256": "047efc1caab8274486976bb5e19f97738e2ab2cd9a0d288802ad80107f2c09eb"
+      "chunks": 5,
+      "size_bytes": 844,
+      "sha256": "613e8b0cf74727cfdff954f76813372bc287a5224c1b77bf94da54555a105918"
     },
     {
       "id": "lib_adabiyoti_ilmi_ommavi",
@@ -792,9 +792,9 @@
         "все об истории древнерусского",
         "встреча с мастером"
       ],
-      "chunks": 286,
-      "size_bytes": 64273,
-      "sha256": "9b52ec1bad2be1f4eee0322b1f884c14182949b815c960e5c25aaef76477ea7e"
+      "chunks": 220,
+      "size_bytes": 25804,
+      "sha256": "32d705d1ab9af16e5dd92d63d91e681f9481e92d671360f8f81bf6ad1314a4f6"
     },
     {
       "id": "lib_adabiyoti_jahon_falsafa",
@@ -809,7 +809,7 @@
       ],
       "chunks": 1,
       "size_bytes": 498,
-      "sha256": "9e465d928e4a5921f81610eb920c7358dd60df93e9a83a59a14ec77b88b41b28"
+      "sha256": "4eadc97d2463c45223114a7b0a368dea1b42417fe89ecee47d565340740d0975"
     },
     {
       "id": "lib_adabiyoti_jahon_nasr",
@@ -841,7 +841,7 @@
       ],
       "chunks": 18,
       "size_bytes": 3111,
-      "sha256": "24028f5a493c0b02762ea09cc3faa1a2b0147cab32c6a923b1a980894caaf339"
+      "sha256": "1ff9f643a8d2d48282f5211c4c71c8e814d85441faa4134d1be9176df830a18e"
     },
     {
       "id": "lib_adabiyoti_klassiki_adabiyotshinosi",
@@ -856,7 +856,7 @@
       ],
       "chunks": 1,
       "size_bytes": 531,
-      "sha256": "9e151b0dc94f18c3c3f8fae454ff3be87f9648db9d1c7ad41a575d092cf550de"
+      "sha256": "ddb1f1c688b2d314e5f401fa1414c85e87e5f772a86918f0eb1916cdee5099de"
     },
     {
       "id": "lib_adabiyoti_klassiki_din",
@@ -871,7 +871,7 @@
       ],
       "chunks": 1,
       "size_bytes": 506,
-      "sha256": "c56932b636442c392da168261f7d356f91b884d6c8131a2fac77ebdf3b096697"
+      "sha256": "5651503b74f983a261c055e6d62e45c009b6c093e974ef58dc3119534a6cd01c"
     },
     {
       "id": "lib_adabiyoti_klassiki_ilmi",
@@ -888,7 +888,7 @@
       ],
       "chunks": 3,
       "size_bytes": 901,
-      "sha256": "be168d2d518b1652abbcbf3f082512f48a03d7703057f83f5ccfa8adb47581dd"
+      "sha256": "a13309aeb91827b025e248cd5c48ba8ab81fb752b7f4d8064b8c500f570cc51a"
     },
     {
       "id": "lib_adabiyoti_klassiki_nasr",
@@ -918,7 +918,7 @@
       ],
       "chunks": 16,
       "size_bytes": 2602,
-      "sha256": "225efe2f6eed3600f6304783e9c0e5ea616ad84e004782db9916afc50b2d9a35"
+      "sha256": "83de69133b6940639cf236eee1e31c07ef7c450cd2c6ba4563765d799c236657"
     },
     {
       "id": "lib_adabiyoti_klassiki_sher",
@@ -990,7 +990,7 @@
       ],
       "chunks": 101,
       "size_bytes": 9550,
-      "sha256": "b7381d8c37a152a30af2b8d4bff70b73aad589e7e0853af6dc7a3b963a12824a"
+      "sha256": "16f4c6842d345095f28bc95349034de970346ff45f71b72379a165857ac6f428"
     },
     {
       "id": "lib_adabiyoti_klassiki_tarikh",
@@ -1006,7 +1006,7 @@
       ],
       "chunks": 2,
       "size_bytes": 674,
-      "sha256": "e2aedaedc78863e546a950853de354e81f66aa1b92e0ea476b14ee027cf2089c"
+      "sha256": "f84378ad3f7907bb547d3833fa98ce975e38e03d16254b63d024d04b3a1f2f35"
     },
     {
       "id": "lib_adabiyoti_muosir_hikoya_va_qissa",
@@ -1076,9 +1076,9 @@
         "каме латра. салими аюбзод",
         "касос (киссаи детективи). чови"
       ],
-      "chunks": 277,
-      "size_bytes": 87811,
-      "sha256": "3c93250bbab885b56715f95e25734889ee8f2a7f7ff9b191e0d6f5bcd05e775a"
+      "chunks": 150,
+      "size_bytes": 17142,
+      "sha256": "f2c41e0d8395b246ede55b265b121846a65e1a73888b28261730b8dd55279202"
     },
     {
       "id": "lib_adabiyoti_muosir_povest",
@@ -1098,7 +1098,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1272,
-      "sha256": "e8d6c0378fb3129c65adf67ba945a9ca13155939d311c0ba94dc73e4ff95e6d9"
+      "sha256": "ecfa2bf57e382044a4f8764e18a3aa70a5b2a53078b6978a1d895c7def496ec4"
     },
     {
       "id": "lib_adabiyoti_muosir_publitsistika",
@@ -1114,7 +1114,7 @@
       ],
       "chunks": 2,
       "size_bytes": 717,
-      "sha256": "17fff763596484b08fd40741e41747a1425726e9f54da3277abe7a1020ae4d54"
+      "sha256": "17b830dc18f0eedbd32d8c3df5cbcd5023e3872e21dc857a3a7206d371c2e2f0"
     },
     {
       "id": "lib_adabiyoti_muosir_roman",
@@ -1146,7 +1146,7 @@
       ],
       "chunks": 18,
       "size_bytes": 2759,
-      "sha256": "20aaf47addee54988e5eec30778f67d0e8dc3c192d97151cbf6dca13d49facb0"
+      "sha256": "4f495c979e7decd0bf6d677e5c0f4d920e2378e0cf7b7e1dc9dc6c8efbe38dba"
     },
     {
       "id": "lib_adabiyoti_muosir_safarnoma",
@@ -1162,7 +1162,7 @@
       ],
       "chunks": 2,
       "size_bytes": 662,
-      "sha256": "546b6d9c2227a7f03c13d1fca780802887247613824d77edb823079aa027aafa"
+      "sha256": "c21b12480e0a400fa6b220bfe244a5da563fa7059d013a859ceac7f7c7c43c62"
     },
     {
       "id": "lib_adabiyoti_muosir_sher",
@@ -1196,7 +1196,6 @@
         "газалиет. (чилди дуюм). гулист",
         "газалиет. назар халил",
         "газалиет. толиби омули, фуруги",
-        "газалиет. толиби омули, фуруги бастоми",
         "газалиет. хофизи шерози",
         "газалиети ноеби чоми ва шеъри",
         "газалхо, дубайти. раъно мирзое",
@@ -1230,11 +1229,12 @@
         "достони металл",
         "достонхои шохнома (китоби авва",
         "достонхои шохнома (китоби дуюм",
-        "дуои модар. мачмуаи шеър. мехм"
+        "дуои модар. мачмуаи шеър. мехм",
+        "замзамахои хиндустон (мачмуаи"
       ],
-      "chunks": 400,
-      "size_bytes": 138125,
-      "sha256": "a104f093347c749daa0030ac5cb4c60a9ad684295d33c40431b3521fee7b694f"
+      "chunks": 233,
+      "size_bytes": 26322,
+      "sha256": "ee1de39b6466afea8581a8878273e6d075279ab24c1da61cce06e42dac0d4007"
     },
     {
       "id": "lib_asarhoi_talimii_khoriji",
@@ -1306,7 +1306,7 @@
       ],
       "chunks": 400,
       "size_bytes": 34966,
-      "sha256": "11eb13834fa3147361447375574576ebfafd95deb022741ae2f594501ba47287"
+      "sha256": "ddca1d1971e2839e04f78d14cf470610102aa965af87e796d7718f8e4880c1ff"
     },
     {
       "id": "lib_biologiya",
@@ -1378,7 +1378,7 @@
       ],
       "chunks": 219,
       "size_bytes": 22923,
-      "sha256": "983c3801f2db1007fd3c189503f9a421276c4164eec03685e3dc5e07cccf0d56"
+      "sha256": "f80a6a8827feed84f75eb817d81bb9299e7c593623b28f202cc0fada209090b3"
     },
     {
       "id": "lib_bogh_va_polez",
@@ -1393,7 +1393,7 @@
       ],
       "chunks": 2,
       "size_bytes": 633,
-      "sha256": "9a025edb60342f9d5fca45d505fa876ea3715ee98edc49f7b430db9d9105cf68"
+      "sha256": "f849100083235dae70d100b45682bb224de93cc2bf55b405aa68d6f62bc0b24b"
     },
     {
       "id": "lib_chiston",
@@ -1410,7 +1410,7 @@
       ],
       "chunks": 5,
       "size_bytes": 580,
-      "sha256": "0eee47d70c6bc180e98b0c90ede44843354806980f5c00c9d7ccdc13b068023a"
+      "sha256": "8244a84144048f39ba2bcdf63916140af8d0748882fd52c0d6c5d61fc2056759"
     },
     {
       "id": "lib_digar",
@@ -1426,7 +1426,7 @@
       ],
       "chunks": 3,
       "size_bytes": 651,
-      "sha256": "26409313e8e9200660fef6cb6ac68205426b4518e12c39f77053c4b75f9d516d"
+      "sha256": "e20ec782ac5c03e6f338cb2da955977d594a3002bbcdf52f7aee1d0dff50bbf9"
     },
     {
       "id": "lib_falsafa",
@@ -1457,7 +1457,6 @@
         "ecce homo, как становятся сами",
         "ecce homo. как становятся собо",
         "farzandi hok tu farzandi hok m",
-        "farzandi hok tu farzandi hok man",
         "finis mundi. записи радиоперед",
         "ga 5. фридрих ницше. борец про",
         "god's debris",
@@ -1494,11 +1493,12 @@
         "the last kabbalist of lisbon",
         "the portable atheist: essentia",
         "the romantic manifesto: a phil",
-        "«бесполезное» знание"
+        "«бесполезное» знание",
+        "«объективность» социально–науч"
       ],
       "chunks": 400,
-      "size_bytes": 37738,
-      "sha256": "156ba09f0651018e4911e31ce4d05150dbb3f32a30d5d3ea05f5d8b245371cfa"
+      "size_bytes": 37737,
+      "sha256": "db1a47bb416db092ab22bdec3bb5b1b29e161577a77a093477922eb9e0215e70"
     },
     {
       "id": "lib_fantastika",
@@ -1534,7 +1534,7 @@
       ],
       "chunks": 23,
       "size_bytes": 2591,
-      "sha256": "9de69bd38589fe5df6d8b25b415802798cd0f390153f586112c81217d4e8025c"
+      "sha256": "b565e9820b98fa8d5d891098421bbfee25e6fd20ac17d047b7077f17aeff5e07"
     },
     {
       "id": "lib_farhang_lughat",
@@ -1549,13 +1549,12 @@
         "тухфат-ул-ахбоб (фарханги хофи",
         "фарханг",
         "фарханги иборахои халки. разию",
-        "фарханги иборахои халки. разиюлло абдуллозода",
         "фарханги нави руси-точики",
         "фарханги рашиди"
       ],
-      "chunks": 95,
-      "size_bytes": 58434,
-      "sha256": "df87cd721b9f67e375bac18d21aba9d17a948ac9a543ce8b6c7012081054382e"
+      "chunks": 6,
+      "size_bytes": 1312,
+      "sha256": "1f2cfb0a7ff8972a572924f7320a26958b134b8a6de80963b2a2367f70f9fc94"
     },
     {
       "id": "lib_farhangshinosi",
@@ -1627,7 +1626,7 @@
       ],
       "chunks": 400,
       "size_bytes": 39671,
-      "sha256": "5c49a362ae696e41763197b69abde19b919e1e35c3d7702513dc4d617b2afe75"
+      "sha256": "4415a70c507235d72d8564b0fa2a5e1df1df7e7bb820480f6ecc41a68bc63c3c"
     },
     {
       "id": "lib_filmsozi",
@@ -1645,7 +1644,7 @@
       ],
       "chunks": 5,
       "size_bytes": 908,
-      "sha256": "98a397ad2f4fe73ae9760147ddb1418d47ee00403f5e1bf4bff7b95eb216db1a"
+      "sha256": "e047b049987726a8ac978718bfa9cc549d6f06e20a40e45792721076678b06d0"
     },
     {
       "id": "lib_fizika",
@@ -1669,7 +1668,7 @@
       ],
       "chunks": 11,
       "size_bytes": 1641,
-      "sha256": "59b7de19be334110ecb039f4619c7b289b95be1cf02f30f0776826a3ada53fe9"
+      "sha256": "75b05e19a95e0f15b37c3b75c64c5e23da73ad41c8531701561374f2a8096bfe"
     },
     {
       "id": "lib_ghayra",
@@ -1741,7 +1740,7 @@
       ],
       "chunks": 137,
       "size_bytes": 9799,
-      "sha256": "031873f179c1f2fb1586b972aac451e7f4047aacb7068fec8c07cb4afed3c455"
+      "sha256": "f21d3ae376c4a37935c2e6aea26b89afeabc35788ba3bec5f7f8038285dee177"
     },
     {
       "id": "lib_huquqshinosi_qonunguzori",
@@ -1804,7 +1803,7 @@
       ],
       "chunks": 51,
       "size_bytes": 4774,
-      "sha256": "7fc1b794f6aa7124fff98449cfe9ea78af88f4e56b82bd8d27ed175a26ced08c"
+      "sha256": "8a6819baf970a54d18b37c1f557d8c535d47561e9788b042640bcada284d6721"
     },
     {
       "id": "lib_idora_intikhobi_korkunon",
@@ -1820,7 +1819,7 @@
       ],
       "chunks": 3,
       "size_bytes": 728,
-      "sha256": "82f1120db8efa1088c1be8087971cbcf3ce49a7364e361e389c4b4dc50ee822f"
+      "sha256": "4013e5d819eb4e6480961b3266536a606085e2a1b8b07a9347889eb14ea7dc01"
     },
     {
       "id": "lib_ilmi",
@@ -1831,7 +1830,6 @@
       "keywords": [
         "адабиети давраи бедории миллии",
         "адабиети точик (асрхои 16-19 в",
-        "адабиети точик (асрхои 16-19 ва ибтидои асри 20). расул ходизода ва дигарон",
         "верховья зарафшана в конце iii",
         "илми",
         "калима ва маънои он. амон вохи",
@@ -1847,9 +1845,9 @@
         "шеър-ул-ачам чилди савум, чахо",
         "шеър-ул-ачам. чилди аввал ва д"
       ],
-      "chunks": 105,
-      "size_bytes": 57980,
-      "sha256": "73b2b3b22a8653ca606065fa89d9a53ee916d86694f1bccfd1384bba407e867d"
+      "chunks": 15,
+      "size_bytes": 2798,
+      "sha256": "d598c5117ab2d568ed797a3d2f8efa891c098ce06cd33334b4789a8cc707976a"
     },
     {
       "id": "lib_ilmi_adabiyotshinosi",
@@ -1867,7 +1865,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1110,
-      "sha256": "643766003a6f983bf63bb3d8c2c2a9463290474ac12a76d6ac7357dcf4fa30b4"
+      "sha256": "d9db0c0847b81744d17cbc9b24244b3b28f42004a2fd80e8503f0e73cbaef91e"
     },
     {
       "id": "lib_ilmi_falsafa",
@@ -1878,7 +1876,6 @@
       "keywords": [
         "донишномаи душанбе",
         "донишномаи шашмаком. абдували",
-        "донишномаи шашмаком. абдували абдурашидов ва дигарон",
         "дустон дар коинот",
         "илми",
         "коинот ва чараени дониши инсон",
@@ -1887,7 +1884,6 @@
         "мантику-т-тайр. фаридуддин атт",
         "маорифпарвар а.дониш",
         "наводир-ул-вакоеъ (китоби 2).",
-        "наводир-ул-вакоеъ (китоби 2). ахмади дониш",
         "наводир-ул-вакоеъ-а.дониш",
         "наводиру-л-вакоеъ (мунтахаб) —",
         "психология китоби дарси барои",
@@ -1897,9 +1893,9 @@
         "фалсафа дар саволу чавоб (кисм",
         "фалсафаи марг ва зиндаги. коми"
       ],
-      "chunks": 400,
-      "size_bytes": 245532,
-      "sha256": "63e35557c87b9371417d6fac368a7b70040c74c44b3cbe22bdafb5eadc8e27e1"
+      "chunks": 16,
+      "size_bytes": 2635,
+      "sha256": "17ef1ef7fd861c5ae7afcb2c229236e0a8276d2250ba9a5b3916d6bbe85d649b"
     },
     {
       "id": "lib_ilmi_huquq",
@@ -1914,7 +1910,7 @@
       ],
       "chunks": 1,
       "size_bytes": 465,
-      "sha256": "55eb18832892b8b008d76f3b36628f395ca6e04e35780f1b535d9317c94ec819"
+      "sha256": "a2fc56583f1b6773340ad90ad98cf3ca694d3f7cf22ffd9dfebc88451d8a30fe"
     },
     {
       "id": "lib_ilmi_informatika",
@@ -1935,12 +1931,11 @@
         "корхои лаборатори аз асосхои б",
         "мачмуаи масъалахо барои барном",
         "мачмуаи машкхо барои барномасо",
-        "методикаи таълими информатика",
-        "методикаи таълими информатика дар муассисахои тахсилоти миенаи умуми ва миенаи касби. ахтам назаров"
+        "методикаи таълими информатика"
       ],
-      "chunks": 101,
-      "size_bytes": 48715,
-      "sha256": "dcf40518ff83d368d4350c64db8d0438677af0417c4ff119e0f41b4a3f8493f8"
+      "chunks": 11,
+      "size_bytes": 2114,
+      "sha256": "a62a0d3a53d72e4ae1a1cf961351cea578cc52d6c362556f6504f72cd62e8e84"
     },
     {
       "id": "lib_ilmi_kimiyo",
@@ -1951,12 +1946,11 @@
       "keywords": [
         "илми",
         "кимие",
-        "муколамаи устод ва шогирд (мач",
-        "муколамаи устод ва шогирд (мачмуи саволу чавоб аз фанни химия). худодод каримов"
+        "муколамаи устод ва шогирд (мач"
       ],
-      "chunks": 80,
-      "size_bytes": 43361,
-      "sha256": "5fd53d581d39356613b5eb67639732f13cfdaf29d4dda8a64fed625970877f45"
+      "chunks": 1,
+      "size_bytes": 517,
+      "sha256": "a0b15441adcd5ba6db918dd4779079ba5034f130dc01d1e43c8c92eb1d82b1cc"
     },
     {
       "id": "lib_ilmi_matematika",
@@ -1974,7 +1968,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1107,
-      "sha256": "f075094f14fe2dcf67bce4d7a682a20325ab2da66fe40ff37838edf872dbe763"
+      "sha256": "d8f0e7ffc212c5cb4fb9c12156e8fb7e3b79fd36f2aed440aa167cef5fb4e10a"
     },
     {
       "id": "lib_ilmi_pedagogika",
@@ -1989,7 +1983,6 @@
         "гунчишкак мактабрав шуд",
         "далелхо ба манфиати машгулиятх",
         "забони точики (васоити таълими",
-        "забони точики (васоити таълими). саидамир сафаров",
         "илми",
         "имичсози ва бренд дар журналис",
         "лафзи ширин (шеърхо барои куда",
@@ -2009,9 +2002,9 @@
         "шод ба мактаб равем - 2019",
         "шукрона мактаб меравад"
       ],
-      "chunks": 165,
-      "size_bytes": 95408,
-      "sha256": "629397d9fad926434aa8daf8b1a0a1d91cdd143b6e1b55d82e32b64a7bbede2a"
+      "chunks": 22,
+      "size_bytes": 4020,
+      "sha256": "ec86dcee2c295c008ee3ce89ede2da0a813c57a34e3af56d2a82dd572e9b41c8"
     },
     {
       "id": "lib_ilmi_psikhologiya",
@@ -2025,12 +2018,11 @@
         "мухаббат. зан дар бораи мардон",
         "психология",
         "психологияи ичтимои",
-        "тарзи фикрронии одамони сарват",
-        "тарзи фикрронии одамони сарватманд ва камбизоат. саидмурод давлатов"
+        "тарзи фикрронии одамони сарват"
       ],
-      "chunks": 94,
-      "size_bytes": 55273,
-      "sha256": "5a8ccd970cfde06d926b444c89ddaabd4482989fea952fa3efbd771f3d2b1f7b"
+      "chunks": 4,
+      "size_bytes": 978,
+      "sha256": "db7850babd5e55494959bef251f38bad64b9f209e58ecb2946741280c160696b"
     },
     {
       "id": "lib_ilmi_siyosatshinosi",
@@ -2047,7 +2039,7 @@
       ],
       "chunks": 3,
       "size_bytes": 815,
-      "sha256": "58f0ffca68f2d21366459c05cebf9e2f71f742743a82198a9b4cc931e344f105"
+      "sha256": "6c0a1aac9ccef9c43a741ee4679f6ba128b4d035bb65d2f733fb835a84af4329"
     },
     {
       "id": "lib_ilmi_tekhnologiya",
@@ -2062,7 +2054,7 @@
       ],
       "chunks": 1,
       "size_bytes": 486,
-      "sha256": "d818208beb51b18fc9322e2bedf63009c5f0391e94f88558976d4850e28349fc"
+      "sha256": "fe106f6d0d99137a71abc89f8240be2142713f9777709f347ce3b23bb347ac35"
     },
     {
       "id": "lib_ilmi_zabonshinosi",
@@ -2085,7 +2077,7 @@
       ],
       "chunks": 11,
       "size_bytes": 1698,
-      "sha256": "255032d9b266add1c0c186fc10442ae8b7140994bb25bf626d94fd13b0e313df"
+      "sha256": "a632a96358cee8d99ca115a7a4a7ee2aeae2a371d3736576a1a3655fd76be416"
     },
     {
       "id": "lib_informatika",
@@ -2097,9 +2089,7 @@
         "12336,-2022.-128с",
         "1c",
         "asoshoi tehnikai kompjuter. ki",
-        "asoshoi tehnikai kompjuter. kitobi darsyi baroi honandagoni sinfi 11",
         "asoshoi tehnikai kompjuteryi 1",
-        "asoshoi tehnikai kompjuteryi 10",
         "asoshoi tehnikai kompjuteryi 8",
         "i азбука хакера 3 о компьютерн",
         "informacionnaja bezopasnost",
@@ -2114,9 +2104,9 @@
         "происшествие на тихой улице",
         "секреты хакеров. безопасность"
       ],
-      "chunks": 285,
-      "size_bytes": 157176,
-      "sha256": "8679e27fdf3cf4e8e27d2badbb4689e0a1844b12728c2adc87b1e32c4283bfda"
+      "chunks": 17,
+      "size_bytes": 2195,
+      "sha256": "00d1f35c871edde969f6fc5211bcfc0e92cfecb3ea2532a85941dbaa7e2f3d51"
     },
     {
       "id": "lib_iqtisod",
@@ -2183,9 +2173,9 @@
         "лугаги истилохоти икгисоди (ру",
         "нарх ва нархгузори"
       ],
-      "chunks": 146,
-      "size_bytes": 52731,
-      "sha256": "7704476dd2021f0ce3d19546e73f2bbfea312316ba3ac8b68717ac3d74791b5e"
+      "chunks": 56,
+      "size_bytes": 5225,
+      "sha256": "dbff33a8db4c253d944a747ed8e7cbe8e3ca058cd3c2f94880eac4e8f79e753b"
     },
     {
       "id": "lib_iqtisod_bukhgalteriya",
@@ -2195,15 +2185,14 @@
       "category": "library",
       "keywords": [
         "бахисобгирии бухгалтери дар му",
-        "бахисобгирии бухгалтери дар муассисахои бучети. зариф шарифов",
         "бахисобгирии бухгалтерии (мухо",
         "бахисобгирии молияви",
         "бухгалтерия",
         "иктисод"
       ],
-      "chunks": 93,
-      "size_bytes": 45559,
-      "sha256": "d2ff42935b1161a3e03270abc01369972af944431c2aa596299133bb0cd6987c"
+      "chunks": 3,
+      "size_bytes": 801,
+      "sha256": "c5ca7e6cff90f31b34361d10717a83edef9c26082c657828bb9098a1539a1fd5"
     },
     {
       "id": "lib_iqtisod_iqtisodiyot",
@@ -2218,7 +2207,7 @@
       ],
       "chunks": 1,
       "size_bytes": 446,
-      "sha256": "b102ebe59247b8acfa835abf0df759cab4c2a30660a4c495729b3a8a294eb100"
+      "sha256": "05b3e22ffa1dab69e0b9ebf950aec4d90dc8818f9e73859af9850035ff88602f"
     },
     {
       "id": "lib_iqtisod_marketing",
@@ -2233,7 +2222,7 @@
       ],
       "chunks": 1,
       "size_bytes": 504,
-      "sha256": "3c04a684dd11dbc0eae195a2e2bb3fda6858596dc8017cf222499d928eeefeb9"
+      "sha256": "7b2816cdf2cd77f3aed3a70b39bd35244292d7f4d4f20ea42465190dc844d3d7"
     },
     {
       "id": "lib_iqtisod_moliya",
@@ -2251,7 +2240,7 @@
       ],
       "chunks": 4,
       "size_bytes": 981,
-      "sha256": "e745153716270003ee29437e0414be1e506989ee0eb50af161ebbefe2e2d886a"
+      "sha256": "2efaaa9cac46c4707104302e8dbafa63115a3b418f726c3aff011860d132cdf2"
     },
     {
       "id": "lib_islomi",
@@ -2265,7 +2254,7 @@
       ],
       "chunks": 1,
       "size_bytes": 374,
-      "sha256": "b7ebb42003279e929366cb1193914fdeef3069b5da2485353ac7767d6f081765"
+      "sha256": "056736d0e96cd7b2fbbaa0ba11956eca5cb50cad9308d9a8b3f9bea24569978f"
     },
     {
       "id": "lib_islomi_akhloq",
@@ -2281,12 +2270,11 @@
         "ислох ва бознигари. мухаммади",
         "кимиеи саодат (чилдхои i ва ii",
         "футувватномаи султони. ахлоки",
-        "футувватномаи султони. ахлоки мухсини. рисолаи хотамия. хусайн воизи кошифи",
         "этика — илм дар бораи ахлок. м"
       ],
-      "chunks": 94,
-      "size_bytes": 58802,
-      "sha256": "ff902debf8240215dd68a8f2dbbe3733a794a5f1d1f3ae022d578e679940f6eb"
+      "chunks": 6,
+      "size_bytes": 1355,
+      "sha256": "c026057bbcd81e351daf51f9b01efa0db72a67ccc5372caeed1a336a0ced9d84"
     },
     {
       "id": "lib_islomi_digar",
@@ -2302,7 +2290,6 @@
         "буи модар (кисса, хикоя ва оче",
         "варта киссахо ва очеркхо. фазл",
         "гиес-ул-лугот (чилди 1). мухам",
-        "гиес-ул-лугот (чилди 1). мухаммад гиесуддин",
         "гиес-ул-лугот (чилди 2). мухам",
         "гулдони хафтранг. мухаммадалии",
         "дар он дуне (киссаи хаччи акба",
@@ -2319,7 +2306,6 @@
         "мухаммад икбол",
         "навхаи асп (масал ва хикояхо б",
         "насихат-ул-мулук. мухаммади га",
-        "насихат-ул-мулук. мухаммади газзоли",
         "нурмухаммад андалеб-ашъори мун",
         "нурофарон (мачмуаи кисса ва хи",
         "пайгоми шарк-мухаммад икбол",
@@ -2331,7 +2317,6 @@
         "фариштаи марг. мавлоно фазлурр",
         "фариштамох",
         "хар сухан чоеву хар нукта мако",
-        "хар сухан чоеву хар нукта макоме дорад. мухаммадчон шакурии бухорои",
         "хуросон аст ин чо. мухаммадчон",
         "чароги лола (ахтарони адаб, 42",
         "чор хикоя. гулчехра мухаммадие",
@@ -2339,9 +2324,9 @@
         "як ароба гулу хор (мачмуаи хик",
         "яке буд, яке набуд (афсонахо)."
       ],
-      "chunks": 385,
-      "size_bytes": 231632,
-      "sha256": "25d3dfa8ad499285076bf3057a336f5f513d1b2fa31cb619ecb3b5a79e4e5337"
+      "chunks": 38,
+      "size_bytes": 5828,
+      "sha256": "97778923eb4496f1dbff397ea096bce404c390a5ac9f985e146b3e43a69d797c"
     },
     {
       "id": "lib_islomi_fiqh",
@@ -2356,7 +2341,7 @@
       ],
       "chunks": 1,
       "size_bytes": 536,
-      "sha256": "ab6166d67952ddaa68862f3f342418814a9811a7df8f76425827bfd767af5dbc"
+      "sha256": "588a5898ca76fc217814bd596efcf3fef2f799d712d14f93287bafdb1ee34a81"
     },
     {
       "id": "lib_islomi_hadis",
@@ -2374,7 +2359,7 @@
       ],
       "chunks": 4,
       "size_bytes": 982,
-      "sha256": "b6d5d25b234dd650d5148d83368568c4e962c8913322f59c0ba9bc23f5ea0810"
+      "sha256": "02c3f43b8e42c5c1788de68c90126909a1d3e154ec9d655ca1f5e0bb6a3bbd18"
     },
     {
       "id": "lib_islomi_quron",
@@ -2392,7 +2377,7 @@
       ],
       "chunks": 4,
       "size_bytes": 842,
-      "sha256": "8cc28730f529970a94238e5601f21bdf02b3bfb9a09869245e50e72bbe55372b"
+      "sha256": "6c714243a2d65161de2f60708d02f85c001e6ce6bc12da3a113928d14667c52c"
     },
     {
       "id": "lib_jughrofiya",
@@ -2430,9 +2415,9 @@
         "рекреационная география",
         "чугрофия"
       ],
-      "chunks": 112,
-      "size_bytes": 57051,
-      "sha256": "8dcf2de0cbbcd14223cf2133d58c1143cad4c470aa956d5b00eba0d57540bfd0"
+      "chunks": 27,
+      "size_bytes": 3162,
+      "sha256": "1e3689efb432d26b5d340bd391f4b33af6fb7ea3c87356bc41c57309740f9fc1"
     },
     {
       "id": "lib_kamoloti_shakhsi",
@@ -2471,7 +2456,7 @@
       ],
       "chunks": 28,
       "size_bytes": 3836,
-      "sha256": "83e6580574e72b48280cc9fb85d217c99bf7df2d2a5a49c015d2a224a74f5821"
+      "sha256": "fcb75814f6d9e32d81d5b1e45f7f00737f28eac854e6a1e6fec7d7e0b30f9c83"
     },
     {
       "id": "lib_khud_bisoz",
@@ -2498,7 +2483,7 @@
       ],
       "chunks": 14,
       "size_bytes": 2078,
-      "sha256": "d61014e30345cca206c0cee6e4c3aab742ba35d47e82de6083e98884dec527c5"
+      "sha256": "836887008947e18be5218fd203e08c385117fa429e6201b241e53bc6799c2433"
     },
     {
       "id": "lib_kitobho_baroi_peshvoi_millat",
@@ -2515,7 +2500,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1063,
-      "sha256": "c8c67f95d50e05e106e7c1edd014088f6963db74f7cf923b355b8ecfef708f5f"
+      "sha256": "efacc1dc55403544f20a8142a5107dafe40a89631a02c15ca3bf83b76340e5f7"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_1",
@@ -2536,7 +2521,7 @@
       ],
       "chunks": 7,
       "size_bytes": 973,
-      "sha256": "f2e2af5fa4f4e3ba228dd0ce668f4f0a26c9ad75a6cfcc500f8b1a91f6460758"
+      "sha256": "caf51011baf3ac5b1391ed1ef3d735318f6b8341cf7b300432c6b167e86af4a1"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_10",
@@ -2573,9 +2558,9 @@
         "хукуки инсон - 10 (2022)",
         "хукуки инсон 10"
       ],
-      "chunks": 295,
-      "size_bytes": 170056,
-      "sha256": "eabb0c6327a52075a3cb19f155885bedf2d2bf05e4e138fa9975312cf63b5f15"
+      "chunks": 25,
+      "size_bytes": 2099,
+      "sha256": "a6b298a218e5b2e390defcf6a9d17ed02217876f6ef346963469d87a8395b51b"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_11",
@@ -2618,9 +2603,9 @@
         "химия - 11 (2018)",
         "хукуки инсон - 11 (2021)"
       ],
-      "chunks": 282,
-      "size_bytes": 161828,
-      "sha256": "dc03553004d1e47aad21de286d1f652578c18241304f931467407d735c9b8ae2"
+      "chunks": 31,
+      "size_bytes": 2578,
+      "sha256": "3c1d82bbfebf824c852689df4a0972973be3023e810ba115e57c49322a7abcad"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_2",
@@ -2642,7 +2627,7 @@
       ],
       "chunks": 8,
       "size_bytes": 1012,
-      "sha256": "a1bffefedaed1344ce031a4548a5801ed3e7f1e699f1268d5ddf8b93bd17b7c9"
+      "sha256": "72a1713bc9da15d74efc49fe13dbf9d223183eea4af001bee5bffb8745a6cb72"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_3",
@@ -2671,7 +2656,7 @@
       ],
       "chunks": 15,
       "size_bytes": 1306,
-      "sha256": "2b969208bf3d88fcc4218106ef2e42dd54669dbb4adf0f34e43267c16765154a"
+      "sha256": "dc43020c5d1ea5507e42c63b32b1cdbe18ed0cbea8b548e04fceca3971e37db8"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_4",
@@ -2694,7 +2679,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1188,
-      "sha256": "5c02de8469ac5d931c8355f07c37a5cfb5073a2e350e09d8d0db436ad0deec36"
+      "sha256": "02dba53ffda26bff1abfce453266d175263ee1d2e4d52c72fb5c813de369b99f"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_5",
@@ -2728,9 +2713,9 @@
         "технологияи иттилооти - 5",
         "технологияи иттилооти 5"
       ],
-      "chunks": 202,
-      "size_bytes": 109546,
-      "sha256": "eb78bc3fd9873fd67a2293d48d1115a93108c5258cd0c62d8a36b227e02b661e"
+      "chunks": 22,
+      "size_bytes": 2101,
+      "sha256": "4897643c8526f7683427e69b7d5e082eb4e770e1ee7a70373da59b0a1d40a586"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_6",
@@ -2771,9 +2756,9 @@
         "технология (писарон) - 6 (2017",
         "технологияи иттилооти - 6"
       ],
-      "chunks": 119,
-      "size_bytes": 57042,
-      "sha256": "036673c31cbd0de389212a21e4a69f5a4bca73344d73ba43a1814abf97c519f6"
+      "chunks": 29,
+      "size_bytes": 2766,
+      "sha256": "04e05a084fc91f13147be0afa50ae65e89a4136a16df06dd3c31ce2734e88805"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_7",
@@ -2806,9 +2791,9 @@
         "технологияи иттилооти - 7 (202",
         "физика - 7 (2017)"
       ],
-      "chunks": 197,
-      "size_bytes": 101446,
-      "sha256": "97d1df1989079ef1c26e4b67da2ab35048594becc1962b7f156df7b384d97d8c"
+      "chunks": 21,
+      "size_bytes": 2079,
+      "sha256": "525427761d66cc5d9e1ac45127b2396185465b09c87015cded467b6a3e2d782b"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_8",
@@ -2850,7 +2835,7 @@
       ],
       "chunks": 28,
       "size_bytes": 2587,
-      "sha256": "4c5957ecbc6d406cb0a574b8be55579298e015f1db8c3848444d74ebaf562e51"
+      "sha256": "85362bfa526ce8725e8245ff4157a38f7135992575925b86a5bc8a10333a992f"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_9",
@@ -2891,9 +2876,9 @@
         "экология - 9",
         "экология 9"
       ],
-      "chunks": 119,
-      "size_bytes": 58075,
-      "sha256": "aa5349d536662416505fcf4d4a945c6839f3d21bef188fb2b23f1c46e2aa9e14"
+      "chunks": 29,
+      "size_bytes": 2274,
+      "sha256": "1cb29f37aa849ceede9a2ae5849b8fe062a51366de3c4b712bcfaaf4b6067d93"
     },
     {
       "id": "lib_malumotnomaho",
@@ -2907,7 +2892,7 @@
       ],
       "chunks": 1,
       "size_bytes": 411,
-      "sha256": "1c0b63223a417067e71a6b1a4af4668a1bbb0c2938aa4a6ed8ca50d7a9452d69"
+      "sha256": "32f22b8b1f9972247dd3270ae9924ab5e6ebdd90b95fa9df325b9febb51425ef"
     },
     {
       "id": "lib_manbahoi_digar",
@@ -2951,9 +2936,9 @@
         "рисолаи тахассусии хатм",
         "социальная коммуникация"
       ],
-      "chunks": 77,
-      "size_bytes": 31890,
-      "sha256": "b81f7c8b88a57471557f2cb99a0df14c06d0cf133ec07c974a6a39df75df3a49"
+      "chunks": 34,
+      "size_bytes": 4436,
+      "sha256": "1b7846c9afa708fd8a68d58fc44cc79280ab5670a67554e1e91acec7ac00a9b1"
     },
     {
       "id": "lib_mazhakavi",
@@ -3016,7 +3001,7 @@
       ],
       "chunks": 50,
       "size_bytes": 5984,
-      "sha256": "e0191c17f8c503eafed763542c85145a11ca58843b29827a9021bfa596e128ae"
+      "sha256": "a028d57a50380e51c58f49522c894591cd8402fd6680243f8e50153432b921ec"
     },
     {
       "id": "lib_musiqi_raks",
@@ -3031,7 +3016,7 @@
       ],
       "chunks": 2,
       "size_bytes": 569,
-      "sha256": "172666f882d2a6308162289596e9f260cc6aa3ca612f6f072233c820810a3d57"
+      "sha256": "c691c61253ee3b8297fc1fb6d3c98bd6545a5df306f0e11c4db05cef88f2dc18"
     },
     {
       "id": "lib_nasr",
@@ -3061,7 +3046,7 @@
       ],
       "chunks": 17,
       "size_bytes": 1930,
-      "sha256": "c086dbafc53718c9f0eea5822d8429f8269c5eaae9c34f8f034c7c558bd7a150"
+      "sha256": "aba0174ecb94101d74afa2e9f84104bce6c8e483454c86ba00fd3b36d397754f"
     },
     {
       "id": "lib_pedagogika",
@@ -3131,9 +3116,9 @@
         "о семье и воспитании детей",
         "обучение дошкольников грамоте."
       ],
-      "chunks": 289,
-      "size_bytes": 132614,
-      "sha256": "4f2996b0a5c7e10bfa4aeb1fb14c96dbbc3c3c2e9bbcf5729280b7395d0b0a9f"
+      "chunks": 83,
+      "size_bytes": 10166,
+      "sha256": "1c925576012c5fec1a9d838c3ad4238eb462ab12e921213307d28cd3e19e4c26"
     },
     {
       "id": "lib_peshvoi_millat",
@@ -3170,7 +3155,7 @@
       ],
       "chunks": 29,
       "size_bytes": 3604,
-      "sha256": "f1f1a00cc9e9d0121eacfeb760890d4cf5e15bed7828ce36beeb86726d5b6f64"
+      "sha256": "a2d8fdc89ae61afc635e98a76117d477f4d0acdbcce6f31946afe9b508248b30"
     },
     {
       "id": "lib_ravondarmon_va_mushovira",
@@ -3189,7 +3174,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1146,
-      "sha256": "4b9351cb64cb008f5d4964ecc9237f64be30ffa63ff5cc17967ccef2d06da397"
+      "sha256": "54da1e4fcd95c22088975fc4e5870063cec6702e3fc7b2a630b57aa23df6a188"
     },
     {
       "id": "lib_ravonshinosii_ijtimoi",
@@ -3204,7 +3189,7 @@
       ],
       "chunks": 2,
       "size_bytes": 591,
-      "sha256": "e667bef8b6707fbbe3443f9e54dab5a0e876ce83e8e3eec529d30a247ba6990a"
+      "sha256": "126e21ef429fd5920ec6b734e0786d4dbe21dbf5fd41ad80cf25fd863d58ca9a"
     },
     {
       "id": "lib_ravonshinosii_k_dakon",
@@ -3246,7 +3231,7 @@
       ],
       "chunks": 29,
       "size_bytes": 4660,
-      "sha256": "c6dcfa7cf561e8c0421c6fa81b848d9794e75dcf459109807f09acd66de419a9"
+      "sha256": "dec85687364382736c6177a5c1b3273c31208d976a14a830329b004c7ca3fa57"
     },
     {
       "id": "lib_ravonshinosii_khonavodagi",
@@ -3266,7 +3251,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1257,
-      "sha256": "8780f5403656e22702f7933ef8bd9fd7a045ed42aef27665006d362af0ce514b"
+      "sha256": "1e38c6f1b7d415180198bf404fdfd311c5f0992eb0891b9e81630d3ba4e0c8b9"
     },
     {
       "id": "lib_ravonshinosii_klassik",
@@ -3282,7 +3267,7 @@
       ],
       "chunks": 3,
       "size_bytes": 690,
-      "sha256": "787fd70d811adf6df99f173ef8e39a9134cdcf1ef00bb03213d9202c2f538a4a"
+      "sha256": "892fd6359df52f4be1248027c69c1eb1d3a026e2a728ea8854ff8d105320ffa9"
     },
     {
       "id": "lib_ravonshinosii_umumi",
@@ -3354,7 +3339,7 @@
       ],
       "chunks": 229,
       "size_bytes": 27516,
-      "sha256": "7cbb6fbdb8563a92dff6fd8f757f2eeee09475ab549c51b9885ad4c280db41e3"
+      "sha256": "79d1c1e0468155fedaabbb05467f805b085dd0c409dde698e0f1a4f54760b037"
     },
     {
       "id": "lib_riyozi",
@@ -3372,7 +3357,6 @@
         "algebra va ibtidoi",
         "die zahl, die aus der kälte ka",
         "geometrijakitobi darsyi baroi",
-        "geometrijakitobi darsyi baroi sinfi 11",
         "logistika",
         "matematicheskie metody issledo",
         "matematicheskij analiz",
@@ -3422,11 +3406,12 @@
         "одураченные случайностью. скры",
         "приглашение на математический",
         "приключения алисы в стране гол",
-        "принцесса или тигр"
+        "принцесса или тигр",
+        "простая одержимость"
       ],
-      "chunks": 194,
-      "size_bytes": 81347,
-      "sha256": "361ed5dd5d207f71964074484f6ec621033d1fdec2bc6e274617399c8356d862"
+      "chunks": 70,
+      "size_bytes": 8676,
+      "sha256": "116502414f7549eb09dac295c1d29adec23a8a3c346e11b351421c869808915a"
     },
     {
       "id": "lib_rushdi_shakhsiyat",
@@ -3488,7 +3473,7 @@
       ],
       "chunks": 49,
       "size_bytes": 7713,
-      "sha256": "33c8763c8560c351966dfd540a56f399d3008d43de71a9f6885c2fee16a48620"
+      "sha256": "56ec9691904907b368f042f0861ea24ff024ec44caa83ec616610c139616d9af"
     },
     {
       "id": "lib_sanati_oroishi",
@@ -3506,7 +3491,7 @@
       ],
       "chunks": 5,
       "size_bytes": 845,
-      "sha256": "86c2749c0eb370dcb69526b74393bd3118c6a111122445d684965fde2d497a88"
+      "sha256": "155961a048389e53295622a06163038236986af2e2b7346a58df1e9e2a24077a"
     },
     {
       "id": "lib_sargarmi",
@@ -3578,7 +3563,7 @@
       ],
       "chunks": 172,
       "size_bytes": 20954,
-      "sha256": "c323f5fc10e786293816a275770efee194e5fe12354c133ab50f6d1a710b826b"
+      "sha256": "b70a687b0b1bdcee82b2dd227288af86cd4cf965238447f96f52f02020ef043b"
     },
     {
       "id": "lib_sarmoyaguzori",
@@ -3593,7 +3578,7 @@
       ],
       "chunks": 2,
       "size_bytes": 539,
-      "sha256": "161b0fb1839decc6354bdda7e7843051c82a84159bf93c486fa612c5e13b2f1c"
+      "sha256": "f2ab7cc11940b133b4674a1a11a365d4b97f59363ef065091bcd29224eb6eb63"
     },
     {
       "id": "lib_satsiologiya",
@@ -3613,7 +3598,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1148,
-      "sha256": "b61a5a5b726b05af01fc5c51a5cde20d51fcee5b7ce6fe5cffd2301571e249a5"
+      "sha256": "c786a12cfc47c5d921a4477b5482ff72ad0d76914b3d41042c2910420f0b912a"
     },
     {
       "id": "lib_sherho",
@@ -3667,7 +3652,7 @@
       ],
       "chunks": 41,
       "size_bytes": 3751,
-      "sha256": "d38e2e90a15496f09cd0575be6da8f6aae7e626b78e436dfe736393c3dc7f514"
+      "sha256": "ae3f9d440f9266936288311c0c86839111facaf06c9c9479732bebd6bf869aed"
     },
     {
       "id": "lib_siyosat_siyosatshinosi",
@@ -3737,9 +3722,9 @@
         "«фонд» для россии. что было, ч",
         "агония или рассвет россии. как"
       ],
-      "chunks": 400,
-      "size_bytes": 56379,
-      "sha256": "a990883ac03d9c5c3731b2f1c9366907df77d2d6e6b9221e04789f4726c20a16"
+      "chunks": 369,
+      "size_bytes": 34458,
+      "sha256": "e7da4d3a894566b4a2126d1325caf355998fcd74fd1861f7270e505391c86604"
     },
     {
       "id": "lib_tabiat_va_hayvonot",
@@ -3770,7 +3755,7 @@
       ],
       "chunks": 18,
       "size_bytes": 2442,
-      "sha256": "14c33372ef4785fe513f7d3df02d489691cc4edb0d5a1af6060de2c14d811051"
+      "sha256": "6dd247ab13fbebd0035c5aa05843593e00f8e22f178e8d85459ae14e639da086"
     },
     {
       "id": "lib_tarbiyai_k_dakon",
@@ -3842,7 +3827,7 @@
       ],
       "chunks": 73,
       "size_bytes": 9463,
-      "sha256": "d806d9cd1cfdc72de0dab3a7da0bb59bc57c1bca38f985f474caedd064e5fdfc"
+      "sha256": "456f9772ecdc92f423a8eb554736a4f078bc1176759018a3be338d99b1597720"
     },
     {
       "id": "lib_tarikh",
@@ -3867,7 +3852,7 @@
       ],
       "chunks": 12,
       "size_bytes": 1675,
-      "sha256": "8ac0949fdb0cbaafd71557aec2f749e64d1a85f69a9486f4dd0f32a2657199bd"
+      "sha256": "4274f2213638d2ba77971a42199b1e50c3d723ae4f214c6176ef8470fd03bd1b"
     },
     {
       "id": "lib_tarikh_tarikhi_jahon",
@@ -3882,7 +3867,7 @@
       ],
       "chunks": 1,
       "size_bytes": 471,
-      "sha256": "a677b82dbcb79a4a0fb1372c545e1f6cf67448f0a270917435babd2a97509999"
+      "sha256": "b1f06e5ad29cd25224a7e4398eaf5b5b1ef8e2d04ba4af74dd05ddbe63148427"
     },
     {
       "id": "lib_tib",
@@ -3915,7 +3900,6 @@
         "praktikum... -2022. 136с",
         "saburova 2023-166с",
         "sad darmoni dardhoi shumo-2025",
-        "sad darmoni dardhoi shumo-2025. 72с",
         "shifobahshandai har dardi bemo",
         "svetnoy i atlas.-2019. 481с",
         "the ebola survival handbook",
@@ -3950,11 +3934,12 @@
         "болезни почек. пиелонефрит",
         "болит шея – что делать",
         "боль в спине [вопросы и ответы",
-        "боль: расшифруй сигналы своего"
+        "боль: расшифруй сигналы своего",
+        "большая книга диабетика"
       ],
       "chunks": 400,
-      "size_bytes": 41722,
-      "sha256": "34808a4c315424f10d1a44f9aa23eb7a0d11d920b2ddcbf4fcc6d87c93923492"
+      "size_bytes": 41723,
+      "sha256": "9816ffc610970696cd130018d2b0d95ad474bab348008adfbaf8b994d01c9bd7"
     },
     {
       "id": "lib_tib_tibbi_ananavi",
@@ -3978,7 +3963,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1675,
-      "sha256": "0c5f50ca769e270a5a997aab9352459637dcbfc0b4d75c80dfeb26bea7db1e97"
+      "sha256": "f0343b85a60bebf8ecb68ef99093e8e0bc8813d8034a437a5a0db84f255dac4a"
     },
     {
       "id": "lib_tib_tibbi_klassiki",
@@ -3994,7 +3979,7 @@
       ],
       "chunks": 2,
       "size_bytes": 620,
-      "sha256": "f224e6ed861e95b5341a80ee6196096ff88601b5bd3ea645c8a7f4bb98f1810a"
+      "sha256": "3b4a10c88ffdd953c1ca739c14000ef0591215bfc0014276e54f874fca6c660c"
     },
     {
       "id": "lib_zabonhoi_khoriji",
@@ -4014,7 +3999,6 @@
         "kak bystro vyuchit mnogo angli",
         "kind regards. деловая переписк",
         "kitajskij jazyk. teorija i pra",
-        "kitajskij jazyk. teorija i praktika perevoda",
         "samouchitel anglijskogo yazyka",
         "samouchitel nemeckogo jazyka",
         "scrum. навчись робити вдвічі б",
@@ -4052,9 +4036,9 @@
         "сім основних уроків з фізики",
         "феномен полиглотов"
       ],
-      "chunks": 47,
-      "size_bytes": 7352,
-      "sha256": "7278cf9ab87af555af774a5cd056e3e40753db40e51d972c38b2bff0b00e87a0"
+      "chunks": 46,
+      "size_bytes": 7052,
+      "sha256": "0ac240dcac7c29ab44f82172660dc6fb744b1ce2a4f573d3d274a61051173dc2"
     },
     {
       "id": "lib_zabonshinosi",
@@ -4078,7 +4062,6 @@
         "8146 zaboni modari va hudshino",
         "95 uprazhnenij na vse pravila",
         "akademik zabonshinos. 1989с. 7",
-        "akademik zabonshinos. 1989с. 72сх",
         "aqolahoi nomshinosi -2001. 172",
         "atri suhan. -2021. 176с",
         "delovoj anglijskij",
@@ -4095,7 +4078,6 @@
         "kultura russkoj rechi",
         "lost structure",
         "mantiq. kitobi darsyi baroi ma",
-        "mantiq. kitobi darsyi baroi maktabhoi olii tojikiston",
         "navisanda va zabon",
         "nomnoma-76с",
         "ocherkhoi gramatiki 1. -1971.",
@@ -4117,16 +4099,18 @@
         "zaboni adabi tojik xx",
         "zaboni anglisyi 6",
         "zaboni anglisyikitobi darsi ba",
-        "zaboni anglisyikitobi darsi baroi sinfi-8",
         "zaboni anglisyikitobi darsyi b",
-        "zaboni anglisyikitobi darsyi baroi sinfi 7-um",
         "zaboni tojiki",
         "zaboni tojiki va huviyati mill",
-        "zabonshinosii tojik"
+        "zabonshinosii tojik",
+        "zarbulmasal va maqolahoi1979.-",
+        "забони адабиети илмию техникии",
+        "забони адабии хозираи точик си",
+        "забоншиноси"
       ],
-      "chunks": 400,
-      "size_bytes": 228011,
-      "sha256": "9af70fb279d4771ffae464c7d7a2980be7b07e1e54805a070b04c45ac2349bac"
+      "chunks": 67,
+      "size_bytes": 6161,
+      "sha256": "c77dacf2414692c9f277fb3341f598b70e9bad20b8ef1d41fd8c21540a6d86ba"
     },
     {
       "id": "lib_zhurnalistika",
@@ -4140,7 +4124,7 @@
       ],
       "chunks": 1,
       "size_bytes": 559,
-      "sha256": "6286dc2678efd359807a5c8ae60c4efbee692c2ae16ee9cbc15d89e6011bf047"
+      "sha256": "3999d469ef6e52d3d1dbc057e7d83e221d8e41269d77447d5d3aa9c01807fe89"
     },
     {
       "id": "lib_zindaginoma",
@@ -4154,7 +4138,7 @@
       ],
       "chunks": 1,
       "size_bytes": 423,
-      "sha256": "f4530d57e8dae0bfb6e3d5f110545ffa14c4254c8accf78ddf2e9cb39323c91b"
+      "sha256": "8063b4e101ba7b6733a0fa74369256a7a9258612be3bc77101df82d8095beb30"
     },
     {
       "id": "lib_zindaginoma_yoddosht",
@@ -4174,7 +4158,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1369,
-      "sha256": "9d25c899360c570526654457b0484f5c862e6feb6e065c570e2540677b4933e7"
+      "sha256": "4bf0cd06c6aed0f0f39b4182f0f1dd37343a0ca7bdc2ed1a2800b06a8f029a87"
     },
     {
       "id": "poet_ayni",
@@ -4194,7 +4178,7 @@
       ],
       "chunks": 40,
       "size_bytes": 6634,
-      "sha256": "5357edbf628cb9e5d5346923855a5ae3b572aba0b6e9ce47a0907f4ff852b7cf"
+      "sha256": "36b6679916afbaca59c75fd8b740f170fb5b0028b0535467345916c56fa8a371"
     },
     {
       "id": "poet_bedil",
@@ -4211,7 +4195,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1370,
-      "sha256": "20e71b0c6d1bcefe7c2113b34c8caae8ffddbc17906617e75a75f855e28ef41a"
+      "sha256": "e19e6db3c4a9ae14db96d2fbd762da3b382028862f4a808b800e95627c1db9a7"
     },
     {
       "id": "poet_bozor_sobir",
@@ -4230,7 +4214,7 @@
       ],
       "chunks": 8,
       "size_bytes": 1701,
-      "sha256": "9e86e5594951b120f72bb8b4ea5ace7b8bed0dc182c452489ff6e1c54e52d4d1"
+      "sha256": "5bfb8318c7c0ad6423a993db02d7ed8432e8fbd73b642122c2149469bad47fa3"
     },
     {
       "id": "poet_donish",
@@ -4247,7 +4231,7 @@
       ],
       "chunks": 4,
       "size_bytes": 900,
-      "sha256": "f282bb60b740cc91950d0fd18e47924053a2d59a423c1ae1c29289bcbfa316a1"
+      "sha256": "b58484821f6e1af6b7aeab9ee7e846ad02badd39308874df11b6d69a9f5ab054"
     },
     {
       "id": "poet_farzona",
@@ -4266,7 +4250,7 @@
       ],
       "chunks": 4,
       "size_bytes": 967,
-      "sha256": "da26f6b7dcf9108fdf064ac862541872efd6722f4892302a9677f7f2ea4a8464"
+      "sha256": "eaca8a941e72f099bb471c2577832ca7cbbfef0fc9b3b58dea803abd6f1fb3ac"
     },
     {
       "id": "poet_firdavsi",
@@ -4285,7 +4269,7 @@
       ],
       "chunks": 26,
       "size_bytes": 2106,
-      "sha256": "2b7b0f22b313b2707e83eb626bb85ad6244a083f5fd28aee5365592acb50684f"
+      "sha256": "d7702a3eb7e1b3e6c1f6a691efa62112383bf2776a7e3a08056fa09328ca8c5e"
     },
     {
       "id": "poet_gafurov",
@@ -4302,7 +4286,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2135,
-      "sha256": "65d6f7bb9c0689d4abd466a0a98f5d28d9d1bebf140dafab51e5296dcfe2b5cd"
+      "sha256": "bc82a5920312ee96c1ef0f4817eef0b1e5c41b13ef581f0e6e91afa5e3f05218"
     },
     {
       "id": "poet_gulrukhsor",
@@ -4319,7 +4303,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1736,
-      "sha256": "dbc336451d83a0fb44d08f1530728d906e17366c49b69d1e253ba25c6d4dc1f1"
+      "sha256": "a5e4996586d99e8fe22bc6eec42b6f59569d217605de304cd0a864ca566470d3"
     },
     {
       "id": "poet_hofiz",
@@ -4338,7 +4322,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1701,
-      "sha256": "a8ea634fa31989e1bf3deccbdb099ce884dfee7375b0c555e9ccba0a27ea83da"
+      "sha256": "f5fc5e24079c022881146f619b4087d4b83b9bc2a54f826176769f7b69a3a595"
     },
     {
       "id": "poet_jomi",
@@ -4356,7 +4340,7 @@
       ],
       "chunks": 13,
       "size_bytes": 2187,
-      "sha256": "d0dd7895cbfde7c2a158a2a46d657eff9d9e2681e8780b1a93497488e057609f"
+      "sha256": "d50769c562933759d316bae0de14aff1c1742a42aed0c4f1f60e1a0403956063"
     },
     {
       "id": "poet_kamol",
@@ -4373,7 +4357,7 @@
       ],
       "chunks": 5,
       "size_bytes": 1070,
-      "sha256": "624c0ae5558f88328f3b6ba46dc8411752d0654fee534e61eeba78bfb700b415"
+      "sha256": "5817e4d0693b84b5a9f3c68dce39d0c54c9341cc8bfb29c20e9c8b74ad1accf6"
     },
     {
       "id": "poet_khayyam",
@@ -4393,7 +4377,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1848,
-      "sha256": "b79288384c9e3cea1d994b3a0039fa5f3ca966f2d555faf2bdd860abec3f0a55"
+      "sha256": "e92cdbef49768f19679b38aff481ad08a620c48ff8497c61b56b6f6edece2712"
     },
     {
       "id": "poet_lohuti",
@@ -4410,7 +4394,7 @@
       ],
       "chunks": 2,
       "size_bytes": 684,
-      "sha256": "9b8a53b192b0cceaa3ad96d3b97a56bf84a7fa1c302b6cbe771f05ea58bfa42b"
+      "sha256": "42e4795ab694ccb3e6c13cabd9c172e5b9008d2eaa69e72f1992b0a184decc80"
     },
     {
       "id": "poet_loiq",
@@ -4428,7 +4412,7 @@
       ],
       "chunks": 13,
       "size_bytes": 2021,
-      "sha256": "1ff7f9bb0d0b1e7d659cee67dd0684b709622195333b72f6e63b8f3e3bbab240"
+      "sha256": "abdaa36799a521c3fc5095129f91bbc6620b51928ff64cc2014279800e350649"
     },
     {
       "id": "poet_mavlavii_rumi",
@@ -4446,7 +4430,7 @@
       ],
       "chunks": 15,
       "size_bytes": 3330,
-      "sha256": "3fb6bc58a782125fc3c113359c3a4a28aefd73002f837629c3b64ab85f574cc2"
+      "sha256": "7ba5a70cffd7a7c25215d6473787ebc476df75aa60936e3db0694e943f0c3c3f"
     },
     {
       "id": "poet_nosiri_khusrav",
@@ -4464,7 +4448,7 @@
       ],
       "chunks": 14,
       "size_bytes": 2483,
-      "sha256": "a264c298f0806fa057317fe37732baa2cb2c7ea7f1d29c34bd8e77e9a3e8ffdc"
+      "sha256": "08a11420555b7ac8c002bc3fd5a8e1ccae64ed83530e53f8625ac4dfb2339f7b"
     },
     {
       "id": "poet_rudaki",
@@ -4483,7 +4467,7 @@
       ],
       "chunks": 18,
       "size_bytes": 4167,
-      "sha256": "e9f2debe807d8fdc251d78a094c9c2ed2b3ec0b54070f2a30573c2c0a16063be"
+      "sha256": "bf662368b3bd83ac8ae5f8ef3420a53b60b8d43c68104d55155902ac7f377d27"
     },
     {
       "id": "poet_saadi",
@@ -4502,7 +4486,7 @@
       ],
       "chunks": 20,
       "size_bytes": 4424,
-      "sha256": "c79e8d3693400286e0ce58027d7ba7a014021a0a2ae67ef3a10e9a8e1eef2c5c"
+      "sha256": "82aafedc3ccf706f85f49e7368913d138c5469e84861acc58d37d3ec3a053bfb"
     },
     {
       "id": "poet_sayido",
@@ -4519,7 +4503,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1008,
-      "sha256": "1a361d87f63aa2c4c1f1ca573f21acc62b3d65fe33be487e018cc1d9ad495771"
+      "sha256": "b9d65a6fbdfa3be21cac7c497479ba1305e4d873f8db11e9cb90b219647a5d2f"
     },
     {
       "id": "poet_sino",
@@ -4539,7 +4523,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2207,
-      "sha256": "39369e27e9a6f99aba20c2f0e7371584439973f7f996ce3ac60aaafb60253504"
+      "sha256": "7555a3c55a03912509cd6fb6ff15c07a8b896a542a3ba2754362eb85e868ec6a"
     },
     {
       "id": "poet_tursunzoda",
@@ -4558,7 +4542,7 @@
       ],
       "chunks": 9,
       "size_bytes": 2656,
-      "sha256": "e67c1a6ec21a9c60bc6f77ce28f6fc634a8ec35c9a4cf7e2c7fe523f9b5aa79f"
+      "sha256": "9e560861f60bf65b9a1f658733630eb191f197c7067d95b013fb0a0ffc1272e9"
     },
     {
       "id": "poet_zebunniso",
@@ -4575,7 +4559,7 @@
       ],
       "chunks": 3,
       "size_bytes": 762,
-      "sha256": "1e26c060feec22a7faef0730660737f13d1e4cb6149b0a69e7903285fc93c44f"
+      "sha256": "0c5770ad930836059b95f9113f48a5d9fd58bd8deae7ab9f0a907210b1952e8e"
     },
     {
       "id": "president_calls",
@@ -4591,7 +4575,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1578,
-      "sha256": "db84e956268eee9e205bf27a84cf1621c09e8590c10a555a1752e387f31e16a2"
+      "sha256": "d085ae5b0facea6a72a9b317a2db6478a5df3e4a957163476f5a097aeba06537"
     },
     {
       "id": "president_documents",
@@ -4607,7 +4591,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2622,
-      "sha256": "b6db43d0c4ae033aed09b246df97cf24548e5b8ef9e3f657e5183b9e467163f1"
+      "sha256": "506984b17a6c5a45432428ab90ce14fa1346e3395719fdc7c63ba18631049733"
     },
     {
       "id": "president_meetings",
@@ -4623,7 +4607,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2225,
-      "sha256": "aeae10fa9c1cec2a9718e7889ab670b3262bae681e5e991c15e0818d6aa03eba"
+      "sha256": "d09d59618122942a69748168cc397d1fed340225456d2f5bf781c91e7f551e72"
     },
     {
       "id": "president_missives",
@@ -4639,7 +4623,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1301,
-      "sha256": "0cec5f05c1191c859371e3f1c7074a887e3517105c24bb6ddde9390e3195205f"
+      "sha256": "4bf8b8338849deacf717ce59540639b61049e88f71d80cc36749ee4b91bc6a8b"
     },
     {
       "id": "president_news",
@@ -4655,7 +4639,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2102,
-      "sha256": "e558f05b46e9146337f0415fb9bf247ac6502809ad8aed84a420a8d2080df56b"
+      "sha256": "4120724152e29d695ae942305ff10d5b9a900629b2765c3a9dd31dac8f402026"
     },
     {
       "id": "president_speeches",
@@ -4671,7 +4655,7 @@
       ],
       "chunks": 12,
       "size_bytes": 1916,
-      "sha256": "824d34c92951320b5e94b74422f7875108a81bcd31975180a3860d01af69b8bb"
+      "sha256": "80d430d43548b7b85cb9bfb0cea8e2498b1c1c705feddba807f4266bd561a694"
     },
     {
       "id": "president_telegrams",
@@ -4687,7 +4671,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2089,
-      "sha256": "78803fb16ab380084565c7798bfe68b54b420c8f05e7e1fad45a5972be4d182d"
+      "sha256": "f13ffc34857b80976e11570cf718b18c63712b962d4f87013d24ac9eaf93d838"
     },
     {
       "id": "president_trips",
@@ -4703,7 +4687,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2078,
-      "sha256": "1f199d0a91eca8ce3d2042b2e11ba04de0fb4cc28b19bdd677019b3c854c6151"
+      "sha256": "63a0241f0f55c6587dbf00c0824ee7fccaf3ab4ebc3f76db2e7427d85a018832"
     },
     {
       "id": "shero_ishq",
@@ -4723,7 +4707,7 @@
       ],
       "chunks": 30,
       "size_bytes": 16858,
-      "sha256": "03cbcc450fcd270e20a3deb9c727f8ec5921d2e68c79b914cd697cd3fc03b6f6"
+      "sha256": "7488c5b1ad4ad16ccdeb186684996fd3a4a920533e3572f40b53c0a72833d157"
     },
     {
       "id": "shero_modar",
@@ -4743,7 +4727,7 @@
       ],
       "chunks": 34,
       "size_bytes": 19007,
-      "sha256": "e79fe43ba60d4fdb278a01025d896b4c637f6ee4f08a5602e6ff48c6a2649adc"
+      "sha256": "d13ad8f9d5efbaf3406e764ab105ca77a29c5753ad2c891e68343e68d101466b"
     },
     {
       "id": "shero_navruz_bahor",
@@ -4762,7 +4746,7 @@
       ],
       "chunks": 6,
       "size_bytes": 4811,
-      "sha256": "cafb4ffdfaf3d4488fa01ace413f01d6d441959a7cb87d5a59df2b11dd8dd88f"
+      "sha256": "fcc7c104ea16a7ca4ae331c87435c201e2e51291f8344608a8d343ffa93ed976"
     },
     {
       "id": "shero_pandu_akhloq",
@@ -4784,7 +4768,7 @@
       ],
       "chunks": 10,
       "size_bytes": 6671,
-      "sha256": "64668066912b5bf2704a2bd614b580b010a40f27486cb2ad40ae30b04e4fe009"
+      "sha256": "407ad3b9c047dd3619f5331639dff6b179fc8d422f3d82bd0739d869671b1e0b"
     },
     {
       "id": "shero_vatan_tojikiston",
@@ -4805,7 +4789,7 @@
       ],
       "chunks": 34,
       "size_bytes": 19037,
-      "sha256": "4be19915a09654abcc13ab5215649a3b4ac86d16c2a8fb2b1e7a411a16e0ad68"
+      "sha256": "6df9c1dba03cba1675f94e540b6d669ddb38290e8988496261f712687b191b4e"
     }
   ]
 }
