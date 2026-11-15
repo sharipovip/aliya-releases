@@ -1,43 +1,16 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 20,
-  "updated_at": "2026-11-15 21:35",
+  "latest_seq": 21,
+  "updated_at": "2026-11-16 02:16",
   "recent_links": [
     {
-      "seq": 17,
-      "prev_seq": 16,
-      "day": "2026-11-15",
-      "dushanbe_time": "2026-11-15 03:48",
-      "file": "2026-11-15/link_000017.json.gz",
-      "count": 22,
-      "size_bytes": 6343
-    },
-    {
-      "seq": 18,
-      "prev_seq": 17,
-      "day": "2026-11-15",
-      "dushanbe_time": "2026-11-15 07:16",
-      "file": "2026-11-15/link_000018.json.gz",
-      "count": 16,
-      "size_bytes": 3465
-    },
-    {
-      "seq": 19,
-      "prev_seq": 18,
-      "day": "2026-11-15",
-      "dushanbe_time": "2026-11-15 14:40",
-      "file": "2026-11-15/link_000019.json.gz",
-      "count": 43,
-      "size_bytes": 12981
-    },
-    {
-      "seq": 20,
-      "prev_seq": 19,
-      "day": "2026-11-15",
-      "dushanbe_time": "2026-11-15 21:35",
-      "file": "2026-11-15/link_000020.json.gz",
-      "count": 30,
-      "size_bytes": 8797
+      "seq": 21,
+      "prev_seq": 20,
+      "day": "2026-11-16",
+      "dushanbe_time": "2026-11-16 02:16",
+      "file": "2026-11-16/link_000021.json.gz",
+      "count": 17,
+      "size_bytes": 3718
     }
   ],
   "daily_rollups": [
@@ -64,6 +37,12 @@
       "file": "daily/day_2026-11-14.json.gz",
       "count": 171,
       "size_bytes": 49317
+    },
+    {
+      "day": "2026-11-15",
+      "file": "daily/day_2026-11-15.json.gz",
+      "count": 111,
+      "size_bytes": 29591
     }
   ],
   "seen_uids": [
@@ -887,6 +866,23 @@
     "cf4a2caf519bc169",
     "cd753c4fd6c28755",
     "f27e35a865a36a77",
-    "5bd0af912ecb39d1"
+    "5bd0af912ecb39d1",
+    "f57853915a72f5b0",
+    "4611e6e9ff7f258e",
+    "d7c58034bc22a16d",
+    "98385401dfffabe7",
+    "991612146b3c0074",
+    "4d5dd3af23190785",
+    "b7ed11a27febf4b9",
+    "f23abc56288e5569",
+    "acf132afdbdc4528",
+    "8c90ef73288a4656",
+    "1c92fdda67b4b641",
+    "9c14f5819d41074f",
+    "fab5e7ee7233e907",
+    "6b131188088da8bf",
+    "ff146bf4d76e49df",
+    "a4d325606f77f90d",
+    "62065eaacc572113"
   ]
 }
