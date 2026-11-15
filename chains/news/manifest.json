@@ -1,7 +1,7 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 18,
-  "updated_at": "2026-11-15 07:16",
+  "latest_seq": 19,
+  "updated_at": "2026-11-15 14:40",
   "recent_links": [
     {
       "seq": 17,
@@ -20,6 +20,15 @@
       "file": "2026-11-15/link_000018.json.gz",
       "count": 16,
       "size_bytes": 3465
+    },
+    {
+      "seq": 19,
+      "prev_seq": 18,
+      "day": "2026-11-15",
+      "dushanbe_time": "2026-11-15 14:40",
+      "file": "2026-11-15/link_000019.json.gz",
+      "count": 43,
+      "size_bytes": 12981
     }
   ],
   "daily_rollups": [
@@ -796,6 +805,49 @@
     "5ea2ee68e05afc00",
     "f411ee630527f768",
     "0443b1afc38faa89",
-    "c37cf0484e291e3a"
+    "c37cf0484e291e3a",
+    "56583a1e75627bec",
+    "88248480627d2f8d",
+    "32dd433d2742ca8b",
+    "b560d4ec061f1f00",
+    "33288a15045e084a",
+    "3322cde964a54540",
+    "7ec6bea8a2266897",
+    "dab2f9a7a84e924f",
+    "2b4614b7e44c647c",
+    "aadc768bc0d6925b",
+    "fd7462348607c163",
+    "d84ec70c1e1b2e11",
+    "ce79e5b6e4056ef4",
+    "e937a0977a5330a4",
+    "c17ddf999e97cfbb",
+    "8fef4ad9fb6b9ef1",
+    "4580b37545dfc33b",
+    "9ff0f2270d183403",
+    "98a2be3aa9211547",
+    "6d2c0f7811be3228",
+    "c7837e878d09ca0c",
+    "ac0872c5d1ae4598",
+    "e0fa432029552e10",
+    "93f7c1e5a5c64888",
+    "bdd366aff87930f8",
+    "434f9853f67939e7",
+    "10210c13f03b75bf",
+    "8f49a99c1302cecf",
+    "d98ab3f9bbba5d99",
+    "cdb3b7aa5058ddcd",
+    "5379254f6ec265fa",
+    "4f846f067b04ccea",
+    "25790303e98e2d39",
+    "4dcfbe91e08b3239",
+    "ed9059f9f773758b",
+    "6f0d4af0fa957f78",
+    "6dfafc0259f24ac5",
+    "3ed7f7bc1763c45a",
+    "faa563a1b618e1a8",
+    "549aa136b0fd7def",
+    "677aa9ab79bd3071",
+    "61148e17099af2f1",
+    "89813b953c7dd654"
   ]
 }
