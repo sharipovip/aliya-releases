@@ -1,34 +1,16 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 27,
-  "updated_at": "2026-11-17 23:45",
+  "latest_seq": 28,
+  "updated_at": "2026-11-18 06:26",
   "recent_links": [
     {
-      "seq": 25,
-      "prev_seq": 24,
-      "day": "2026-11-17",
-      "dushanbe_time": "2026-11-17 06:30",
-      "file": "2026-11-17/link_000025.json.gz",
-      "count": 24,
-      "size_bytes": 7238
-    },
-    {
-      "seq": 26,
-      "prev_seq": 25,
-      "day": "2026-11-17",
-      "dushanbe_time": "2026-11-17 14:43",
-      "file": "2026-11-17/link_000026.json.gz",
-      "count": 68,
-      "size_bytes": 21565
-    },
-    {
-      "seq": 27,
-      "prev_seq": 26,
-      "day": "2026-11-17",
-      "dushanbe_time": "2026-11-17 23:45",
-      "file": "2026-11-17/link_000027.json.gz",
-      "count": 69,
-      "size_bytes": 22680
+      "seq": 28,
+      "prev_seq": 27,
+      "day": "2026-11-18",
+      "dushanbe_time": "2026-11-18 06:26",
+      "file": "2026-11-18/link_000028.json.gz",
+      "count": 18,
+      "size_bytes": 4234
     }
   ],
   "daily_rollups": [
@@ -67,6 +49,12 @@
       "file": "daily/day_2026-11-16.json.gz",
       "count": 176,
       "size_bytes": 50887
+    },
+    {
+      "day": "2026-11-17",
+      "file": "daily/day_2026-11-17.json.gz",
+      "count": 161,
+      "size_bytes": 49989
     }
   ],
   "seen_uids": [
@@ -1227,6 +1215,24 @@
     "1ce713cb57d148c5",
     "a78b029b564d793c",
     "5d19b8d28405bf6b",
-    "842f5a5062d80c1f"
+    "842f5a5062d80c1f",
+    "a5be2e529b8c53da",
+    "b62eb6a1a1f925fa",
+    "7520cfcef78f5748",
+    "794b7e1ae5da61c2",
+    "535753fb00413758",
+    "431ea9619b8875d7",
+    "554a9b12f1a3dffc",
+    "03c1d6391198e4bf",
+    "7b330d63597968a5",
+    "c80d6c2adf3a51e4",
+    "bd45c873954d1ae4",
+    "06234febfe4aadbf",
+    "f7186b2e02f0d401",
+    "423afb2ae9b8923c",
+    "47e51c9874d3dbf3",
+    "65b4ca2c23f81537",
+    "fe8b830ea59137ca",
+    "1e379d06b43b6522"
   ]
 }
