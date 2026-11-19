@@ -1,34 +1,16 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 33,
-  "updated_at": "2026-11-19 18:53",
+  "latest_seq": 34,
+  "updated_at": "2026-11-20 02:55",
   "recent_links": [
     {
-      "seq": 31,
-      "prev_seq": 30,
-      "day": "2026-11-19",
-      "dushanbe_time": "2026-11-19 04:35",
-      "file": "2026-11-19/link_000031.json.gz",
-      "count": 19,
-      "size_bytes": 5082
-    },
-    {
-      "seq": 32,
-      "prev_seq": 31,
-      "day": "2026-11-19",
-      "dushanbe_time": "2026-11-19 09:30",
-      "file": "2026-11-19/link_000032.json.gz",
-      "count": 34,
-      "size_bytes": 9843
-    },
-    {
-      "seq": 33,
-      "prev_seq": 32,
-      "day": "2026-11-19",
-      "dushanbe_time": "2026-11-19 18:53",
-      "file": "2026-11-19/link_000033.json.gz",
-      "count": 77,
-      "size_bytes": 25358
+      "seq": 34,
+      "prev_seq": 33,
+      "day": "2026-11-20",
+      "dushanbe_time": "2026-11-20 02:55",
+      "file": "2026-11-20/link_000034.json.gz",
+      "count": 32,
+      "size_bytes": 10372
     }
   ],
   "daily_rollups": [
@@ -79,6 +61,12 @@
       "file": "daily/day_2026-11-18.json.gz",
       "count": 162,
       "size_bytes": 49469
+    },
+    {
+      "day": "2026-11-19",
+      "file": "daily/day_2026-11-19.json.gz",
+      "count": 130,
+      "size_bytes": 38783
     }
   ],
   "seen_uids": [
@@ -1531,6 +1519,38 @@
     "3bdd6713d1a99678",
     "db87c14747c65e69",
     "8dbf45b0d0ed33e2",
-    "8f3d04ae983c3639"
+    "8f3d04ae983c3639",
+    "80f1003b746be175",
+    "cfe3404c18b0ac91",
+    "52a674871d49b182",
+    "4e61359f4849e02d",
+    "eb138a7795206691",
+    "11f85a1fb0ed0ed9",
+    "84fd5be7941534e3",
+    "37841d04b8617515",
+    "69c5e57dd999bb05",
+    "8792df34f4250fc0",
+    "51bd6fce77df54d4",
+    "b13419d9d8686af9",
+    "714ec9f144ae3dd6",
+    "393a1649c44ec8fc",
+    "6cbb60511c85bfb6",
+    "781d82aef5fa86cf",
+    "75e7600de51a84a2",
+    "afbc987f5945dd7d",
+    "dd5fc82cdddea80e",
+    "d113eeec2b08df1a",
+    "43095b123ac46f86",
+    "884979a82826d8d4",
+    "5b85a8b201677a28",
+    "f6580d1c39bf1c7e",
+    "56f3a692939624e2",
+    "835f01cb598fa13b",
+    "9496e6894ac501c7",
+    "5f23d3c43f015dcb",
+    "37f6bb57687544bf",
+    "3d6ed501db35c22e",
+    "11af75593af465c7",
+    "5f505ec4c4e7532f"
   ]
 }
