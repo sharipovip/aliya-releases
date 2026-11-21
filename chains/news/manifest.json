@@ -1,43 +1,16 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 37,
-  "updated_at": "2026-11-20 23:49",
+  "latest_seq": 38,
+  "updated_at": "2026-11-21 05:28",
   "recent_links": [
     {
-      "seq": 34,
-      "prev_seq": 33,
-      "day": "2026-11-20",
-      "dushanbe_time": "2026-11-20 02:55",
-      "file": "2026-11-20/link_000034.json.gz",
-      "count": 32,
-      "size_bytes": 10372
-    },
-    {
-      "seq": 35,
-      "prev_seq": 34,
-      "day": "2026-11-20",
-      "dushanbe_time": "2026-11-20 07:44",
-      "file": "2026-11-20/link_000035.json.gz",
+      "seq": 38,
+      "prev_seq": 37,
+      "day": "2026-11-21",
+      "dushanbe_time": "2026-11-21 05:28",
+      "file": "2026-11-21/link_000038.json.gz",
       "count": 20,
-      "size_bytes": 5643
-    },
-    {
-      "seq": 36,
-      "prev_seq": 35,
-      "day": "2026-11-20",
-      "dushanbe_time": "2026-11-20 15:33",
-      "file": "2026-11-20/link_000036.json.gz",
-      "count": 70,
-      "size_bytes": 21596
-    },
-    {
-      "seq": 37,
-      "prev_seq": 36,
-      "day": "2026-11-20",
-      "dushanbe_time": "2026-11-20 23:49",
-      "file": "2026-11-20/link_000037.json.gz",
-      "count": 63,
-      "size_bytes": 20720
+      "size_bytes": 5661
     }
   ],
   "daily_rollups": [
@@ -94,6 +67,12 @@
       "file": "daily/day_2026-11-19.json.gz",
       "count": 130,
       "size_bytes": 38783
+    },
+    {
+      "day": "2026-11-20",
+      "file": "daily/day_2026-11-20.json.gz",
+      "count": 185,
+      "size_bytes": 55855
     }
   ],
   "seen_uids": [
@@ -1731,6 +1710,26 @@
     "4a600c9ea342700d",
     "8dc091e995c7aea6",
     "3db937e6c3450980",
-    "48b5d3bbbf17acf2"
+    "48b5d3bbbf17acf2",
+    "80fac1d35babcfde",
+    "e00cadcc82b32877",
+    "2a05fd64791d600a",
+    "31ed98b76c3e13b3",
+    "f5d7b437d558b3e7",
+    "f3a16e56b6f1f0fa",
+    "f6aff565bb8a8b23",
+    "5bab3f89bc3b2883",
+    "6c92ed9d315175d2",
+    "2cb32869ca9fb31c",
+    "3dbed375d79afc53",
+    "c213038429e5349d",
+    "7aa0a477e3f45199",
+    "ac98fd11d4b427e1",
+    "f6068012e92cd87d",
+    "f194e51a9a3dbebc",
+    "a16a312b0560e94d",
+    "58bebc479fe3faeb",
+    "15ad591f3f12456a",
+    "9a92864d375f8ac9"
   ]
 }
