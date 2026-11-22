@@ -1,43 +1,16 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 44,
-  "updated_at": "2026-11-22 20:58",
+  "latest_seq": 45,
+  "updated_at": "2026-11-23 02:34",
   "recent_links": [
     {
-      "seq": 41,
-      "prev_seq": 40,
-      "day": "2026-11-22",
-      "dushanbe_time": "2026-11-22 02:07",
-      "file": "2026-11-22/link_000041.json.gz",
-      "count": 18,
-      "size_bytes": 4208
-    },
-    {
-      "seq": 42,
-      "prev_seq": 41,
-      "day": "2026-11-22",
-      "dushanbe_time": "2026-11-22 06:13",
-      "file": "2026-11-22/link_000042.json.gz",
-      "count": 16,
-      "size_bytes": 3641
-    },
-    {
-      "seq": 43,
-      "prev_seq": 42,
-      "day": "2026-11-22",
-      "dushanbe_time": "2026-11-22 12:59",
-      "file": "2026-11-22/link_000043.json.gz",
-      "count": 39,
-      "size_bytes": 12046
-    },
-    {
-      "seq": 44,
-      "prev_seq": 43,
-      "day": "2026-11-22",
-      "dushanbe_time": "2026-11-22 20:58",
-      "file": "2026-11-22/link_000044.json.gz",
-      "count": 47,
-      "size_bytes": 15097
+      "seq": 45,
+      "prev_seq": 44,
+      "day": "2026-11-23",
+      "dushanbe_time": "2026-11-23 02:34",
+      "file": "2026-11-23/link_000045.json.gz",
+      "count": 19,
+      "size_bytes": 5379
     }
   ],
   "daily_rollups": [
@@ -106,6 +79,12 @@
       "file": "daily/day_2026-11-21.json.gz",
       "count": 129,
       "size_bytes": 39333
+    },
+    {
+      "day": "2026-11-22",
+      "file": "daily/day_2026-11-22.json.gz",
+      "count": 120,
+      "size_bytes": 32945
     }
   ],
   "seen_uids": [
@@ -1992,6 +1971,25 @@
     "c10d3436d34421ff",
     "a34faffae2704049",
     "9993f890efb3d61e",
-    "207d81a70f318d07"
+    "207d81a70f318d07",
+    "1a3a088a8ca6e78e",
+    "eb034111f5b15089",
+    "7f70ae019eb41467",
+    "367735ea2b386c10",
+    "ab924e7b84e9f769",
+    "ff80cdcc0607baad",
+    "7a663aa32951c3db",
+    "b666118fd7307268",
+    "61e2036f1246cf68",
+    "44eaf13f7afc8377",
+    "ecd863b18a33b919",
+    "bdf8a2b84c548b9e",
+    "23117eb2c7c2db08",
+    "4a109ed5877db90b",
+    "e965f431deaa7ddd",
+    "8d1d453a3c2e3489",
+    "9858b7ea3834a667",
+    "5a81830e30b1a334",
+    "145f1b271f8799f0"
   ]
 }
