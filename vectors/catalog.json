@@ -1,6 +1,6 @@
 {
   "format": "aliya-micro-vectors-v1",
-  "updated_at": "2026-11-22T06:42:08Z",
+  "updated_at": "2026-11-22T16:14:57Z",
   "total_packs": 162,
   "total_books_indexed": 15700,
   "deep_pdfs_processed": 1566,
@@ -22,7 +22,7 @@
       ],
       "chunks": 2,
       "size_bytes": 2019,
-      "sha256": "2959299b092d2d26d77239f3c1982f9e59354376c1e56f225aa3278288da2c44"
+      "sha256": "2a0202f273c2d872bc9cb21de667557cbd4907994923b4c56e9b2a455a1f793d"
     },
     {
       "id": "darsi_adabiyot_10",
@@ -39,7 +39,7 @@
       ],
       "chunks": 1,
       "size_bytes": 644,
-      "sha256": "0593facd009696258ae10998893113d4871a09321113466449121fa997066aa6"
+      "sha256": "f67442d916b31e511bf28f3754a9447b7ecfe26d350164da82a0f35f70569b1a"
     },
     {
       "id": "darsi_algebra_10",
@@ -57,7 +57,7 @@
       ],
       "chunks": 220,
       "size_bytes": 77766,
-      "sha256": "83ea37ffdf8bb2cb8447d3e578a2bbaa0a03c8f35a9eafe3563b7aeabb44ef75"
+      "sha256": "2a56f624275b1f27283b7078548d4e39a5076b4d68d5ba3a7e32ffd371fc24bb"
     },
     {
       "id": "darsi_alifbo_1",
@@ -74,7 +74,7 @@
       ],
       "chunks": 7,
       "size_bytes": 4989,
-      "sha256": "ecc424d4a19e68acfb307d6abeef266a55c89401bf18d25c068054dbbacfa07a"
+      "sha256": "4a90da231173ebe5a262c6b3489181acfb158fa2e2703497f9c4d17704b70fbd"
     },
     {
       "id": "darsi_english_11",
@@ -92,7 +92,7 @@
       ],
       "chunks": 49,
       "size_bytes": 25572,
-      "sha256": "618de91cd6828b03b605febf02379159b707c6dbb07e3f35a3d82bec787773b7"
+      "sha256": "91e9754b94523f4b82d6244264b19999aa474f136787a3d1d5e960645a989868"
     },
     {
       "id": "darsi_english_3",
@@ -109,7 +109,7 @@
       ],
       "chunks": 1,
       "size_bytes": 447,
-      "sha256": "69a78bbe9a4e9c5e85bac7790c0de0674b5f454614272b94b8b27eff5dbd73f3"
+      "sha256": "6c7373fc04e444b80ffe3b8562c65fc8592e0acbe1ff87cc23fd66b36cab9992"
     },
     {
       "id": "darsi_english_4",
@@ -126,7 +126,7 @@
       ],
       "chunks": 55,
       "size_bytes": 22646,
-      "sha256": "9543ee88e99dc427eef6679adee8d8ccf4d20bcce8d0cf654bfa2823c5342d16"
+      "sha256": "ee6325802040dd2310525004e6c4768d3c1dcaa1c169390507feb7b213b4adb7"
     },
     {
       "id": "darsi_huquq_10",
@@ -144,7 +144,7 @@
       ],
       "chunks": 10,
       "size_bytes": 5833,
-      "sha256": "bc9ea3252731f807d8bea833fa67f27b1d4ee49e4ec92a3eeb649be54f3c4cac"
+      "sha256": "8b9604babffa8677f674a99da67513a834606d3aed329f2e05b6c122926c052b"
     },
     {
       "id": "darsi_huquq_11",
@@ -162,7 +162,7 @@
       ],
       "chunks": 14,
       "size_bytes": 8024,
-      "sha256": "4e923e09bd4ef2a520a4eee2830a7f18ad77bddec32d0ac0a149e8c81a0df951"
+      "sha256": "979c5e8f4c44ff47a19ee37ee43b65f461117d59136a8b59cb11e2aa1f5daa6d"
     },
     {
       "id": "darsi_tabiat_2",
@@ -180,7 +180,7 @@
       ],
       "chunks": 25,
       "size_bytes": 14207,
-      "sha256": "a9123855eb55eab4083e8d9df0a7f8b043156a87e4e722aeeab2c989b3c51e74"
+      "sha256": "8113ed5f36ba3bf2437e2380e910c903a8908b2fed873569ad7901169a07c979"
     },
     {
       "id": "darsi_umumi_1",
@@ -201,7 +201,7 @@
       ],
       "chunks": 153,
       "size_bytes": 66655,
-      "sha256": "f362635f6d7946c36a3a958a5ec7df606170d71d4624bc917ba0a86c26dec7bc"
+      "sha256": "fda4e1ea9d132e3d2673f8d990db50dbe0d13807d923bdd2f89442f15890cd69"
     },
     {
       "id": "darsi_umumi_10",
@@ -244,7 +244,7 @@
       ],
       "chunks": 400,
       "size_bytes": 160836,
-      "sha256": "7f5d162bd5c5d95e70494251f8cf7d16f57d5b2c33f402bf20f407ac025e8e5e"
+      "sha256": "9c5516f2410ea0bc4dd5bb6df2c7dc481640b9d0f3bcd5ce1f28f01c71eeea3d"
     },
     {
       "id": "darsi_umumi_11",
@@ -280,7 +280,7 @@
       ],
       "chunks": 400,
       "size_bytes": 151628,
-      "sha256": "a4d74b43e5735b9f5d6af68e1e05b5ce3d15a28063c954cb96f5b6c98ecf7662"
+      "sha256": "1615ba31189811b77b3bbaad6ddb68a3fe3f9861599586112c2eae0ba1604e10"
     },
     {
       "id": "darsi_umumi_2",
@@ -302,7 +302,7 @@
       ],
       "chunks": 400,
       "size_bytes": 190059,
-      "sha256": "cd6ce5cdb660809085971013c8a13c9bf115c730f8e4cc0c402bb0cd5a29e018"
+      "sha256": "942f76a2ef2bdf3c8d89de92534fc7cdb985bdc76eac9ceb837e283ac289b47b"
     },
     {
       "id": "darsi_umumi_3",
@@ -323,7 +323,7 @@
       ],
       "chunks": 400,
       "size_bytes": 197139,
-      "sha256": "a551c0ebab10cc31a35450fe7570e1b3ff58db2c3517b2b1b1ad5bc9ce95e300"
+      "sha256": "47212843faf98518e42f6d646f6562d3279a6bc217518f3d95a8cf17e25fb14b"
     },
     {
       "id": "darsi_umumi_4",
@@ -345,7 +345,7 @@
       ],
       "chunks": 400,
       "size_bytes": 188844,
-      "sha256": "5c4bd0f57ea42e2c57130b4f6ccc3be0fe1541c569354cba06ba6f34f3a2f748"
+      "sha256": "4adf2678fac3949e6bae999ddae598691a2257cf1a8cb9a2d785373601c17c33"
     },
     {
       "id": "darsi_umumi_5",
@@ -378,7 +378,7 @@
       ],
       "chunks": 400,
       "size_bytes": 202372,
-      "sha256": "cc82e1b3dde912cdc03176ef5363e62384148fed0c9cd04e1f9b607af5142d9f"
+      "sha256": "fcf381375168e215dd5bbc97f1f62c9b90a1d2adce8fcbdfbf735490760d3b0b"
     },
     {
       "id": "darsi_umumi_6",
@@ -410,7 +410,7 @@
       ],
       "chunks": 400,
       "size_bytes": 183319,
-      "sha256": "a32c33696dc1ac5c802aae95a438edf6f5b4018c2cafcd7fdaa3fd1a7edc3bcd"
+      "sha256": "4657c57c56c89686e52c4674f45bc1d65fefafefbde03fd5f76a35668a6a298d"
     },
     {
       "id": "darsi_umumi_7",
@@ -446,7 +446,7 @@
       ],
       "chunks": 400,
       "size_bytes": 176374,
-      "sha256": "1e68115f376cfae697dafceb4ca42ea0ae12173d3be484beb4e423f134cdbdfe"
+      "sha256": "1c0fc561b673dbc87ebc50d3d2d2348a108a449a19c5296365188fd8a509163d"
     },
     {
       "id": "darsi_umumi_8",
@@ -489,7 +489,7 @@
       ],
       "chunks": 400,
       "size_bytes": 192201,
-      "sha256": "05f5a1a4a987d87476d6adf1a61a2c591bc0b7f81663ca27fb9f2c55a0e54ed6"
+      "sha256": "2ec78a6fc3629519ad2552eaf9bec15ce1330c20904befa13a01847188ce8690"
     },
     {
       "id": "darsi_umumi_9",
@@ -531,7 +531,7 @@
       ],
       "chunks": 400,
       "size_bytes": 204203,
-      "sha256": "a20f3762ff0f0b061fcc423fa1d80056e298c063ce112600a169bd4896b8e4fc"
+      "sha256": "76b671797071b13532bbcdc88d4e83b011611c197f08416ae96d5b12f26c27f3"
     },
     {
       "id": "darsi_zaboni_modari_1",
@@ -548,7 +548,7 @@
       ],
       "chunks": 34,
       "size_bytes": 19005,
-      "sha256": "9d32180a8fe7df4f416ca7c86ee0c568cd6796ecd99ebb62366f9544ea685e02"
+      "sha256": "4ad1588c2dbfb690b58fd76f1c7169d1826026cf788b722b621545195f603565"
     },
     {
       "id": "lib_adabiyoti_bachagona_folklor",
@@ -568,7 +568,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1059,
-      "sha256": "92b3e54f1420e8ce5f1afc6e91ac0bda252250d56d60df1ea9246d247accc506"
+      "sha256": "ecaf80ee7ffcd6a4e65a19dadc6977ab8102c8fd27cb967a6b7abe6f9204c962"
     },
     {
       "id": "lib_adabiyoti_bachagona_kitobho_az_usaid",
@@ -631,7 +631,7 @@
       ],
       "chunks": 49,
       "size_bytes": 4508,
-      "sha256": "e16146d64fd7b30df1497ed4ffa0ff2e7c53c519a5de8a5167b0bcc11f78648e"
+      "sha256": "eac911241d7d161c03446083e8b50d451af9bf249dabd03cda35cdca3a995621"
     },
     {
       "id": "lib_adabiyoti_bachagona_nasr",
@@ -703,7 +703,7 @@
       ],
       "chunks": 400,
       "size_bytes": 28464,
-      "sha256": "f00fb4f71f348c7d27ecb53778dc19c33dd9f3e6be973e0276b7a141df44a693"
+      "sha256": "69591b6eb121b4d27d81b79553dd9f2e6a21038098aa177f724b942c7e181f1c"
     },
     {
       "id": "lib_adabiyoti_bachagona_nazm",
@@ -722,7 +722,7 @@
       ],
       "chunks": 5,
       "size_bytes": 844,
-      "sha256": "dacae362b8ecace28d22a373e070ed9ea42ca18fe773400314f404634f8045f5"
+      "sha256": "f133bdd9a211aec7451e16a7cfd5874f4f25df7b1a62266f33b1c4f9f003d9c0"
     },
     {
       "id": "lib_adabiyoti_ilmi_ommavi",
@@ -794,7 +794,7 @@
       ],
       "chunks": 220,
       "size_bytes": 25804,
-      "sha256": "d5743ee09f6caf78ee75117c6b78e5564afce965708d533661b398471addbf1e"
+      "sha256": "f5f13b59ba17d9966b33c0311a6abfdc4352874cb906add1eb36be00449b0ffa"
     },
     {
       "id": "lib_adabiyoti_jahon_falsafa",
@@ -809,7 +809,7 @@
       ],
       "chunks": 1,
       "size_bytes": 498,
-      "sha256": "21e62c5d00de8190e7ee67be5bd99e300ca4f51274afb310223a4f7bd562202c"
+      "sha256": "c62787bce3f4f7f054e02bfdf1bc7eb643660d82b54cc33059931df410f53b3d"
     },
     {
       "id": "lib_adabiyoti_jahon_nasr",
@@ -841,7 +841,7 @@
       ],
       "chunks": 18,
       "size_bytes": 3111,
-      "sha256": "d12518b4f019929e71d5461fbdff1c7014ad908f02e27c31b4a4057628b48a6a"
+      "sha256": "fdf884175f2bf01f6d51ef4cfa3adc3b69c231b4e1d195064481ca59e934ae07"
     },
     {
       "id": "lib_adabiyoti_klassiki_adabiyotshinosi",
@@ -856,7 +856,7 @@
       ],
       "chunks": 1,
       "size_bytes": 531,
-      "sha256": "cb96efc2f00bde376aa5a287a8dbb01b7eede0f728e89f9b5c7ee8a943a244b0"
+      "sha256": "49de60f82d56e78db8e20f236a56fb6444e585d732e2c96d58397210c9fd7677"
     },
     {
       "id": "lib_adabiyoti_klassiki_din",
@@ -871,7 +871,7 @@
       ],
       "chunks": 1,
       "size_bytes": 506,
-      "sha256": "330d6f06cf4b5a8be442ab8cd2c58f426fc74f5db0ffe905d82c76a598f3cd78"
+      "sha256": "4c7b70203020eaf52bb00f776c1e406e62d8ca47dc52d35065bd80c8ddb7e3d4"
     },
     {
       "id": "lib_adabiyoti_klassiki_ilmi",
@@ -888,7 +888,7 @@
       ],
       "chunks": 3,
       "size_bytes": 901,
-      "sha256": "221cff784f478044329c49c2c5107eb66468b9213842850372f517fe98a2e53d"
+      "sha256": "b8f886abe93ba9edaeff00d7a8c15d138224b9f389742522100067b742eac0cd"
     },
     {
       "id": "lib_adabiyoti_klassiki_nasr",
@@ -918,7 +918,7 @@
       ],
       "chunks": 16,
       "size_bytes": 2602,
-      "sha256": "51dd45062be55dc42837d18e1fea84703d0adf4153de2770b59e8f4548cf9005"
+      "sha256": "8cc2eb0e95c2d9473d7d0f4a7f6494642b83471e8f8993ee7a4caacfdad40c5d"
     },
     {
       "id": "lib_adabiyoti_klassiki_sher",
@@ -990,7 +990,7 @@
       ],
       "chunks": 101,
       "size_bytes": 9550,
-      "sha256": "9152df5017e2803da9fd250af944d1c50a5723732ae147ed95918102ef1390e7"
+      "sha256": "a173c479a2fc24c7a5e5b903d38af93f7658095f8134585beb2472ddd1e8ddc9"
     },
     {
       "id": "lib_adabiyoti_klassiki_tarikh",
@@ -1006,7 +1006,7 @@
       ],
       "chunks": 2,
       "size_bytes": 674,
-      "sha256": "3fe5bd2b12e5745616bbba78f61335862d4e4cd3ead9a28d9b975479cb1dd140"
+      "sha256": "65c7259b46bef88fd6c4f01c46811a1ac3cfddf22b52aacaff06c172893616fb"
     },
     {
       "id": "lib_adabiyoti_muosir_hikoya_va_qissa",
@@ -1078,7 +1078,7 @@
       ],
       "chunks": 150,
       "size_bytes": 17142,
-      "sha256": "bb79a1f065dd0f76358924b2bce507d8aef1e12f5cddb84881408c451bf83c3c"
+      "sha256": "5a906bc9c7f2816d50e90ebb55911ca38e7c0a01011fb6a9cecb4df458b3a2b9"
     },
     {
       "id": "lib_adabiyoti_muosir_povest",
@@ -1098,7 +1098,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1272,
-      "sha256": "708cc9c292938e3de2e3fd77d5aa54b852201e15f556863cc2bf55d80ce2d155"
+      "sha256": "aa3bacba9b2f576d17b5c7db5dfc0348a2c1f93057778f448a07bb02459ab2cc"
     },
     {
       "id": "lib_adabiyoti_muosir_publitsistika",
@@ -1114,7 +1114,7 @@
       ],
       "chunks": 2,
       "size_bytes": 717,
-      "sha256": "d061738679eb215f3d83ce40402d6a5cbe51b354c7f5afc902e00eaf1a3003f0"
+      "sha256": "8ba8e7f7d825d4df4b6771ead3f3d2f7ed452a7babecd3fa62d8c6898b8068a0"
     },
     {
       "id": "lib_adabiyoti_muosir_roman",
@@ -1146,7 +1146,7 @@
       ],
       "chunks": 18,
       "size_bytes": 2759,
-      "sha256": "850ed34c802120dfca11c7f6c794481773ed51e876ad1446eee92181d505d895"
+      "sha256": "a0f8907030ebf0d0f73b551a54b72a1f350930da90c6e75b25ac6dce5089796e"
     },
     {
       "id": "lib_adabiyoti_muosir_safarnoma",
@@ -1162,7 +1162,7 @@
       ],
       "chunks": 2,
       "size_bytes": 662,
-      "sha256": "a0f3a4e4c9cfa0b4b656913d468c9fa9f6aa5f08758ce8028e812893975563b2"
+      "sha256": "02d33538afa11e37db8df149792ed4204b04cf44ed5217a7b3b618b7bfe29c1b"
     },
     {
       "id": "lib_adabiyoti_muosir_sher",
@@ -1234,7 +1234,7 @@
       ],
       "chunks": 233,
       "size_bytes": 26322,
-      "sha256": "e0b375283dffbb0e9564f18ea55ad81bbab07d60df08efecff26851c14cf5610"
+      "sha256": "9bab2ca61a66a203876b9a1f0199fa0ee89cf959b8a0afc97759ca2810feac06"
     },
     {
       "id": "lib_asarhoi_talimii_khoriji",
@@ -1306,7 +1306,7 @@
       ],
       "chunks": 400,
       "size_bytes": 34966,
-      "sha256": "c92650ab803e6ccfae2bf6c3aa0a1008a66f68c0e42c8b8cff5be3e458f771e1"
+      "sha256": "6e9aa7db445e96adadf7a7f3232fed3dd34a902dcc762ebb3076dcfa74f44246"
     },
     {
       "id": "lib_biologiya",
@@ -1378,7 +1378,7 @@
       ],
       "chunks": 219,
       "size_bytes": 22923,
-      "sha256": "080586490a64e9f52173691c02c85df150e20c4af3359b26e3104fad5ebf841a"
+      "sha256": "7d6c3ffa2c785a42c9aa4a90eb8ff5d55955551a4ea8df0705c2b33621ac833b"
     },
     {
       "id": "lib_bogh_va_polez",
@@ -1393,7 +1393,7 @@
       ],
       "chunks": 2,
       "size_bytes": 633,
-      "sha256": "25ad90869f3fe89f5c4f1eb0e5a6139cdf3680cd8e83f4ae62e9dca739887be0"
+      "sha256": "30f5745b7ca52ac3d0f6a625292e1b8e39da62fd13c3e4c4aeb7de7e6148e3dd"
     },
     {
       "id": "lib_chiston",
@@ -1410,7 +1410,7 @@
       ],
       "chunks": 5,
       "size_bytes": 580,
-      "sha256": "90bf3db7bfe71d5974744a2223e605c1b728c908c182bf2e63d6a2b7c9cdb9dd"
+      "sha256": "67e4f36accc61131f5e7d628c3b23f1bbf7c08bd824a4a5ffabca302f7c94ce5"
     },
     {
       "id": "lib_digar",
@@ -1426,7 +1426,7 @@
       ],
       "chunks": 3,
       "size_bytes": 651,
-      "sha256": "de25ce3e7c3aac63f29748e23fe31b96d0c89a47d7151f81aad9d495d3517690"
+      "sha256": "1c6edc0901d97591a5b63ed450b3c6311e735bffa6d999e12146ba7596b9af54"
     },
     {
       "id": "lib_falsafa",
@@ -1498,7 +1498,7 @@
       ],
       "chunks": 400,
       "size_bytes": 37737,
-      "sha256": "1164e3f341a2a5a8dd37c056fb832aecdacd4d752bfbdb0d3ac9d369d8f50467"
+      "sha256": "91e7b4d47aee6826fca41ec7f3b9de47fd2076dd7788e1af8fda3eafe577736b"
     },
     {
       "id": "lib_fantastika",
@@ -1534,7 +1534,7 @@
       ],
       "chunks": 23,
       "size_bytes": 2591,
-      "sha256": "52e4b97143cf43cf2baf3281f9588dc870f727f49ce531689e2835121b711635"
+      "sha256": "97a503048ab00958faf1b65b310270f478ac350946a6138779b166b9ed967ce2"
     },
     {
       "id": "lib_farhang_lughat",
@@ -1554,7 +1554,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1312,
-      "sha256": "4f9da174c488b6d3d4b71036ad671294ef3090029e72f4f3b7f4353a44b9b3fc"
+      "sha256": "b61e09758f85f1c990187e48d71b89cadf7cade23bd2fa0067b4a020d9a1a75a"
     },
     {
       "id": "lib_farhangshinosi",
@@ -1626,7 +1626,7 @@
       ],
       "chunks": 400,
       "size_bytes": 39671,
-      "sha256": "87c5dba8cd9a753eea67748008923975944eb6b112c3ed4cea3e1f565867bf1f"
+      "sha256": "137b0ca38e71816ddd52d2266a96c8963b3fd19d3e31567b2e14724a35493a1f"
     },
     {
       "id": "lib_filmsozi",
@@ -1644,7 +1644,7 @@
       ],
       "chunks": 5,
       "size_bytes": 908,
-      "sha256": "34752018f51b491ed51115631e8baf1e3d94cc07a1218d970f3c5ad7d5aea0a6"
+      "sha256": "f544da9672841017688bd4d7d6a054d9d63d3bcf9563d7e44ca87a703ed2a327"
     },
     {
       "id": "lib_fizika",
@@ -1668,7 +1668,7 @@
       ],
       "chunks": 11,
       "size_bytes": 1641,
-      "sha256": "46ba9e8b2d1456822502fad62fc10d9085cc798ef3aba96a0d0215dd67f58111"
+      "sha256": "65183e4965246b9b0ca7b143a0f30bb1868c42f1127a164bf63cb4c97de8861f"
     },
     {
       "id": "lib_ghayra",
@@ -1740,7 +1740,7 @@
       ],
       "chunks": 137,
       "size_bytes": 9799,
-      "sha256": "27a54c85daa1a9d104336cde03d1f15ad40e2872fba2ba40586648cca9f8cbfa"
+      "sha256": "394e1159bb792c42a621a959765bf4011c2563dfc8dbdd4939a227fa8f2bd6c4"
     },
     {
       "id": "lib_huquqshinosi_qonunguzori",
@@ -1803,7 +1803,7 @@
       ],
       "chunks": 51,
       "size_bytes": 4774,
-      "sha256": "0f37cae0b074658891475cc8595af297ba020bdf7c975302c2c458c54be1b940"
+      "sha256": "4888280a95b2a5a7f9d327f68a905c8baee83f1736c68e2099f20d468c7f96b6"
     },
     {
       "id": "lib_idora_intikhobi_korkunon",
@@ -1819,7 +1819,7 @@
       ],
       "chunks": 3,
       "size_bytes": 728,
-      "sha256": "cbeeb948b319b2c333b5b6ad4b8eee7e07d4f047cd95ebd9dd2740bcaaa615eb"
+      "sha256": "1916eeddb99115adaf85361839514955e76f468d9de0038eec79ad73ea46cecf"
     },
     {
       "id": "lib_ilmi",
@@ -1847,7 +1847,7 @@
       ],
       "chunks": 15,
       "size_bytes": 2798,
-      "sha256": "3ff244153d741358fb4d03840971f8809aa100dd6fc1903cf2dbea6033a6dc79"
+      "sha256": "62e114c4d628c339b3d489ca4e63afaed7ec55602f92f854d089bf41dcb57810"
     },
     {
       "id": "lib_ilmi_adabiyotshinosi",
@@ -1865,7 +1865,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1110,
-      "sha256": "90f9f35f7a740017d47b8dbcfd373e3a4d1a5da0d8a6fa854008946364d3dda9"
+      "sha256": "6254ec4dccfedfd3b39344357ba907e968cd52cc6bc418aaeef9ff8fbf4a998c"
     },
     {
       "id": "lib_ilmi_falsafa",
@@ -1895,7 +1895,7 @@
       ],
       "chunks": 16,
       "size_bytes": 2635,
-      "sha256": "706bc0e6055665e338d932f3702c6e690b6c9ed9b30070e9cd5057961c624853"
+      "sha256": "ac78a57f71d4478882a20e090eb8394a39e76e4d071c0393e36c1931aa8c9ba6"
     },
     {
       "id": "lib_ilmi_huquq",
@@ -1910,7 +1910,7 @@
       ],
       "chunks": 1,
       "size_bytes": 465,
-      "sha256": "93fa006877bb6f6b4daad4f873a87531563dca4cc72ddc40d7e714d25fa2eb3d"
+      "sha256": "8155b9b6c8b63482be16e6caf2ccccaba8f323dbe951b2f3394cdc4aa94c631d"
     },
     {
       "id": "lib_ilmi_informatika",
@@ -1935,7 +1935,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2114,
-      "sha256": "a6a05c4b55f621dc165859edf0bc7d030df623e7e8aa5b9efa60390c899cc650"
+      "sha256": "cc8e353977ca695dab3b2d5012e36eec468ca543e95d4e83ddbd272423640bc0"
     },
     {
       "id": "lib_ilmi_kimiyo",
@@ -1950,7 +1950,7 @@
       ],
       "chunks": 1,
       "size_bytes": 517,
-      "sha256": "f105232f908d67554aedd70daace3fa30cf7dc53988f1d7c2ebf2ae609289043"
+      "sha256": "23bdbe684913da29ec179ad31f9ff68695d1fa7e09e57acccb7d3bafd37c1256"
     },
     {
       "id": "lib_ilmi_matematika",
@@ -1968,7 +1968,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1107,
-      "sha256": "e2d5f353ee02fc320ea281a817ce0a6be495fbd1a0d91c451ba5fff7fe2c06d6"
+      "sha256": "c1da3f32cc10ed11a30023f51c123f2f5ae76335cf87626ec1e83bd7dfe27878"
     },
     {
       "id": "lib_ilmi_pedagogika",
@@ -2004,7 +2004,7 @@
       ],
       "chunks": 22,
       "size_bytes": 4020,
-      "sha256": "988892c38e9fb721712fe2e093554fd6fe83dc86856b631927d034d612132ba0"
+      "sha256": "97aafc6a6c6e0a216fecbd208a64804038d362d673df0ab4d2e74dce910b47c8"
     },
     {
       "id": "lib_ilmi_psikhologiya",
@@ -2022,7 +2022,7 @@
       ],
       "chunks": 4,
       "size_bytes": 978,
-      "sha256": "59bd99ff096a5477c624e37e9c772b2c649a6f778355ea866c4bd77ebde01b10"
+      "sha256": "23a8eeb58178d494f0ad5c5357b95dc27dfc5ce02ff679c3bb31645089f92815"
     },
     {
       "id": "lib_ilmi_siyosatshinosi",
@@ -2039,7 +2039,7 @@
       ],
       "chunks": 3,
       "size_bytes": 815,
-      "sha256": "096ca7a1032fc134a28911df5b85a1fbacc4d5efce642368b96c77f96e53bcbb"
+      "sha256": "f9f83115d0e8511e9e0b0e23066d6ddde27b4dffa3cffac47fce39d6af092314"
     },
     {
       "id": "lib_ilmi_tekhnologiya",
@@ -2054,7 +2054,7 @@
       ],
       "chunks": 1,
       "size_bytes": 486,
-      "sha256": "e539ed5b674aaeb7ca6979f2ab80aa493d4f47bc28433b29af2c372582f07a89"
+      "sha256": "3c577a3e22a69ba579d8be929afd7053d1a78da2a38bd020059add865cb26787"
     },
     {
       "id": "lib_ilmi_zabonshinosi",
@@ -2077,7 +2077,7 @@
       ],
       "chunks": 11,
       "size_bytes": 1698,
-      "sha256": "53a7bba66f4ae402c4f763bf91d1f60f0b3321b1b5d43658825dc0e08f484c13"
+      "sha256": "30e618657ab1b659b5e9f5bde3807626c208783f4e94ded6591cd2f5a729ac68"
     },
     {
       "id": "lib_informatika",
@@ -2106,7 +2106,7 @@
       ],
       "chunks": 17,
       "size_bytes": 2195,
-      "sha256": "7a647ce968b63bcb5f968524828a914cc419a6d2cb85bf4b7edfd52736a350ff"
+      "sha256": "1643103320ad3089578c485452cd4edb48541934a4838eacb5f6802b562dba7d"
     },
     {
       "id": "lib_iqtisod",
@@ -2175,7 +2175,7 @@
       ],
       "chunks": 56,
       "size_bytes": 5225,
-      "sha256": "d7929e2501b5fe6c94aca90f8384bd75ce413bdad0ed733c9cef7ad20487eec5"
+      "sha256": "da7b359ea4fbf086dc9d9d32b04f0e7efa02484bf47b9e287901376f169f9d79"
     },
     {
       "id": "lib_iqtisod_bukhgalteriya",
@@ -2192,7 +2192,7 @@
       ],
       "chunks": 3,
       "size_bytes": 801,
-      "sha256": "6a4efa688eb0eec90f80cc6099e812c154dd0c1e0de07e48aa1e6622a923c0b2"
+      "sha256": "fb8e998300d2f0513d20e295bfe36f9030d2d437458c9ff44817a16178129d4f"
     },
     {
       "id": "lib_iqtisod_iqtisodiyot",
@@ -2207,7 +2207,7 @@
       ],
       "chunks": 1,
       "size_bytes": 446,
-      "sha256": "1924c51afbbc0f9290d75a5d9180b29de673602dd9e29dd403b9cb05d464f9f6"
+      "sha256": "0b1f3a1aa1e3310997c0065a25637a3270ac701185e4679d35f49d3065c61978"
     },
     {
       "id": "lib_iqtisod_marketing",
@@ -2222,7 +2222,7 @@
       ],
       "chunks": 1,
       "size_bytes": 504,
-      "sha256": "f0fce6c8573752c80930e4018fcef09510f57023e20258d1d0c375fd538f3964"
+      "sha256": "c35b130cf391825ffaae51039b8e68427fa95dc38f7ef1e249a7149bd8ef4356"
     },
     {
       "id": "lib_iqtisod_moliya",
@@ -2240,7 +2240,7 @@
       ],
       "chunks": 4,
       "size_bytes": 981,
-      "sha256": "f30a722812572c96f0b9badd6d0103b0c2e3a6b053f8e1d6c77f9e6f9c4b8b46"
+      "sha256": "1bb5e0e4abe45849f2e713702fa00e39457c04e226c6d7d5f1563ad235b8e52b"
     },
     {
       "id": "lib_islomi",
@@ -2254,7 +2254,7 @@
       ],
       "chunks": 1,
       "size_bytes": 374,
-      "sha256": "d711134d54b453b9cf2e2a26ce9a6e41488e98ad158ce9be5b7a27059da80110"
+      "sha256": "35a10354ffd2cf63ef40f6c8c0824764fad3970af7e59b963d1daaa3642b2dde"
     },
     {
       "id": "lib_islomi_akhloq",
@@ -2274,7 +2274,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1355,
-      "sha256": "79b110d4bc5464c6c74c8a5a791fcf4c67a26ac3b2cd6885815513a583f67ed1"
+      "sha256": "5d01adbf4fbf35778ae75d2278b6d1d09d20a21652d0602d9e20b2567b0e8b60"
     },
     {
       "id": "lib_islomi_digar",
@@ -2326,7 +2326,7 @@
       ],
       "chunks": 38,
       "size_bytes": 5828,
-      "sha256": "ba3d1107e61a3d593dd1015cf2e2f3961be44fc79a1eef643e3683e5c2ad9fc8"
+      "sha256": "75fbe786f822d8ad6cf77565d05637d30b9cec180c9d2bddcfa59c3f88bac04e"
     },
     {
       "id": "lib_islomi_fiqh",
@@ -2341,7 +2341,7 @@
       ],
       "chunks": 1,
       "size_bytes": 536,
-      "sha256": "77ea8fa631bfdfa262cd4c7352474cf41bf98062f1e10caea61cb64c4ecbc5cd"
+      "sha256": "ff95da2acbdd0af087a0863dbe7d7adc3a8cdbee3e3605484df5a3516171a51d"
     },
     {
       "id": "lib_islomi_hadis",
@@ -2359,7 +2359,7 @@
       ],
       "chunks": 4,
       "size_bytes": 982,
-      "sha256": "49b00c76715eac63a819a572cc31052797fd795e8263bf89b3ae6bbe0b848fa3"
+      "sha256": "6308ace184be9d6bc82bcddd2a7bd62d00ca83d579e6bbb0ee12fe249db62bcd"
     },
     {
       "id": "lib_islomi_quron",
@@ -2377,7 +2377,7 @@
       ],
       "chunks": 4,
       "size_bytes": 842,
-      "sha256": "d39977ab8083576e590ab7501cd88ab3ec9dec1f76f557fb6b662da271f3eedb"
+      "sha256": "1fad68182c6ff86b859417037183fa798954e3a584c6f53c3fa1bbe7d93c23fa"
     },
     {
       "id": "lib_jughrofiya",
@@ -2417,7 +2417,7 @@
       ],
       "chunks": 27,
       "size_bytes": 3162,
-      "sha256": "f55709496b1b1f5a9662c97d585c8935bf30866d9bc9efc63263d1eb252c13a9"
+      "sha256": "44d31fc43c1e1b6947704f1c88715e0e20e8f9528e1fd99a7b49cec96efa6051"
     },
     {
       "id": "lib_kamoloti_shakhsi",
@@ -2456,7 +2456,7 @@
       ],
       "chunks": 28,
       "size_bytes": 3836,
-      "sha256": "177a211ef53e4bc249c652aa0ce8e407eed88667cceccf53a0726aebd906542b"
+      "sha256": "62f5963d4db527da3efc8f699af37a051fe62c6b7d2a869b4214c6bde858338b"
     },
     {
       "id": "lib_khud_bisoz",
@@ -2483,7 +2483,7 @@
       ],
       "chunks": 14,
       "size_bytes": 2078,
-      "sha256": "99dead9dbca29e62a629a336088423ad365a3666d9417cd93c8fa4f8219f0d4d"
+      "sha256": "52e67990d65853a8440327721ab39ce02beec399b00bb3ce875b2eac260faeff"
     },
     {
       "id": "lib_kitobho_baroi_peshvoi_millat",
@@ -2500,7 +2500,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1063,
-      "sha256": "039f10069e12fb85aa35c41a372036fe6354b199be2372637ea28e4539c3a232"
+      "sha256": "3dba9e9b8107441b0608a0c1a35f2c4b11eb5e4775c4f561e900ab32068dfa0a"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_1",
@@ -2521,7 +2521,7 @@
       ],
       "chunks": 7,
       "size_bytes": 973,
-      "sha256": "6481b8049a955bcb93f1edcb403d3ca80d13ac49a2fbfd0c1a6289b12456005f"
+      "sha256": "b975edfdb7758fa77a6e54d207af31dbc619b1972d30b6b70f3f249993e9cf9d"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_10",
@@ -2560,7 +2560,7 @@
       ],
       "chunks": 25,
       "size_bytes": 2099,
-      "sha256": "bf7052946bff75e9f7e01e610ec96d27d1b11eb16419092ea419c85bb3bd8af1"
+      "sha256": "1d060c40ce51d306074790c0eb6e785daf11730016058433b17ebcd677fad277"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_11",
@@ -2605,7 +2605,7 @@
       ],
       "chunks": 31,
       "size_bytes": 2578,
-      "sha256": "42903af388e5c7a5e00a220e54ae9312de352ca39c6d37370f1123bee4643b3b"
+      "sha256": "c5e80dd61dd77d635768a6bfdf184bec565b88902d2e92c766c7f8e05391af67"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_2",
@@ -2627,7 +2627,7 @@
       ],
       "chunks": 8,
       "size_bytes": 1012,
-      "sha256": "ea5d18c45366df3c0fd748d0c60965d77202abfe691d5122e9b9ca7d940dfde5"
+      "sha256": "98cb41e976aabe2eb2323704605bd4b1e6333b9c0ba06e189b128e4f45b9b98f"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_3",
@@ -2656,7 +2656,7 @@
       ],
       "chunks": 15,
       "size_bytes": 1306,
-      "sha256": "6a1e1bb810d5be7d1c09eee0f9e0f0ae36c8206145788ed0035de74d8653564e"
+      "sha256": "bd4935354a8516f95d5a3af35756cb7e970a06ebaa1ad46e75e95a2420ce7843"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_4",
@@ -2679,7 +2679,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1188,
-      "sha256": "654968190f3bf211e8fc1862fe230f4cf6afac1038318194a513a53a7ceba8cc"
+      "sha256": "63cf3bdac5ceb9f91bb6a9ca75b9e62317b6fde46b56097855a7d33961efa1af"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_5",
@@ -2715,7 +2715,7 @@
       ],
       "chunks": 22,
       "size_bytes": 2101,
-      "sha256": "d5026e48e3de49b127e157a39715cdfbc74df048d77167e031aca414cf59f562"
+      "sha256": "cbfa6a12c93f3297a36abe256c494d670b518f326780e8b4abb5ff5aed6a16e8"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_6",
@@ -2758,7 +2758,7 @@
       ],
       "chunks": 29,
       "size_bytes": 2766,
-      "sha256": "aa0d46c4736e55badf0af9924cdeba556d2ff5dd74ef31962ba7cf49b2cd8285"
+      "sha256": "1df51243722a642d5ad71d223ee1eaa9a5c6f3ac1d2622e4bbea44342367baf7"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_7",
@@ -2793,7 +2793,7 @@
       ],
       "chunks": 21,
       "size_bytes": 2079,
-      "sha256": "1813c806ac138e4f24cee4db74d6013c0a369fca875095ddf70c773b5d405851"
+      "sha256": "a168f59961d198a5c8556bdbb17338e304c86fed9add5a7cc32e2850e2620f1c"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_8",
@@ -2835,7 +2835,7 @@
       ],
       "chunks": 28,
       "size_bytes": 2587,
-      "sha256": "7280bfb3ed850765497cf1ce9e32116ebb8bb66339ce312bbf8a294e4375981c"
+      "sha256": "e2b96a63d0a02ffc46843e1c5a76fc7f965550046556b7f66c6073496d7e7d14"
     },
     {
       "id": "lib_kitobhoi_darsi_sinfi_9",
@@ -2878,7 +2878,7 @@
       ],
       "chunks": 29,
       "size_bytes": 2274,
-      "sha256": "018d869249bd7e679e3532a900f70469e51770e524560956b64b831ffcae5bf4"
+      "sha256": "50209bde3575e05d4b9b5f134eccbcb11b9f81124c58ec2c2246d554a29d0d71"
     },
     {
       "id": "lib_malumotnomaho",
@@ -2892,7 +2892,7 @@
       ],
       "chunks": 1,
       "size_bytes": 411,
-      "sha256": "599c92bf9ce8f4b53506c2f825d114f6e4db578ebb61b8752134424c6c6d5b76"
+      "sha256": "11eebc6712b67e02fb389174a6f13a7e79f91638a7f02847fc6a01b115f6a9e1"
     },
     {
       "id": "lib_manbahoi_digar",
@@ -2938,7 +2938,7 @@
       ],
       "chunks": 34,
       "size_bytes": 4436,
-      "sha256": "e959f5785b821503cc8c88a2e69af33b5baf7287288346768ccd055be13cc515"
+      "sha256": "1a4914ea332cd9257cf2e5c1c187092283b43ca7382e045d8673533fce5a0736"
     },
     {
       "id": "lib_mazhakavi",
@@ -3001,7 +3001,7 @@
       ],
       "chunks": 50,
       "size_bytes": 5984,
-      "sha256": "b9375251989954036513ca45b7194463881c58380fa4bb411e3d3556475339e2"
+      "sha256": "2e6cade4071a56344ec3bcbeb3df65579c79c9fe76c81b27003fd547a9ec5181"
     },
     {
       "id": "lib_musiqi_raks",
@@ -3016,7 +3016,7 @@
       ],
       "chunks": 2,
       "size_bytes": 569,
-      "sha256": "bff3036b8ca92124914bb62141d3f0283950d3576b36b22118b18e5a9a7d7223"
+      "sha256": "11bbdf2aab70e25291c8509bde4c1fa1a1f5ef0ca8e20a262fab72ab444ebfc0"
     },
     {
       "id": "lib_nasr",
@@ -3046,7 +3046,7 @@
       ],
       "chunks": 17,
       "size_bytes": 1930,
-      "sha256": "0014576762da2e2d8b78916a8fa7cabc761ca38ad854f32bcb16474ee8a55f47"
+      "sha256": "65de2dc011b99fbfc321794e896a802621d1e105ef42e00c93c85ed9e956e845"
     },
     {
       "id": "lib_pedagogika",
@@ -3118,7 +3118,7 @@
       ],
       "chunks": 83,
       "size_bytes": 10166,
-      "sha256": "4c22bbb38908c27b85b5966f47252e8a26fef77ec1a3de87f9084451467ea5fe"
+      "sha256": "8926d687abc4564b5d7af93ecf50987b118c5db949f4565f70cba1994fe70d16"
     },
     {
       "id": "lib_peshvoi_millat",
@@ -3155,7 +3155,7 @@
       ],
       "chunks": 29,
       "size_bytes": 3604,
-      "sha256": "326276bf927b68203e6bdad882b7635c18ed7a6bc680db5467b9ff6299a28717"
+      "sha256": "c74b06f0fa9e0729790cb3011b5b80cb71a3c3bd768903ffd32315ab89fa407a"
     },
     {
       "id": "lib_ravondarmon_va_mushovira",
@@ -3174,7 +3174,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1146,
-      "sha256": "5bf061c1f796dc0a15d39a27aba05d11b7d1eb4372555d1796955713adbfbe6c"
+      "sha256": "d507896de67476ccc29f8ad78f2dcacdc3099e25c577b3d16a5dcfdf2a681823"
     },
     {
       "id": "lib_ravonshinosii_ijtimoi",
@@ -3189,7 +3189,7 @@
       ],
       "chunks": 2,
       "size_bytes": 591,
-      "sha256": "bb0e8269a5383e16031a9c73cd383455ab0cedbca62342f18aba61d693270e72"
+      "sha256": "842e757b72bade156fa4a7151e37a5458f976d85e5e12274d728e85690da481b"
     },
     {
       "id": "lib_ravonshinosii_k_dakon",
@@ -3231,7 +3231,7 @@
       ],
       "chunks": 29,
       "size_bytes": 4660,
-      "sha256": "1ea4cd00d9c4447af52bc84c8818c3787602cc9febdd078c5e9ca71c28078636"
+      "sha256": "36efce14993e116578f4226bcd440cfc807b292f1fba0c90c98de177a6fbd070"
     },
     {
       "id": "lib_ravonshinosii_khonavodagi",
@@ -3251,7 +3251,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1257,
-      "sha256": "ba778fad805fbb5ed63cb576e32a16721cbb01e49474e4083e4ea1c866dffe21"
+      "sha256": "4359d9b0a2e94d263a0e46084d65badc8aa9cd71f1047997b19b3a0d0db5365f"
     },
     {
       "id": "lib_ravonshinosii_klassik",
@@ -3267,7 +3267,7 @@
       ],
       "chunks": 3,
       "size_bytes": 690,
-      "sha256": "a2ed1b2c6c380c56aceced5b42e8a412e5cd9311b0bb96082aa25033172b7653"
+      "sha256": "99c7aec095d33e203d20352be92b2510a563a77233982552627df4befd28be39"
     },
     {
       "id": "lib_ravonshinosii_umumi",
@@ -3339,7 +3339,7 @@
       ],
       "chunks": 229,
       "size_bytes": 27516,
-      "sha256": "65be10b5a17fb67fdf74835290e0f8e7cc56432ca580af6eb1ea67c16479f93d"
+      "sha256": "586530261c001a0ee67b1e735416aa16f93e1ab2249764332cb200821c1f5a37"
     },
     {
       "id": "lib_riyozi",
@@ -3411,7 +3411,7 @@
       ],
       "chunks": 70,
       "size_bytes": 8676,
-      "sha256": "d0a1e5b68397fe41b025be1cc32382ca3624696758482cff3a5804d58fac5d8f"
+      "sha256": "029ce76892895dd1a116e611060c1d9e08d66d8fee44dec9c12335e5650101c6"
     },
     {
       "id": "lib_rushdi_shakhsiyat",
@@ -3473,7 +3473,7 @@
       ],
       "chunks": 49,
       "size_bytes": 7713,
-      "sha256": "37993dee93785f657ba4e53664edd48272087cafbd9fc45b21f16ae781050cc4"
+      "sha256": "7a9eb9d142b1488b09244628b13b40cd3b7f8151be19017e515ee3d457152cb5"
     },
     {
       "id": "lib_sanati_oroishi",
@@ -3491,7 +3491,7 @@
       ],
       "chunks": 5,
       "size_bytes": 845,
-      "sha256": "c73b3a59f78684f3205bea2ddb29f9517ee63a115bff2b2ff1a1d29e3249b075"
+      "sha256": "49f323985fe92a092cdd5602154054f99906ead139b74358dd8a1cb9a3fa044c"
     },
     {
       "id": "lib_sargarmi",
@@ -3563,7 +3563,7 @@
       ],
       "chunks": 172,
       "size_bytes": 20954,
-      "sha256": "2bb51f06d794ca7a32105c1ae805ccdb6eba7fc91cf2e8704b9df5070bd33a0b"
+      "sha256": "43ea1aeba198d96f2fe6be3a5983cf0c7d52f44cad20774eeda7691eb272a359"
     },
     {
       "id": "lib_sarmoyaguzori",
@@ -3578,7 +3578,7 @@
       ],
       "chunks": 2,
       "size_bytes": 539,
-      "sha256": "e2fc559817a9fbae2b79c1a1665701091db778a1ada110e0008fde23ca8d7fd0"
+      "sha256": "3e8f7c48257d21acfedf370715f2345c5829a10388d6fbf06eded24856202c39"
     },
     {
       "id": "lib_satsiologiya",
@@ -3598,7 +3598,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1148,
-      "sha256": "3bb22b1b16a7c7ed1f3f5ec8dff785c92aa777565f2484198d7dff883e23b97c"
+      "sha256": "33c3252326b913257b036bb461c26c3533a1c6a74699cbf8b943996f33cff351"
     },
     {
       "id": "lib_sherho",
@@ -3652,7 +3652,7 @@
       ],
       "chunks": 41,
       "size_bytes": 3751,
-      "sha256": "486976770b53ad033e86542ae15582fd639d9bac225a3f3e3a6670c0d3226c9c"
+      "sha256": "34016c1fb2466a7545acea9b2412d999568eb7e6ebf55da4662405fa0eeb85e4"
     },
     {
       "id": "lib_siyosat_siyosatshinosi",
@@ -3724,7 +3724,7 @@
       ],
       "chunks": 369,
       "size_bytes": 34458,
-      "sha256": "7b882f43536c54ca4940492c0a94ddb38b68f54015e20e24312aaab07c2e7759"
+      "sha256": "2e650c96c4568aa01307318a461a151165b9b9ac24d46b6768526ec7c2496e35"
     },
     {
       "id": "lib_tabiat_va_hayvonot",
@@ -3755,7 +3755,7 @@
       ],
       "chunks": 18,
       "size_bytes": 2442,
-      "sha256": "9564c1ba789accaac221492866a93bdef31009fcc2bcec89d17b24af5ebfcd4b"
+      "sha256": "347b72514108415a76433fcb03272360fb7a001a3f0168898e16d363796379d2"
     },
     {
       "id": "lib_tarbiyai_k_dakon",
@@ -3827,7 +3827,7 @@
       ],
       "chunks": 73,
       "size_bytes": 9463,
-      "sha256": "cdaf48b61ff64cb646c3b4c0db4119f04417d9fab196678a517c3341054a8dd4"
+      "sha256": "6630f5078b5f0b266bcd249ed268fa88eb28918540975a8a19117e9120526487"
     },
     {
       "id": "lib_tarikh",
@@ -3852,7 +3852,7 @@
       ],
       "chunks": 12,
       "size_bytes": 1675,
-      "sha256": "3a8af915450e61e39240853a654fb439955c5d84b2ffbbcd29055adbd970c61f"
+      "sha256": "d885cd3b7bf32224aed81929b8370f84ff141ef36d0096b087f71fac180f7a7d"
     },
     {
       "id": "lib_tarikh_tarikhi_jahon",
@@ -3867,7 +3867,7 @@
       ],
       "chunks": 1,
       "size_bytes": 471,
-      "sha256": "e9095a3eb85fbd992031fe74482587da66058e6f96452ae4bbc34107b613c981"
+      "sha256": "ceb4d9b7eb44f158317f6ee40a7a127a075d9d46e0f17332488030a3d862b71a"
     },
     {
       "id": "lib_tib",
@@ -3939,7 +3939,7 @@
       ],
       "chunks": 400,
       "size_bytes": 41723,
-      "sha256": "43de6aa4ae5223a6f6187045af473ee0cd0d07d24ceed3dec530c4f553655f8a"
+      "sha256": "e87f231b237b6e73dcb91ab38b1b7d5eb3424355ae6ba3fa0780a07dd284be8a"
     },
     {
       "id": "lib_tib_tibbi_ananavi",
@@ -3963,7 +3963,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1675,
-      "sha256": "92ae6808ab5925a47ad17ec343022fa0889ce07048bc2619be7cdde3f6d15fa5"
+      "sha256": "48e6d24ab59b74b1fd1a2094d5839081fa4b0c372ebcfcfb055d97685bf2c464"
     },
     {
       "id": "lib_tib_tibbi_klassiki",
@@ -3979,7 +3979,7 @@
       ],
       "chunks": 2,
       "size_bytes": 620,
-      "sha256": "c1efcff9d62204d146cacc55820377d5c8a4d97b52d70be0d87fa7e76edce419"
+      "sha256": "99734c211e18117efbc6b4876f3c342afa8f1b8b439d3c958dc26586d4f009f0"
     },
     {
       "id": "lib_zabonhoi_khoriji",
@@ -4038,7 +4038,7 @@
       ],
       "chunks": 46,
       "size_bytes": 7052,
-      "sha256": "f5c3b3c3d71a6e85bce6d738e58dd78ffd1a5e833474de22279373714bed461a"
+      "sha256": "e2e503cffa49e03dd2f5a99ba79ef9f7067d9979fe67c4a4683f523f3a947478"
     },
     {
       "id": "lib_zabonshinosi",
@@ -4110,7 +4110,7 @@
       ],
       "chunks": 67,
       "size_bytes": 6161,
-      "sha256": "aa4cf9c2769c841300b9b7dbe702d02d9c1f93f364330aaf2c4117edc0a2b028"
+      "sha256": "758188600a1d58f77cae12c96535d830260ccc780863e1558740505ffe841012"
     },
     {
       "id": "lib_zhurnalistika",
@@ -4124,7 +4124,7 @@
       ],
       "chunks": 1,
       "size_bytes": 559,
-      "sha256": "6661ca16f4a26be18d08da4a38425efb64eda2df8eb5914231b31ea3ea58a9c4"
+      "sha256": "43c226023addb5729e8f3ca7095ccb745af3c8a1ef0eee58acaeb9fcf24c23ad"
     },
     {
       "id": "lib_zindaginoma",
@@ -4138,7 +4138,7 @@
       ],
       "chunks": 1,
       "size_bytes": 423,
-      "sha256": "97dde524fd584a72933481e6f4496d27f7164284ccc0327c6f6503a018ed0bba"
+      "sha256": "964641f8dddd90137517f402563e8d12239e08898bcbd24b405167a9f4f812ec"
     },
     {
       "id": "lib_zindaginoma_yoddosht",
@@ -4158,7 +4158,7 @@
       ],
       "chunks": 6,
       "size_bytes": 1369,
-      "sha256": "a9c8ee7484be9be47d0c7ac7f26bcfb82c51b2b1f1c3e63f55b721f2dc8851b3"
+      "sha256": "0952dadab319d605a90699d8500009c30be277a6eb52a0d9a44a279b1ab9fa33"
     },
     {
       "id": "poet_ayni",
@@ -4178,7 +4178,7 @@
       ],
       "chunks": 40,
       "size_bytes": 6634,
-      "sha256": "46321551a281cb3f65492228360b15fe2736f05841775d1deb56088380744be5"
+      "sha256": "55d4ee427fdda1cc55586a3c844c44a4b78b270ce9db0abe458fa2b59c8bdee8"
     },
     {
       "id": "poet_bedil",
@@ -4195,7 +4195,7 @@
       ],
       "chunks": 7,
       "size_bytes": 1370,
-      "sha256": "fc3f2c9b581a961c9d1451a0ee051609193d2c6aaa7b04a02601f44f0271e8d6"
+      "sha256": "994a87668ac31b32540e9dc6d6d7fd0d635fc1232692bd806a999038df6e9c6d"
     },
     {
       "id": "poet_bozor_sobir",
@@ -4214,7 +4214,7 @@
       ],
       "chunks": 8,
       "size_bytes": 1701,
-      "sha256": "b4320ebfe0c2fc0fed1c79240e41bebf62cb813042446262bad65ae36b263d05"
+      "sha256": "1b24e6fce6b29b210306541ff0b26edf901030c4a087b8223dfab96df6e675b7"
     },
     {
       "id": "poet_donish",
@@ -4231,7 +4231,7 @@
       ],
       "chunks": 4,
       "size_bytes": 900,
-      "sha256": "4ae3c972ea81189cc79765f0d0f0115263600bd0489339dafc9f9acef3217017"
+      "sha256": "162e773bbbe67ffff7f3415c360c8bfdf0baf34403951e8019c785090eea37b5"
     },
     {
       "id": "poet_farzona",
@@ -4250,7 +4250,7 @@
       ],
       "chunks": 4,
       "size_bytes": 967,
-      "sha256": "95df2c06d013b9377b1bbbdec287d494672d53d2a3229d3eaca15af07cc15227"
+      "sha256": "c73b180cdfed3193fe10011f493c3d918b7456c312ed7c1778d1abd72f88754a"
     },
     {
       "id": "poet_firdavsi",
@@ -4269,7 +4269,7 @@
       ],
       "chunks": 26,
       "size_bytes": 2106,
-      "sha256": "5518d2f33c261de4353d9e145fbea8da34250946a952a82cba1c04b5071b8336"
+      "sha256": "4c42004b66b73db1e32ba02c0157e8169bbd8cb5fd91f28a804bc6326feff24f"
     },
     {
       "id": "poet_gafurov",
@@ -4286,7 +4286,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2135,
-      "sha256": "1100b75a9710ef8a67d486d6f3d098de39b55f6443d7dd952d64b654f2e06a61"
+      "sha256": "58e4cc465499a36f37bfa3010796473c063d2bb5e7dd8baff4b156564d4d0fb4"
     },
     {
       "id": "poet_gulrukhsor",
@@ -4303,7 +4303,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1736,
-      "sha256": "085b697e80dfd57d8216a6e61eca19acc653dd56ebcbe04c11c884121bd27b92"
+      "sha256": "99ddb36cc6364f76f56a8edc6e24b65bc4fa22e01bdf1d6167a809147061cbd9"
     },
     {
       "id": "poet_hofiz",
@@ -4322,7 +4322,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1701,
-      "sha256": "1c5f67c9ead10d46aa955fce2c5778bc8f49ea3c29a82106a4d91425faea138a"
+      "sha256": "47204aee7031bf71a1adfbafe06bbd76d420569cc00f1467f7c0257090090053"
     },
     {
       "id": "poet_jomi",
@@ -4340,7 +4340,7 @@
       ],
       "chunks": 13,
       "size_bytes": 2187,
-      "sha256": "05d302547e98a9700a6c679d8a341ee4ad6091a1b005ab89c2e790771a1fec4d"
+      "sha256": "d155cd6fd86e6d1962047b930f5c73a42bb4dd23654c39d2bd3190d71098ca7d"
     },
     {
       "id": "poet_kamol",
@@ -4357,7 +4357,7 @@
       ],
       "chunks": 5,
       "size_bytes": 1070,
-      "sha256": "c4574538f1f2214d6d8bd776001a738943a89e2d92e5fb43455633790fdc628b"
+      "sha256": "b9473b915c3389a8a55f1596c0f5a6cba7b0b808b9dd5c5dc81661069ed57705"
     },
     {
       "id": "poet_khayyam",
@@ -4377,7 +4377,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1848,
-      "sha256": "70898afac11e6cd3cd46be4476ee2ae93626bcb9c2518da10aa2ee05ec4524a4"
+      "sha256": "56c1650127f2375e7efac48b3b23796a3a0af3a24ba934939fcb35a276da797e"
     },
     {
       "id": "poet_lohuti",
@@ -4394,7 +4394,7 @@
       ],
       "chunks": 2,
       "size_bytes": 684,
-      "sha256": "e8433753ea5468b59ba335b2ba43af7edf014a0def746be0c2ff52aa067125a8"
+      "sha256": "a7c75a23b2bd0c33de640741addf4187fbf2027a44f463729cc50b9e37b8b903"
     },
     {
       "id": "poet_loiq",
@@ -4412,7 +4412,7 @@
       ],
       "chunks": 13,
       "size_bytes": 2021,
-      "sha256": "9bc7091f3ca8751bcffe3025e627917a8a0a4c94e829380ab86a07ec54c252d4"
+      "sha256": "345d66d63d6a7269fad290288ea4eb2382cabe5b3208ba2477f6025aee9505db"
     },
     {
       "id": "poet_mavlavii_rumi",
@@ -4430,7 +4430,7 @@
       ],
       "chunks": 15,
       "size_bytes": 3330,
-      "sha256": "57dfa8b7314f40a3711781b324e7430ab109387c784076af62caeb865992720a"
+      "sha256": "1efdbd1b886d5759150c0b573c69a02b15aed3cf325583590ec50e839110b5c1"
     },
     {
       "id": "poet_nosiri_khusrav",
@@ -4448,7 +4448,7 @@
       ],
       "chunks": 14,
       "size_bytes": 2483,
-      "sha256": "42f93c13a329515a57caabfe9c12df694e5031b09ebb1e2cbcf18dabf42e690b"
+      "sha256": "9e8493b5ed75c85be317b526913f5e39a4f0b5ce2a934bf45c1855a25a7262e6"
     },
     {
       "id": "poet_rudaki",
@@ -4467,7 +4467,7 @@
       ],
       "chunks": 18,
       "size_bytes": 4167,
-      "sha256": "843c2d246c075659b6821a90f436655dfc0f05f47dc5ee6bdf49027975d4bf61"
+      "sha256": "b2675a7d564313eaf2392e10d28b9b37ff5623757fd202cd7678b8b8b6bddfb8"
     },
     {
       "id": "poet_saadi",
@@ -4486,7 +4486,7 @@
       ],
       "chunks": 20,
       "size_bytes": 4424,
-      "sha256": "826b4554865f2a98f6cb3109f1b96edd3538e61da0d2952571da96e6042f1785"
+      "sha256": "f071439cf6df1379d9642b69edbf782d407202bc313eb6647b4a978fce5ddf8a"
     },
     {
       "id": "poet_sayido",
@@ -4503,7 +4503,7 @@
       ],
       "chunks": 4,
       "size_bytes": 1008,
-      "sha256": "a593dfb5aea9b77aa8a3c127c1f29fc4f1638069ac1473e1e07772a056fcf56e"
+      "sha256": "b252a6b9a9b9ef0a36945b8841d13e99b3d61b63608e4cf09c28672fb2fec03d"
     },
     {
       "id": "poet_sino",
@@ -4523,7 +4523,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2207,
-      "sha256": "0d8a20210a2346b2b6769578353941e0a3479cb0269af98950ac8e65a9d33d92"
+      "sha256": "9888e1c480a1d1fd57772ce3e6238217d92ea2b06654e7b9859edc39b62e3471"
     },
     {
       "id": "poet_tursunzoda",
@@ -4542,7 +4542,7 @@
       ],
       "chunks": 9,
       "size_bytes": 2656,
-      "sha256": "e04b1fc3c8d56d8088565c735393fc668eea6bb42b5844df44631b70d28f9618"
+      "sha256": "93cc777d78f96bc018e5b4643a3966eecb2c00527442bd14e0eb665cdd727533"
     },
     {
       "id": "poet_zebunniso",
@@ -4559,7 +4559,7 @@
       ],
       "chunks": 3,
       "size_bytes": 762,
-      "sha256": "a1475c71ef0b2cb328943226954f8035c1be853d89b8ec247a5c2c2f4f29d67c"
+      "sha256": "16f7e32765569a9509035937e00e8d60df8243a1acdfbdf017bb71e244813503"
     },
     {
       "id": "president_calls",
@@ -4575,7 +4575,7 @@
       ],
       "chunks": 9,
       "size_bytes": 1578,
-      "sha256": "f38b6604551e737a231abb6ade0be19a58c0f551b5dab5c5720df0c22f1f587b"
+      "sha256": "ec026d8ae7493a666bcb4a49afc668d6a4b1a0814a0d53b361e5a411fc1e97d7"
     },
     {
       "id": "president_documents",
@@ -4591,7 +4591,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2626,
-      "sha256": "a7d05d2cf7e20cc514f3b7a90d564c52ce79a1c41faa27b7a39458d1cfc56972"
+      "sha256": "41517b076fe269c7c2b06412c19233842949a8c03801004171c43977056e26a3"
     },
     {
       "id": "president_meetings",
@@ -4607,7 +4607,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2225,
-      "sha256": "601a3daab9376e184e931df858bed174f07e8ab46a85a757e3aed32d24cc7022"
+      "sha256": "180a7d3f6cea12f53cff0fea5c752198c952195ef4e6aae70ad52c0cf811ec2e"
     },
     {
       "id": "president_missives",
@@ -4623,7 +4623,7 @@
       ],
       "chunks": 10,
       "size_bytes": 1301,
-      "sha256": "1f444874dca564d71e00e32c6ba423cba9c9340a208b3494ea10bef0870ad8a4"
+      "sha256": "79cd5587d830d422480bdd83c111f4dce5bf7e491d66ee1a5f3bddb0a2ec689d"
     },
     {
       "id": "president_news",
@@ -4639,7 +4639,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2102,
-      "sha256": "7025522c4c27585e31c3bf41e2556fa896b309a94494b0bc051927298a980c63"
+      "sha256": "852e02ff86f991bf0d7c6cd0edc1a897d0c740cbf3902544197cf7ddfe2ce5a8"
     },
     {
       "id": "president_speeches",
@@ -4655,7 +4655,7 @@
       ],
       "chunks": 12,
       "size_bytes": 1916,
-      "sha256": "c1dae88d0368a46a18c5d15b48897e1f78c130d0c359ffbe3c3a0175f67b426f"
+      "sha256": "81afc2d0039bc01fdc1d534a8eeef3c5943ab50b5a4db03ef0303b64d281cba5"
     },
     {
       "id": "president_telegrams",
@@ -4671,7 +4671,7 @@
       ],
       "chunks": 11,
       "size_bytes": 2089,
-      "sha256": "d1eb03bf9d55909ce62c9f1965c5cbe68076f905d4775e7b0865efae79dcb368"
+      "sha256": "fa0099170bebd67aa58a97f0bae90a326a5b6e366d5c63ef538b54f6b61532a4"
     },
     {
       "id": "president_trips",
@@ -4687,7 +4687,7 @@
       ],
       "chunks": 12,
       "size_bytes": 2078,
-      "sha256": "4a1d559aa6498918011405322906494baa1bf5be6aa2e7e7f27ac222da33bdab"
+      "sha256": "b2a46e44b5dd26a8968d9dad4cd50b2504e8c52e2b5ac6b066dbed2f965c227f"
     },
     {
       "id": "shero_ishq",
@@ -4707,7 +4707,7 @@
       ],
       "chunks": 30,
       "size_bytes": 16858,
-      "sha256": "e6738532c32c70ba6ee148964c59d1eb3c72082826d4bbd58273e1d6b96ceefe"
+      "sha256": "03f789b5783d5e3f5a4fd06378e6c734f93d92855a31cbaecbaa60e40f258166"
     },
     {
       "id": "shero_modar",
@@ -4727,7 +4727,7 @@
       ],
       "chunks": 34,
       "size_bytes": 19007,
-      "sha256": "cb21f26ff93f5d10ae51e66888eef469844efda348cc217d869b23da6a50149c"
+      "sha256": "51ed85d2bf4a4a30fdb33e87131cc56e7fbdd0450c03126c2dd3c467407f6d94"
     },
     {
       "id": "shero_navruz_bahor",
@@ -4746,7 +4746,7 @@
       ],
       "chunks": 6,
       "size_bytes": 4811,
-      "sha256": "d3595f027ddd06b5e62d7498ee891b93217fcf507b41d58f34e08bdc8e56b1c7"
+      "sha256": "c0b89e7ac833aa6b12b2cbd3c9fb0db1f0cfe210210fcc8d2c506fd2b518d65d"
     },
     {
       "id": "shero_pandu_akhloq",
@@ -4768,7 +4768,7 @@
       ],
       "chunks": 10,
       "size_bytes": 6671,
-      "sha256": "5ac96f6860371e478f13e96f0182baa6f2daba6e18e65bf44e5edf6d071c9ab1"
+      "sha256": "65729d1db742ed24df628fe74475f6c522cf0f2c9d3726a62a9b9f6c8a2cac10"
     },
     {
       "id": "shero_vatan_tojikiston",
@@ -4789,7 +4789,7 @@
       ],
       "chunks": 34,
       "size_bytes": 19037,
-      "sha256": "317ff4ebb4c8a0cc83adc22bf419a29b362b7cb462db28b091d59657b5629688"
+      "sha256": "6149b5b6540b4c51ec4fe969b0d07ee5e8b2f5639d1ee3b66beea4fdd8d67460"
     }
   ]
 }
