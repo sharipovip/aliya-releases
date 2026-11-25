@@ -1,34 +1,16 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 50,
-  "updated_at": "2026-11-24 21:57",
+  "latest_seq": 51,
+  "updated_at": "2026-11-25 06:15",
   "recent_links": [
     {
-      "seq": 48,
-      "prev_seq": 47,
-      "day": "2026-11-24",
-      "dushanbe_time": "2026-11-24 03:07",
-      "file": "2026-11-24/link_000048.json.gz",
-      "count": 69,
-      "size_bytes": 22724
-    },
-    {
-      "seq": 49,
-      "prev_seq": 48,
-      "day": "2026-11-24",
-      "dushanbe_time": "2026-11-24 10:58",
-      "file": "2026-11-24/link_000049.json.gz",
-      "count": 57,
-      "size_bytes": 18374
-    },
-    {
-      "seq": 50,
-      "prev_seq": 49,
-      "day": "2026-11-24",
-      "dushanbe_time": "2026-11-24 21:57",
-      "file": "2026-11-24/link_000050.json.gz",
-      "count": 81,
-      "size_bytes": 26074
+      "seq": 51,
+      "prev_seq": 50,
+      "day": "2026-11-25",
+      "dushanbe_time": "2026-11-25 06:15",
+      "file": "2026-11-25/link_000051.json.gz",
+      "count": 24,
+      "size_bytes": 6932
     }
   ],
   "daily_rollups": [
@@ -109,6 +91,12 @@
       "file": "daily/day_2026-11-23.json.gz",
       "count": 105,
       "size_bytes": 30669
+    },
+    {
+      "day": "2026-11-24",
+      "file": "daily/day_2026-11-24.json.gz",
+      "count": 207,
+      "size_bytes": 65541
     }
   ],
   "seen_uids": [
@@ -2307,6 +2295,30 @@
     "0e611115da4d8680",
     "4861b0ac8bd4fcff",
     "f8637ffed12b1df2",
-    "4764847e6a1b6a4d"
+    "4764847e6a1b6a4d",
+    "c774185429906264",
+    "38a4c027066fc8ca",
+    "fc4919713846ffe0",
+    "335f010d984026e4",
+    "17d63670fea381aa",
+    "81166d44f4bbc669",
+    "a79e7bfba9b6c9e5",
+    "f86ebd08e9efaa5b",
+    "1f891f90322e9adc",
+    "3b376edb5a6e2494",
+    "6cf28617a6d91ac6",
+    "8ad3330ab51a11c5",
+    "f7444d6260505820",
+    "e6358b826d79ae28",
+    "be0a64cdc9b5ee8f",
+    "f550b6f3f560c319",
+    "7901f09f28d5ab65",
+    "494ae24ef9117e2d",
+    "a4c7f27bfd9ee4e0",
+    "8d2a119ab896618b",
+    "836c76f3003bf4ec",
+    "b8fc7a8bd16fa9d5",
+    "c53452b6870d1fe1",
+    "88088f32c8e9bdbb"
   ]
 }
