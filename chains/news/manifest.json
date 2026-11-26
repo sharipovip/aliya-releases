@@ -1,34 +1,16 @@
 {
   "format": "aliya-news-chain-v1",
-  "latest_seq": 55,
-  "updated_at": "2026-11-26 16:14",
+  "latest_seq": 56,
+  "updated_at": "2026-11-27 01:11",
   "recent_links": [
     {
-      "seq": 53,
-      "prev_seq": 52,
-      "day": "2026-11-26",
-      "dushanbe_time": "2026-11-26 00:40",
-      "file": "2026-11-26/link_000053.json.gz",
-      "count": 68,
-      "size_bytes": 22594
-    },
-    {
-      "seq": 54,
-      "prev_seq": 53,
-      "day": "2026-11-26",
-      "dushanbe_time": "2026-11-26 07:26",
-      "file": "2026-11-26/link_000054.json.gz",
-      "count": 21,
-      "size_bytes": 5749
-    },
-    {
-      "seq": 55,
-      "prev_seq": 54,
-      "day": "2026-11-26",
-      "dushanbe_time": "2026-11-26 16:14",
-      "file": "2026-11-26/link_000055.json.gz",
-      "count": 71,
-      "size_bytes": 23874
+      "seq": 56,
+      "prev_seq": 55,
+      "day": "2026-11-27",
+      "dushanbe_time": "2026-11-27 01:11",
+      "file": "2026-11-27/link_000056.json.gz",
+      "count": 34,
+      "size_bytes": 10916
     }
   ],
   "daily_rollups": [
@@ -121,6 +103,12 @@
       "file": "daily/day_2026-11-25.json.gz",
       "count": 90,
       "size_bytes": 27007
+    },
+    {
+      "day": "2026-11-26",
+      "file": "daily/day_2026-11-26.json.gz",
+      "count": 160,
+      "size_bytes": 50675
     }
   ],
   "seen_uids": [
@@ -2569,6 +2557,40 @@
     "ebcc25b0961b39e5",
     "fc05383da17a011d",
     "a193e8d91a44d618",
-    "c9aa1f8e7fd75e41"
+    "c9aa1f8e7fd75e41",
+    "577ff9b23baa6612",
+    "2a9e7b5ad38c8940",
+    "736d51d8a02cdc17",
+    "0fbe2e525cf8d8e1",
+    "5f57728e87a8acd3",
+    "a6d071240a0e8c16",
+    "16488c6446430c02",
+    "5d7125bfe54cc944",
+    "72bbf148729e7d4e",
+    "ac75c75d3956581c",
+    "6339c1f06faffa90",
+    "18ae1fa294267a40",
+    "c99479fea986dec4",
+    "02520a605d6d807b",
+    "50ec38ea7bc078ba",
+    "af41796d49f86d09",
+    "80766906fcf73a21",
+    "bede4ff4eb9830fa",
+    "15e37bd5f9829e48",
+    "0e1d41984f2bf416",
+    "19615509350255dc",
+    "fe66e8f58d6d245b",
+    "f94dcf10d6b92856",
+    "e81180ed62b5aa39",
+    "4149617b8ddaa9f7",
+    "d6e6f454010d6659",
+    "3221370d3a1dfd18",
+    "c6c7f5b436cd4586",
+    "47645b15fba086eb",
+    "a4f917245699bcf6",
+    "bc38dd3db8ba70e7",
+    "c7ae0ccaab143448",
+    "60ba73504c49046a",
+    "b590ae122c80bcfb"
   ]
 }
